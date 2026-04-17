@@ -1,0 +1,105 @@
+## **Text Normalization Cases**
+
+### **Numbers**
+
+* Integer
+* Decimal
+* Ordinal Number
+* Number Range
+* Phone Number / Account Number
+* Year
+
+---
+
+### **Date & Time**
+
+* Date
+* Time
+* Day of Week
+* Quarter / Roman Numeral Date
+
+---
+
+### **Units of Measurement**
+
+* Length Unit
+* Weight Unit
+* Speed Unit
+* Temperature Unit
+* General Measurement Unit
+
+---
+
+### **Abbreviations**
+
+* General Abbreviation
+* Academic Title
+* Organization Acronym
+
+---
+
+### **Proper Nouns**
+
+* Person Name
+* Location Name
+* Organization Name
+* Brand Name
+* Technical Term / Foreign Proper Noun
+
+---
+
+### **Foreign Words**
+
+* Loanword
+* English Word
+* Mixed-language Token
+
+---
+
+### **Punctuation**
+
+* Period
+* Comma
+* Question Mark
+* Exclamation Mark
+* Colon
+* Semicolon
+* Ellipsis
+
+---
+
+### **Sentence Length**
+
+* Short Sentence
+* Medium Sentence
+* Long Sentence
+
+---
+
+### **Special Symbols**
+
+* Percentage Symbol
+* Currency Symbol
+* At Symbol
+* Hashtag
+* Slash
+* Plus Sign
+* Equals Sign
+
+---
+
+### **URL, Email, Code**
+
+* URL
+* Email Address
+* Identifier / Code
+
+---
+
+### **Grammatical Types**
+
+* Interrogative Sentence
+* Declarative Sentence
+* Exclamatory Sentence
+* Imperative Sentence
+* Dialogue

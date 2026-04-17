@@ -1,0 +1,35 @@
+1. Dấu kết thúc câu
+. (dấu chấm, period) → kết thúc câu trần thuật
+? (dấu hỏi, question mark) → câu hỏi
+! (dấu chấm than, exclamation mark) → cảm xúc mạnh, mệnh lệnh
+
+
+2. Dấu ngắt câu / phân tách
+, (dấu phẩy, comma) → ngắt ý nhỏ trong câu
+; (dấu chấm phẩy, semicolon) → ngắt mạnh hơn dấu phẩy, nhẹ hơn dấu chấm
+: (dấu hai chấm, colon) → giới thiệu giải thích, liệt kê
+
+
+3. Dấu trích dẫn & nhấn mạnh
+" " (dấu ngoặc kép, quotation marks) → trích dẫn lời nói, văn bản
+' ' (dấu nháy đơn, quotation marks) → trích dẫn trong trích dẫn hoặc nghĩa đặc biệt
+*** (dấu sao, asterisk) → nhấn mạnh (thường trong chat/informal)
+
+
+4. Dấu ngoặc
+( ) (ngoặc đơn, parentheses) → bổ sung thông tin
+[ ] (ngoặc vuông, brackets) → chú thích thêm, chỉnh sửa trong trích dẫn
+{ } (ngoặc nhọn, braces) → ít dùng trong văn bản thường (hay dùng trong code)
+
+
+5. Dấu nối & rút gọn
+- (gạch nối / hyphen) → nối từ
+– / — (dash) → ngắt ý, thêm thông tin
+' (apostrophe) → rút gọn (don’t, it’s), sở hữu
+
+
+6. Dấu khác
+… (dấu ba chấm) → bỏ lửng, ngập ngừng
+/ (slash) → hoặc (and/or)
+@, #, & → thường dùng trong mạng xã hội / văn bản đặc biệt
+

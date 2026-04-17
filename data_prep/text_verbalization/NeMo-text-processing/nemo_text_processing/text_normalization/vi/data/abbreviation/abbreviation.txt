@@ -1,0 +1,3562 @@
+ADCNSXSH | Áp dụng công nghệ sản xuất sạch hơn
+AHLLVT | Anh hùng lực lượng vũ trang
+AHLLVTND | Anh hùng lực lượng vũ trang nhân dân
+AHLS | Anh hùng liệt sĩ
+AHLĐ | Anh hùng lao động
+ANND | An ninh nhân dân
+ANQG | An ninh quốc gia
+ANQP | An ninh quốc phòng
+ANTG | An ninh thế giới
+ANTQ | An ninh tổ quốc
+ANTT | An ninh trật tự
+ANTTVH | An ninh tư tưởng văn hóa
+ANTĐ | An ninh thủ đô
+ANVH | An ninh văn hóa
+ANĐT | An ninh điều tra
+ASXH | An sinh xã hội
+ATBXHN | An toàn bức xạ hạt nhân
+ATGT | An toàn giao thông
+ATGTQG | An toàn giao thông quốc gia
+ATKT | An toàn kỹ thuật
+ATLĐ | An toàn lao động
+ATNĐ | Áp thấp nhiệt đới
+ATTP | An toàn thực phẩm
+ATVS | An toàn vệ sinh
+ATVSLĐ | An toàn vệ sinh lao động
+ATVSTP | An toàn vệ sinh thực phẩm
+ATVSV | An toàn vệ sinh viên
+ATĐB | An toàn đường bộ
+BACN | Bữa ăn công nghiệp
+BBCVT | Bộ bưu chính viễn thông
+BBN | Bờ biển ngà
+BBT | Ban biên tập
+BBVT | Bến bãi vận tãi
+BBĐ | Báo bóng đá
+BCBB | Bóng chuyền bãi biển
+BCH | Ban chấp hành
+BCHBP | Bộ chỉ huy biên phòng
+BCHCĐ | Ban chấp hành công đoàn
+BCHCĐCS | Ban chấp hành công đoàn cơ sở
+BCHPCLB | Ban chỉ huy phòng chống lụt bão
+BCHQS | Ban chỉ huy quân sự
+BCHQSTP | Bộ chỉ huy quân sự thành phố
+BCHT | Ban chấp hành trung
+BCHTLĐ | Ban chấp hành tổng liên đoàn
+BCHTW | Ban chấp hành trung ương
+BCHTƯ | Ban chấp hành trung ương
+BCKT | Báo cáo kiểm toán
+BCN | Bộ công nghiệp
+BCNCKT | Báo cáo nghiên cứu khả thi
+BCNĐA | Ban chủ nhiệm đề án
+BCS | Bao cao su
+BCSĐ | Ban cán sự đảng
+BCTC | Báo cáo tài chính
+BCTT | Báo chí tuyên truyền
+BCVN | Bưu chính việt nam
+BCVT | Bưu chính viễn thông
+BCVTVN | Bưu chính viễn thông việt nam
+BCĐ | Ban chỉ đạo
+BCĐPCLB | Ban chỉ đạo phòng chống lụt bão
+BCĐQG | Ban chỉ đạo quốc gia
+BCĐT | Ban chỉ đạo trung
+BCĐTP | Ban chỉ đạo tiền phương
+BCĐTS | Ban chỉ đạo tuyển sinh
+BCĐĐMĐH | Ban chỉ đạo đổi mới đại học
+BD | Bình dương
+BDCBYT | Bồi dưỡng cán bộ y tế
+BDCM | Bán đảo cà mau
+BDCT | Bồi dưỡng chính trị
+BDD | Ban đại diện
+BDVHX | Bưu điện văn hóa xã
+BDVN | Bóng đá việt nam
+BGD | Bộ giáo dục
+BGH | Ban giám hiệu
+BGK | Ban giám khảo
+BGTVT | Bộ giao thông vận tải
+BGĐ | Ban giám đốc
+BHGĐ | Bạo hành gia đình
+BHHS | Bảo hiểm học sinh
+BHL | Ban huấn luyện
+BHLĐ | Bảo hộ lao động
+BHMMTT | Bộ hòa mạng mới trả trước
+BHNN | Bảo hiểm nông nghiệp
+BHNT | Bảo hiểm nhân thọ
+BHR | Bán hàng rong
+BHS | Bàn học sinh
+BHTG | Bảo hiểm tiền gởi
+BHTN | Bảo hiểm thất nghiệp
+BHTT | Bán hàng trực tiếp
+BHTY | Bài hát tôi yêu
+BHV | Bài hát việt
+BHVN | Bảo hiểm việt nam
+BHX | Bông hồng xanh
+BHXH | Bảo hiểm xã hội
+BHXHTN | Bảo hiểm xã hội tự nguyện
+BHXHVN | Bảo hiểm xã hội việt nam
+BHYT | Bảo hiểm y tế
+BHYTTD | Bảo hiểm y tế toàn dân
+BHYTTN | Bảo hiểm y tế tự nguyện
+BK | Bán kết
+BKH | Bộ kế hoạch
+BKHCN | Bộ khoa học công nghệ
+BKHN | Bách khoa hà nội
+BKHĐT | Bộ kế hoạch đầu tư
+BKL | Ban kỉ luật
+BKS | Ban kiểm soát
+BKT | Ban kỉ thuật
+BKVN | Bách khoa việt nam
+BL | Bộ luật
+BLDS | Bộ luật dân sự
+BLGĐ | Bạo lực gia đình
+BLHS | Bộ luật hình sự
+BLL | Ban liên lạc
+BLLĐ | Bộ luật lao động
+BLTGĐ | Bạo lực trong gia đình
+BLTL | Buôn lậu thuốc lá
+BLTTHS | Bộ luật tố tụng hình sự
+BLV | Bình luận viên
+BLX | Bằng lái xe
+BLĐ | Bộ lao động
+BLĐMNV | Bệnh lý động mạch ngoại vi
+BLĐTB | Bộ lao động thương binh
+BLĐTBXH | Bộ lao động thương binh xã hội
+BMSL | Bom mìn sót lại
+BMTE | Bà mẹ trẻ em
+BMTK | Bộ máy tìm kiếm
+BMVNAH | Bà mẹ việt nam anh hùng
+BMX | Bô môn xe
+BNG | Bộ ngoại giao
+BNN | Bộ nông nghiệp
+BNSR | Bệnh nhân sốt rét
+BNV | Bộ nội vụ
+BPCK | Biên phòng cửa khẩu
+BQBĐ | Bản quyền bóng đá
+BQL | Ban quản lý
+BQLC | Ban quản lý chợ
+BQLDA | Ban quản lý dự án
+BQLDACTCC | Ban quản lý dự án công trình công cộng
+BQLDATL | Ban quản lý dự án thủy lợi
+BQLDATĐ | Ban quản lý dự án thủy điện
+BQLDL | Ban quản lý du lịch
+BQLKCNC | Ban quản lý khu công nghệ cao
+BQLKCX | Ban quản lý khu chế xuất
+BQLKDL | Ban quản lý khu du lịch
+BQLR | Ban quản lý rừng
+BQLRPH | Ban quản lý rừng phòng hộ
+BQLRPHĐN | Ban quản lý rừng phòng hộ đầu nguồn
+BQLRĐD | Ban quản lý rừng đặc dụng
+BQLSC | Ban quản lý suối cá
+BQP | Bộ quốc phòng
+BQPM | Bản quyền phần mềm
+BQT | Ban quản trị
+BQTG | Bản quyền tác giả
+BQTH | Bản quyền truyền hình
+BQĐ | Bao qui đầu
+BR-VT | Bà rịa vũn tàu
+BRDĐ | Băng rộng di động
+BRVN | Bóng rổ việt nam
+BRVT | Bà rịa vũng tàu
+BSGĐ | Bác sĩ gia đình
+BST | Bộ sưu tập
+BTBG | Bất tăng bất giảm
+BTBNN | Bảo trợ bệnh nhân nghèo
+BTC | Bộ tài chính
+BTCCBCP | Ban tổ chức cán bộ chính phủ
+BTCN | Bảng tra chữ nôm
+BTCT | Bê tông cốt thép
+BTDT | Bảo tàng dân tộc
+BTDTCĐ | Bảo tồn di tích cố đô
+BTGPMB | Bồi thường giải phóng mặt bằng
+BTGĐ | Ban tổng giám đốc
+BTK | Ban thư ký
+BTL | Bộ tư lệnh
+BTLSQG | Bảo tàng lịch sử quốc gia
+BTLSTN | Bảo tàng lịch sử tự nhiên
+BTM | Bộ thương mại
+BTNMT | Bộ tài nguyên môi trường
+BTP | Bộ tư pháp
+BTQĐ | Bảo tàng quân đội
+BTTEVN | Bảo trợ trẻ em việt nam
+BTTH | Bồi thường thiệt hại
+BTTHPT | Bổ túc trung học phổ thông
+BTTN | Bảo tồn thiên nhiên
+BTTNVN | Bảo tàng thiên nhiên việt nam
+BTTP | Bổ trợ tư pháp
+BTTT | Bảo tàng tuổi trẻ
+BTTU | Bí thư thành uỷ
+BTV | Biên tập viên
+BTVC | Bàn tròn văn chương
+BTVH | Bổ túc văn hóa
+BTX | Bùi thị xuân
+BTXH | Bảo trợ xã hội
+BTĐ | Bình trưng đông
+BTĐKCP | Bảo tàng điêu khắc chăm pa
+BTĐUK | Bí thư đảng ủy khối
+BV | Bệnh viện
+BVBM | Bệnh viện bạch mai
+BVBMTE | Bảo vệ bà mẹ trẻ em
+BVBĐ | Bệnh viện bưu điện
+BVCCTV | Bệnh viện cấp cứu trưng vương
+BVCR | Bệnh viện chợ rẫy
+BVCSTE | Bảo vệ chăm sóc trẻ em
+BVH | Bộ văn hóa
+BVHTT | Bộ văn hóa thông tin
+BVKV | Bệnh viện khu vực
+BVKVTH | Bệnh viện khu vực triệu hải
+BVLĐ | Bảo vệ lao động
+BVM | Bệnh viện mắt
+BVMP | Bệnh viện miễn phí
+BVMT | Bảo vệ môi trường
+BVMTVN | Bảo vệ môi trường việt nam
+BVNLTS | Bảo vệ nguồn lợi thủy sản
+BVNTD | Bảo vệ người tiêu dùng
+BVNTDVN | Bảo vệ người tiêu dùng việt nam
+BVNĐ | Bệnh viện nhi đồng
+BVPL | Bảo vệ pháp luật
+BVPSQTSG | Bệnh viện phụ sản quốc tế sài gòn
+BVQLNTD | Bảo vệ quyền lợi người tiêu dùng
+BVQS | Bảo vệ quân sự
+BVT | Bàn vi tính
+BVTMHH | Bệnh viện truyền máu huyết học
+BVTNMT | Bảo vệ thiên nhiên môi trường
+BVTV | Bảo vệ thực vật
+BVTVAG | Bảo vệ thực vật an giang
+BVTVSG | Bảo vệ thực vật sài gòn
+BVTƯ | Bệnh viện trung ương
+BVVP | Bệnh viện việt pháp
+BVYHCTHN | Bệnh viện y học cổ truyền hà nội
+BVĐ | Ban vận động
+BVĐHYD | Bệnh viện đại học y dược
+BVĐK | Bệnh viện đa khoa
+BVĐKBN | Bệnh viện đa khoa bắc ninh
+BVĐKBĐ | Bệnh viện đa khoa bình định
+BVĐKHB | Bệnh viện đa khoa hòa bình
+BVĐKHY | Bệnh viện đa khoa hưng yên
+BVĐKT | Bệnh viện đa khoa tỉnh
+BVĐKTB | Bệnh viện đa khoa thái bình
+BVĐKTƯ | Bệnh viện đa khoa trung ương
+BX | Bến xe
+BXCL | Bến xe chợ lớn
+BXD | Bộ xây dựng
+BXH | Bảng xếp hạng
+BXL | Bộ xử lý
+BXMT | Bến xe miền tây
+BXMĐ | Bến xe miền đông
+BXĐT | Bức xạ điện từ
+BYT | Bộ y tế
+BĐ | Bưu điện
+BĐATHH | Bảo đảm an toàn hàng hải
+BĐBB | Bóng đá bãi biển
+BĐBL | Bưu điện bạc liêu
+BĐBP | Bộ đội biên phòng
+BĐCN | Bóng đá chuyên nghiệp
+BĐCTM | Ba đỉnh cao thơ mới
+BĐD | Ban đại diện
+BĐG | Bán đấu giá
+BĐH | Ban điều hành
+BĐHDA | Ban điều hành dự án
+BĐHN | Bưu điện hà nội
+BĐI | Báo động i
+BĐKH | Biến đổi khí hậu
+BĐL | Bản điều lệ
+BĐLA | Bình điền long an
+BĐM | Bùi đức minh
+BĐN | Bồ đào nha
+BĐS | Bất động sản
+BĐT | Bất đẳng thức
+BĐTN | Bóng đá trong nhà
+BĐTP | Bưu điện thành phố
+BĐTS | Bộ đội trồng sắn
+BĐVH | Bưu điện văn hóa
+BĐVHX | Bưu điện văn hóa xã
+BĐVN | Bưu điện việt nam
+BĐĐ | Bạch đằng đông
+CAHN | Công an hà nội
+CAHP | Công an hải phòng
+CAKH | Công an khánh hòa
+CAND | Công an nhân dân
+CAPĐV | Công an phường đông vệ
+CATP | Công an thành phố
+CATPHCM | Công an thành phố hồ chí minh
+CATPĐN | Công an thành phố đà nẵng
+CATX | Công an thị xã
+CB | Cán bộ
+CBCC | Cán bộ công chức
+CBCCVC | Cán bộ công chức viên chức
+CBCN | Cán bộ công nhân
+CBCNLĐ | Cán bộ công nhân lao động
+CBCNV | Cán bộ công nhân viên
+CBCNVC | Cán bộ công nhân viên chức
+CBCĐ | Cán bộ công đoàn
+CBGV | Cán bộ giáo viên
+CBNLS | Chế biến nông lâm sản
+CBNV | Cán bộ nhân viên
+CBNĐ | Các bệnh nhiệt đới
+CBPG | Chống bán phá giá
+CBQ | Cục bản quyền
+CBQL | Cán bộ quản lý
+CBQLGD | Cán bộ quản lý giáo dục
+CBSK | Cảnh báo sức khỏe
+CBTBS | Chế biến tinh bột sắn
+CBTC | Công bố tiêu chuẩn
+CBTP | Chế biến thực phẩm
+CBTS | Chế biến thủy sản
+CBTSXK | Chế biến thủy sản xuất khẩu
+CBVC | Cán bộ viên chức
+CBXH | Công bằng xã hội
+CBYT | Cán bộ y tế
+CBĐ | Cán bộ đảng
+CBĐV | Cán bộ đảng viên
+CCBVN | Cựu chiến binh việt nam
+CCBVNLTS | Chi cục bảo vệ nguồn lợi thủy sản
+CCBĐ | Cá cược bóng đá
+CCC | Chuyên cung cấp
+CCCP | Căn cước can phạm
+CCDV | Cung cấp dịch vụ
+CCGD | Cải cách giáo dục
+CCHC | Cải cách hành chính
+CCHK | Cụm cảng hàng không
+CCHKMT | Cụm cảng hàng không miền trung
+CCHKSBMT | Cụm cảng hàng không sân bay miền trung
+CCMN | Cuộc cách mạng nhung
+CCNN | Chứng chỉ ngoại ngữ
+CCPĐ | Câu chuyện pháp đình
+CCQ | Chứng chỉ quỹ
+CCQLCL | Chi cục quản lý chất lượng
+CCQLTS | Chi cục quản lý thủy sản
+CCQLTT | Chi cục quản lý thị trường
+CCQLTTHP | Chi cục quản lý thị trường hải phòng
+CCRĐ | Cải cách ruộng đất
+CCS | Chứng chỉ số
+CCTC | Công cụ tài chính
+CCTCĐLCL | Chi cục tiêu chuẩn đo lường chất lượng
+CCTG | Chứng chỉ tiền gởi
+CCTH | Cấp cứu tổng hợp
+CCTN | Cồng chiêng tây nguyên
+CCTP | Cải cách tư pháp
+CCTT | Công cụ thiên tài
+CCTY | Câu chuyện tình yêu
+CCVC | Công chức viên chức
+CCĐSPN | Chi cục đường sông phía nam
+CDAT | Cộng đồng an toàn
+CDDC | Chất độc da cam
+CDDL | Chỉ dẫn địa lý
+CDGSNN | Chức danh giáo sư nhà nước
+CDL | Cơ điện lạnh
+CGC | Cúm gia cầm
+CGCN | Chuyển giao công nghệ
+CGQSDĐ | Chuyển giao quyền sử dụng đất
+CGĐ | Cục giám định
+CGĐQLCL | Cục giám định quản lý chất lượng
+CH | Cộng hòa
+CHBP | Chỉ huy biên phòng
+CHCC | Căn hộ chung cư
+CHCN | Cứu hộ cứu nạn
+CHDC | Cộng hòa dân chủ
+CHDCND | Cộng hòa dân chủ nhân dân
+CHHMH | Chỉnh hình họng màn hầu
+CHKT | Cao học kinh tế
+CHLB | Cộng hòa liên bang
+CHLBĐ | Cộng hòa liên bang đức
+CHND | Cộng hòa nhân dân
+CHPCLB | Chỉ huy phòng chống lụt bão
+CHQS | Chỉ huy quân sự
+CHRM | Chỉnh hình răng mặt
+CHTW | Chấp hành trung ương
+CHXH | Cộng hòa xã hội
+CHXHCN | Cộng hòa xã hội chủ nghĩa
+CHXHCNVN | Cộng hòa xã hội chủ nghĩa việt nam
+CK | Chung kết
+CKNN | Chứng khoán nhà nước
+CKTT | Chiết khấu thanh toán
+CKVN | Chứng khoán việt nam
+CKXD | Cơ khí xây dựng
+CLB | Câu lạc bộ
+CLBBĐ | Câu lạc bộ bóng đá
+CLBHK | Câu lạc bộ hàng không
+CLBPN | Câu lạc bộ phụ nữ
+CLBQĐ | Câu lạc bộ quân đội
+CLBTP | Câu lạc bộ tiếng pháp
+CLC | Chất lượng cao
+CLGD | Chất lượng giáo dục
+CLK | Chất lượng kém
+CLQG | Chiến lược quốc gia
+CLSPHH | Chất lượng sản phẩm hàng hóa
+CLX | Cù lao xanh
+CMHS | Cha mẹ học sinh
+CMLT | Cách mạng lâm thời
+CMN | Ca múa nhạc
+CMND | Chứng minh nhân dân
+CMTM | Cách mạng tháng mười
+CMTND | Chứng minh thư nhân dân
+CMTT | Cách mạng tháng tám
+CMVH | Cách mạng văn hóa
+CMĐSDĐ | Chuyển mục đích sử dụng đất
+CNBCVT | Công nghệ bưu chính viễn thông
+CNC | Công nghệ cao
+CNCKSG | Công nghiệp cơ khí sài gòn
+CNCL | Công nghiệp chủ lực
+CNCĐ | Công nhân cơ điện
+CNDVĐT | Công nghiệp dịch vụ đô thị
+CNG | Công nhân giỏi
+CNGC | Công nghiệp gia công
+CNH | Công nghiệp hóa
+CNKT | Công nhân kỹ thuật
+CNLĐ | Công nhân lao động
+CNNHCSXH | Chi nhánh ngân hàng chính sách xã hội
+CNNT | Công nghiệp nông thôn
+CNPM | Công nghệ phần mềm
+CNQG | Chính nghĩa quốc gia
+CNQP | Công nghiệp quốc phòng
+CNQSD | Chứng nhận quyền sử dụng
+CNQSDĐ | Chứng nhận quyền sử dụng đất
+CNQSHĐ | Chứng nhận quyền sở hữu đất
+CNSH | Công nghệ sinh học
+CNTB | Chủ nghĩa tư bản
+CNTD | Chuyển nhượng tự do
+CNTN | Cử nhân tài năng
+CNTT | Công nghệ thông tin
+CNTTVN | Công nghiệp tàu thủy việt nam
+CNV | Công nhân viên
+CNVC | Công nhân viên chức
+CNVCLĐ | Công nhân viên chức lao động
+CNVL | Công nghệ vật liệu
+CNVN | Công nhân việt nam
+CNVQP | Công nhân viên quốc phòng
+CNVT | Công nghệ vũ trụ
+CNXH | Chủ nghĩa xã hội
+CPBV | Cổ phiếu bảo việt
+CPBVTV | Cổ phần bảo vệ thực vật
+CPBXKTN | Công ty cổ phần bến xe khách tây ninh
+CPBĐ | Cổ phần bóng đá
+CPBĐPNRĐ | Cổ phần bóng đèn phích nước rạng đông
+CPCK | Cổ phần chứng khoán
+CPCKXD | Cổ phần cơ khí xây dựng
+CPCMVNTD | Chính phủ cách mạng việt nam tự do
+CPDMNT | Cổ phần dệt may nha trang
+CPDNT | Cổ phần doanh nghiệp trẻ
+CPDVBV | Cổ phần dịch vụ bảo vệ
+CPDVDL | Cổ phần dịch vụ du lịch
+CPDVDLĐL | Cổ phần dịch vụ du lịch đà lạt
+CPH | Cổ phần hóa
+CPHH | Cổ phần hàng hải
+CPHT | Cà phê hòa tan
+CPITN | Cổ phần in thái nguyên
+CPKSPT | Cổ phần khách sạn phan thiết
+CPKTXD | Cổ phần kiến trúc xây dựng
+CPN | Chuyển phát nhanh
+CPPTCN | Cổ phần phát triển công nghệ
+CPPTNN | Cổ phần phát triển nông nghiệp
+CPQT | Công pháp quốc tế
+CPSH | Chế phẩm sinh học
+CPTB | Cổ phần thiết bị
+CPTBD | Cổ phần thái bình dương
+CPTCCG | Cổ phần thi công cơ giới
+CPTM | Cổ phần thương mại
+CPTMMN | Cổ phần thương mại miền núi
+CPTN | Cà phê trung nguyên
+CPTP | Cầu phà thành phố
+CPTS | Cổ phần thủy sản
+CPTVXDVCN | Cổ phần tư vấn xây dựng và công nghệ
+CPTĐ | Cổ phần thủy điện
+CPVT | Cổ phần vận tải
+CPXD | Cổ phần xây dựng
+CPXDCT | Cổ phần xây dựng công trình
+CPXDCTGT | Cổ phần xây dựng công trình giao thông
+CPXDLS | Cổ phần xây dựng lạng sơn
+CPXL | Cổ phần xây lắp
+CPXNK | Cổ phần xuất nhập khẩu
+CPĐOSG | Cổ phần địa ốc sài gòn
+CPĐT | Chính phủ điện tử
+CPĐTPT | Cổ phần đầu tư phát triển
+CPĐTTM | Cổ phần đầu tư thương mại
+CPĐTXD | Cổ phần đầu tư xây dựng
+CPƯĐ | Cổ phần ưu đãi
+CQ | Cơ quan
+CQCA | Cơ quan công an
+CQCSĐT | Cơ quan cảnh sát điều tra
+CQLD | Cục quản lý dược
+CQLG | Cục quản lý giá
+CQNN | Cơ quan nhà nước
+CQSDĐ | Chuyển quyền sử dụng đất
+CQĐD | Cơ quan đại diện
+CQĐT | Cơ quan điều tra
+CQĐV | Cơ quan đơn vị
+CSBV | Cảnh sát bảo vệ
+CSBVN | Cảnh sát biển việt nam
+CSCC | Chiếu sáng công cộng
+CSCN | Chữ số có nghĩa
+CSCĐ | Cảnh sát cơ động
+CSDL | Cơ sở dữ liệu
+CSDN | Cơ sở doanh nghiệp
+CSG | Cáp sài gòn
+CSGD | Cơ sở giáo dục
+CSGMGC | Cơ sở giết mổ gia cầm
+CSGT | Cảnh sát giao thông
+CSGTTT | Cảnh sát giao thông trật tự
+CSGTĐT | Cảnh sát giao thông đường thủy
+CSHCM | Cộng sản hồ chí minh
+CSHS | Cảnh sát hình sự
+CSHSĐN | Cảnh sát hình sự đặc nhiệm
+CSHT | Cơ sở hạ tầng
+CSKD | Cơ sở kinh doanh
+CSKDCD | Cơ sở kinh doanh cấp dưỡng
+CSKH | Chăm sóc khách hàng
+CSKT | Cảnh sát kinh tế
+CSKTXH | Chính sách kinh tế xã hội
+CSKV | Cảnh sát khu vực
+CSMT | Cảnh sát môi trường
+CSND | Cảnh sát nhân dân
+CSPCCC | Cảnh sát phòng cháy chữa cháy
+CSPCMT | Cảnh sát phòng chống ma túy
+CSQLHC | Cảnh sát quản lý hành chính
+CSSK | Chăm sóc sức khỏe
+CSSX | Cơ sở sản xuất
+CSSXNT | Cơ sở sản xuất nước tương
+CSTE | Chăm sóc trẻ em
+CSTHN | Chung sống trước hôn nhân
+CSTN | Cao su thiên nhiên
+CSTP | Cảnh sát tư pháp
+CSTQ | Cộng sản trung quốc
+CSTT | Chính sách tiền tệ
+CSTĐ | Cao su tiểu điền
+CSVC | Cơ sở vật chất
+CSVL | Cao su việt lào
+CSVN | Cộng sản việt nam
+CSX | Cụm sản xuất
+CSXH | Chính sách xã hội
+CSXK | Cao sản xuất khẩu
+CSĐ | Chỉ số điện
+CSĐN | Cảnh sát đặc nhiệm
+CSĐT | Cảnh sát điều tra
+CSĐTBT | Cảnh sát điều tra bình thuận
+CSĐTPN | Cảnh sát điều tra phía nam
+CSĐTTP | Cảnh sát điều tra tội phạm
+CSĐTTPMT | Cảnh sát điều tra tội phạm ma túy
+CSĐTTPQLKT | Cảnh sát điều tra tội phạm quản lý kinh tế
+CSĐTTPTTXH | Cảnh sát điều tra tội phạm trật tự xã hội
+CSĐTTPVMT | Cảnh sát điều tra tội phạm về ma túy
+CT | Chương trình
+CTBT | Chế tạo biến thế
+CTC | Cổ tử cung
+CTCH | Chấn thương chỉnh hình
+CTCK | Công ty chứng khoán
+CTCLQG | Chương trình chống lao quốc gia
+CTCP | Công ty cổ phần
+CTCPNB | Công ty cổ phần nam bộ
+CTCPXNKLT | Công ty cổ phần xuất nhập khẩu lương thực
+CTCS | Công ty cao su
+CTDCVL | Cụm tuyến dân cư vùng lũ
+CTGD | Chương trình giáo dục
+CTGLVH | Chương trình giao lưu văn hóa
+CTGT | Công trình giao thông
+CTGTCC | Công trình giao thông công chính
+CTGĐ | Công tác gia đình
+CTH | Cách thực hiện
+CTHCQG | Chính trị hành chính quốc gia
+CTHCQGHCM | Chính trị hành chính quốc gia hồ chí minh
+CTHĐQT | Chủ tịch hội đồng quản trị
+CTKB | Cho thuê kho bãi
+CTKH | Chu trình kết hợp
+CTKT | Cấu tạo kiến trúc
+CTLT | Chiến tranh lãnh thổ
+CTMT | Cấu trúc máy tính
+CTNH | Chất thải nguy hại
+CTNHN | Cung thiếu nhi hà nội
+CTPB | Chương trình phân ban
+CTPH | Chương trình phối hợp
+CTQG | Chính trị quốc gia
+CTQS | Chính trị quân sự
+CTSN | Chấn thương sọ não
+CTTCMR | Chương trình tiêm chủng mở rộng
+CTTETTVN | Cứu trợ trẻ em tàn tật việt nam
+CTTG | Chính trị thế giới
+CTTH | Chương trình tiểu học
+CTTL | Công trình thủy lợi
+CTTĐ | Công trình thủy điện
+CTUB | Chủ tịch uỷ ban
+CTV | Cộng tác viên
+CTVN | Công thương việt nam
+CTXD | Công trình xây dựng
+CTXH | Công tác xã hội
+CTXKTS | Chương trình xuất khẩu thủy sản
+CTYT | Chất thải y tế
+CTYTNHH | Công ty trách nhiệm hữu hạn
+CTĐ | Chữ thập đỏ
+CTĐKH | Chữ thập đỏ khánh hòa
+CTĐT | Chứng từ điện tử
+CTĐVN | Chữ thập đỏ việt nam
+CVA | Chu văn an
+CVBT | Công văn báo tử
+CVCS | Cong vẹo cột sống
+CVCX | Công viên cây xanh
+CVD | Cuộc vận động
+CVH | Cung văn hóa
+CVL | Châu văn liêm
+CVNT | Cảng vụ nha trang
+CVP | Chánh văn phòng
+CVPM | Công viên phần mềm
+CVPMQT | Công viên phần mềm quang trung
+CVT | Cáp viễn thông
+CVTDB | Cáp viễn thông dưới biển
+CVVH | Công viên văn hóa
+CVVT | Công viên vũ trụ
+CVĐ | Cuộc vận động
+CXH | Cảm xuyên hương
+CXL | Chất xử lý
+CXT | Chất xúc tác
+CĐ | Cao đẳng
+CĐAN | Con đường âm nhạc
+CĐAT | Cộng đồng an toàn
+CĐBC | Cao đẳng bán công
+CĐBT | Cánh đồng bất tận
+CĐBVN | Cục đường bộ việt nam
+CĐBĐ | Công đoàn bưu điện
+CĐBĐBP | Công đoàn bộ đội biên phòng
+CĐBĐVN | Công đoàn bưu điện việt nam
+CĐCD | Cao đẳng cộng đồng
+CĐCKCN | Công đoàn các khu công nghiệp
+CĐCN | Cao đẳng công nghiệp
+CĐCNTP | Cao đẳng công nghiệp thực phẩm
+CĐCNVN | Công đoàn công nghiệp việt nam
+CĐCP | Con đường chinh phục
+CĐCS | Công đoàn cơ sở
+CĐCSVM | Công đoàn cơ sở vững mạnh
+CĐCT | Công đoàn công thương
+CĐCĐ | Cao đẳng cộng đồng
+CĐDC | Chất độc da cam
+CĐDL | Cao đẳng du lịch
+CĐGD | Công đoàn giáo dục
+CĐGT | Chuyển đổi giới tính
+CĐGTVT | Cao đẳng giao thông vận tải
+CĐHN | Cộng đồng hải ngoại
+CĐKCN | Công đoàn khu công nghiệp
+CĐKT | Cao đẳng kỹ thuật
+CĐKTCN | Cao đẳng kinh tế công nghiệp
+CĐLĐXH | Cao đẳng lao động xã hội
+CĐMT | Cao đẳng mỹ thuật
+CĐNH | Công đoàn ngân hàng
+CĐNHVN | Công đoàn ngân hàng việt nam
+CĐNN | Cơ điện nông nghiệp
+CĐNQD | Công đoàn ngoài quốc doanh
+CĐQP | Công đoàn quốc phòng
+CĐSKĐA | Cao đẳng sân khấu điện ảnh
+CĐSL | Cổ đông sáng lập
+CĐSP | Cao đẳng sư phạm
+CĐSPKT | Cao đẳng sư phạm kỹ thuật
+CĐSPMG | Cao đẳng sư phạm mẫu giáo
+CĐSPNH | Cao đẳng sư phạm nhạc họa
+CĐSPĐL | Cao đẳng sư phạm đà lạt
+CĐTS | Chẩn đoán trước sinh
+CĐTT | Cao đẳng tư thục
+CĐTƯ | Chỉ đạo trung ương
+CĐV | Cổ động viên
+CĐVC | Công đoàn viên chức
+CĐVCVN | Công đoàn viên chức việt nam
+CĐVH | Cao đẳng văn hóa
+CĐVHNT | Cao đẳng văn hóa nghệ thuật
+CĐVN | Cộng đồng việt nam
+CĐXD | Cao đẳng xây dựng
+CĐXDVN | Công đoàn xây dựng việt nam
+CĐĐB | Chỉ đạo đền bù
+CĐĐH | Cao đẳng đại học
+CĐĐS | Công đoàn đường sắt
+CĐĐSVN | Công đoàn đường sắt việt nam
+DATC | Dự án tài chính
+DAXD | Dự án xây dựng
+DAXDNMNS | Dự án xây dựng nhà máy nước sạch
+DBKTTV | Dự báo khí tượng thủy văn
+DBĐV | Dự bị động viên
+DCCS | Dân chủ cơ sở
+DCGC | Dịch cúm gia cầm
+DCND | Dân chủ nhân dân
+DCQHBN | Dân ca quan họ bắc ninh
+DCTD | Di cư tự do
+DCXH | Dân chủ xã hội
+DCĐ | Dân chính đảng
+DCĐN | Dân chủ đa nguyên
+DDDN | Diễn đàn doanh nghiệp
+DDNS | Diễn đàn nhân sự
+DDQG | Dinh dưỡng quốc gia
+DDTĐC | Di dân tái định cư
+DDVN | Duyên dáng việt nam
+DDĐHH | Dung dịch điện hoạt hóa
+DHBK | Đại học bách khoa
+DHG | Dược hậu giang
+DHN | Đêm hà nội
+DHSVN | Du học sinh việt nam
+DHTC | Du học tại chỗ
+DHTV | Đại học trà vinh
+DKT | Dân kế toán
+DKVN | Dầu khí việt nam
+DKĐ | Dịch kiềm đen
+DL | Dân lập
+DLDKPĐ | Du lịch dầu khí phương đông
+DLHV | Dân lập hùng vương
+DLKTCN | Dân lập kỹ thuật công nghệ
+DLNN | Du lịch nước ngoài
+DLNT | Dân lập nội trú
+DLS | Dược lâm sàng
+DLTM | Du lịch thương mại
+DLVN | Du lịch viết nam
+DMAH | Dòng máu anh hùng
+DMCT | Danh mục công trình
+DMVN | Dệt may việt nam
+DN | Doanh nghiệp
+DNCM | Dâng niềm cảm mến
+DNCPH | Doanh nghiệp cổ phần hóa
+DNDD | Doanh nghiệp dân doanh
+DNDLĐTCNBK | Dạy nghề dân lập đào tạo công nghệ bách khoa
+DNGH | Dàn nhạc giao hưởng
+DNLH | Doanh nghiệp lữ hành
+DNNN | Doanh nghiệp nhà nước
+DNNQD | Doanh nghiệp ngoài quốc doanh
+DNNVV | Doanh nghiệp nhỏ và vừa
+DNPM | Doanh nghiệp phần mềm
+DNQĐ | Doanh nghiệp quân đội
+DNSG | Doanh nghiệp sài gòn
+DNT | Doanh nghiệp trẻ
+DNTN | Doanh nghiệp tư nhân
+DNTNMT | Doanh nghiệp tư nhân minh thịnh
+DNTVN | Doanh nghiệp trẻ việt nam
+DNTƯ | Doanh nghiệp trung ương
+DNVK | Doanh nghiệp việt kiều
+DNVN | Doanh nghiệp việt nam
+DNVT | Doanh nghiệp vận tải
+DNVVN | Doanh nghiệp vừa và nhỏ
+DNXK | Doanh nghiệp xuất khẩu
+DNĐTNN | Doanh nghiệp đầu tư nước ngoài
+DQB | Dân quân biển
+DQTV | Dân quân tự vệ
+DSCC | Dược sĩ cao cấp
+DSGD | Dân số gia đình
+DSGĐ | Dân số gia đình
+DSGĐTE | Dân số gia đình trẻ em
+DSKHHGĐ | Dân số kế hoạch hóa gia đình
+DSPT | Dân sự phúc thẩm
+DSST | Dân sự sơ thẩm
+DSTG | Di sản thế giới
+DSTL | Dòng sông trầm lặng
+DSTNTG | Di sản thiên nhiên thế giới
+DSVH | Di sản văn hóa
+DSVHPVT | Di sản văn hóa phi vật thể
+DSVHTG | Di sản văn hóa thế giới
+DSX | Dòng sông xanh
+DTBB | Dự trữ bắt buộc
+DTDĐ | Điện thoại di động
+DTG | Dan thế giới
+DTHT | Dạy thêm học thêm
+DTHVN | Dân tộc học việt nam
+DTLSVH | Di tích lịch sử văn hóa
+DTNT | Dân tộc nội trú
+DTNĐ | Dự thảo nghị định
+DTTBLĐ | Dâu tằm tơ bắc lâm đồng
+DTTN | Điểm thi tốt nghiệp
+DTTS | Dân tộc thiểu số
+DTTSTN | Dân tộc thiểu số tây nguyên
+DV | Dịch vụ
+DVBV | Dịch vụ bảo vệ
+DVCI | Dịch vụ công ích
+DVDL | Dịch vụ du lịch
+DVDLĐL | Dịch vụ du lịch đà lạt
+DVGT | Dịch vụ gia tăng
+DVKDTH | Dịch vụ kinh doanh tổng hợp
+DVKTC | Dịch vụ kỹ thuật cao
+DVLĐ | Dịch vụ lao động
+DVNH | Dịch vụ ngân hàng
+DVPTĐT | Dịch vụ phát triển đô thị
+DVTM | Dịch vụ thương mại
+DVTMTH | Dịch vụ thương mại thanh hóa
+DVTT | Dịch vụ trực tuyến
+DVVH | Dịch vụ văn hóa
+DVVL | Dịch vụ việc làm
+DVVLTN | Dịch vụ việc làm thanh niên
+DVVTCI | Dịch vụ viễn thông công ích
+DVĐA | Diễn viên điện ảnh
+DĐ | Di động
+DĐT | Diễn đàn toán
+DĐTM | Di động thông minh
+GBB | Giấy bãi bằng
+GBT | Giấy báo thi
+GCCN | Giai cấp công nhân
+GCCNVN | Giai cấp công nhân việt nam
+GCMND | Giấy chứng minh nhân dân
+GCN | Giấy chứng nhận
+GCNCLCT | Giấy chứng nhận chất lượng công trình
+GCNKQTS | Giấy chứng nhận kết quả tuyển sinh
+GCNQSD | Giấy chứng nhận quyền sử dụng
+GCNQSDĐ | Giấy chứng nhận quyền sử dụng đất
+GCNQSH | Giấy chứng nhận quyền sở hữu
+GCNQSĐ | Giấy chứng nhận quyền sử dụng
+GCNSK | Giấy chứng nhận sức khỏe
+GCNTNTT | Giấy chứng nhận tốt nghiệp tạm thời
+GCNTP | Giấy chứng nhận tiêm phòng
+GCNĐKKD | Giấy chứng nhận đăng ký kinh doanh
+GCNĐT | Giấy chứng nhận đầu tư
+GCPM | Gia công phần mềm
+GCXKPM | Gia công xuất khẩu phần mềm
+GD | Giáo dục
+GD&ĐT | Giáo dục và đào tạo
+GDBĐS | Giao dịch bất động sản
+GDCD | Giáo dục công dân
+GDCK | Giao dịch chứng khoán
+GDCKTPHCM | Giao dịch chứng khoán thành phố hồ chí minh
+GDCN | Giáo dục chuyên nghiệp
+GDCĐ | Giáo dục cộng đồng
+GDDH | Giám đốc điều hành
+GDDT | Giáo dục đào tạo
+GDGT | Giáo dục giới tính
+GDKHQ | Giao dịch không hưởng quyền
+GDLN | Gia đình lục nam
+GDLĐ | Giao dịch lưu động
+GDLĐTVL | Giáo dục lao động tạo việc làm
+GDLĐXH | Giáo dục lao động xã hội
+GDMN | Giáo dục mầm non
+GDQP | Giáo dục quốc phòng
+GDTC | Giáo dục thể chất
+GDTH | Giáo dục tiểu học
+GDTT | Giáo dục tập trung
+GDTX | Giáo dục thường xuyên
+GDVL | Giao dịch việc làm
+GDVN | Giáo dục việt nam
+GDVĐĐ | Giáo dục viên đồng đẳng
+GDĐB | Giáo dục đặc biệt
+GDĐH | Giáo dục đại học
+GDĐT | Giáo dục đào tạo
+GGHB | Gìn giữ hòa bình
+GH | Giọng hát
+GHPGTNVN | Giáo hội phật giáo thống nhất việt nam
+GHPGVN | Giáo hội phật giáo việt nam
+GHPGVNTN | Giáo hội phật giáo việt nam thống nhất
+GHSQGMT | Giống hải sản quốc gia miền trung
+GHVN | Giao hưởng việt nam
+GL | Gia lai
+GLMB | Giống lợn miền bắc
+GMMTĐ | Giá mua một thượng đế
+GMN | Giải mầm non
+GMTĐ | Giám mục tử đạo
+GNCT | Gặp nhau cuối tuần
+GNTT | Giảm nhẹ thiên tai
+GPKD | Giấy phép kinh doanh
+GPLX | Giấy phép lái xe
+GPMB | Giải phóng mặt bằng
+GPMN | Giải phóng miền nam
+GPNK | Giấy phép nhập khẩu
+GPSG | Giải phóng sài gòn
+GPTM | Giải phẫu thẩm mỹ
+GPXD | Giấy phép xây dựng
+GPĐC | Giấy phép điều chỉnh
+GPĐT | Giấy phép đầu tư
+GQVL | Giải quyết việc làm
+GRTN | Giao rừng tự nhiên
+GRTTCC | Gây rối trật tự công cộng
+GS | Giáo sư
+GSG | Giấy sài gòn
+GSTS | Giáo sư tiến sĩ
+GSTSKH | Giáo sư tiến sĩ khoa học
+GT | Giao thông
+GTCC | Giao thông công chánh
+GTCLVN | Giải thưởng chất lượng việt nam
+GTCT | Giải trí cuối tuần
+GTDT | Giáo trình điện tử
+GTGD | Giá trị giao dịch
+GTGT | Giá trị gia tăng
+GTLN | Giá trị lớn nhất
+GTMT | Giãn tĩnh mạch tinh
+GTN | Gỗ tự nhiên
+GTNN | Giá trị nhỏ nhất
+GTNT | Giao thông nông thôn
+GTT | Giày thể thao
+GTTPM | Giới thiệu tác phẩm mới
+GTTTĐPT | Giải trí truyền thông đa phương tiện
+GTVL | Giới thiệu việc làm
+GTVLTN | Giới thiệu việc làm thanh niên
+GTVT | Giao thông vận tải
+GTVTVN | Giao thông vận tải việt nam
+GTĐB | Giao thông đường bộ
+GTĐT | Giao thông đô thị
+GV | Giáo viên
+GVCH | Giáo viên cơ hữu
+GVCN | Giáo viên chủ nhiệm
+GVGĐ | Giúp việc gia đình
+GVTH | Giáo viên tiểu học
+GX | Giáo xứ
+GĐ | Giám đốc
+GĐBV | Giám đốc bệnh viện
+GĐCA | Giám đốc công an
+GĐCATP | Giám đốc công an thành phố
+GĐKKD | Giấy đăng ký kinh doanh
+GĐKT | Giám đốc kỹ thuật
+GĐNN | Giám định nhà nước
+GĐNS | Giám đốc nhân sự
+GĐPY | Giám định pháp y
+GĐPYTT | Giám định pháp y tâm thần
+GĐSX | Giám đốc sản xuất
+GĐT | Gạch đồng tâm
+GĐTLA | Gạch đồng tâm long an
+GĐTT | Giám đốc trung tâm
+GĐV | Giám định viên
+GĐVH | Gia đình văn hóa
+GĐXH | Gia đình xã hội
+GĐYK | Giám định y khoa
+GĐYP | Giám định y pháp
+GĐĐH | Giám đốc điều hành
+GĐĐT | Giám định đầu tư
+HAGL | Hoàng anh gia lai
+HBH | Hết bảo hành
+HBT | Hai bà trưng
+HBX | Hòa bình xanh
+HC | Huy chương
+HCB | Hoa cắm bình
+HCCB | Hội cựu chiến binh
+HCCH | Hội chứng chuyển hóa
+HCDHTT | Hội chợ du học trực tuyến
+HCGLTM | Hội chợ giao lưu thương mại
+HCLĐ | Huân chương lao động
+HCM | Hồ chí minh
+HCMHS | Hội cha mẹ học sinh
+HCNN | Hành chính nhà nước
+HCOCT | Hội chứng ống cổ tay
+HCPT | Hộ chiếu phổ thông
+HCQT | Hội chợ quốc tế
+HCSN | Hành chính sự nghiệp
+HCSP | Hành chính sư phạm
+HCTD | Hội chữ thập đỏ
+HCTH | Hành chính tổng hợp
+HCTL | Hội chợ triển lãm
+HCV | Huy chương vàng
+HCVL | Hội chợ việc làm
+HCĐ | Huy chương đồng
+HCĐV | Hội cổ động viên
+HDH | Hệ điều hành
+HDNT | Hội đồng nghệ thuật
+HDS | Hướng dẫn sử
+HDTQ | Hoa đức tinh quân
+HDV | Hướng dẫn viên
+HDVC | Hợp đồng vận chuyển
+HDXL | Hợp doanh xây lắp
+HDXX | Hội đồng xét xử
+HHBĐS | Hiệp hội bất động sản
+HHBĐSNĐVN | Hiệp hội bất động sản nhà đất việt nam
+HHCHCTN | Hóa học các hợp chất thiên nhiên
+HHGĐ | Hoạch hóa gia đình
+HHHV | Hoa hậu hoàn vũ
+HHHVTG | Hoa hậu hoàn vũ thế giới
+HHK | Hãng hàng không
+HHKVGNVN | Hiệp hội kho vận giao nhận việt nam
+HHLTVN | Hiệp hội lương thực việt nam
+HHNH | Hiệp hội ngân hàng
+HHQCVN | Hiệp hội quảng cáo việt nam
+HHQT | Hoa hậu quốc tế
+HHT | Hoa học trò
+HHTC | Hiệp hội trái cây
+HHTCVN | Hiệp hội trái cây việt nam
+HHTG | Hoa hậu thế giới
+HHTGNV | Hoa hậu thế giới người việt
+HHTM | Huyết học truyền máu
+HHTMTU | Huyết học truyền máu trung ương
+HHTMTƯ | Huyết học truyền máu trung ương
+HHTĐ | Hoa hậu trái đất
+HHVN | Hoa hậu việt nam
+HHVT | Hàng hóa vật tư
+HHX | Hội hoa xuân
+HHĐ | Hoa hồng đỏ
+HHĐH | Hoạt hóa điện hóa
+HKCC | Hành khách cuối cùng
+HKDD | Hàng không dân dụng
+HKDDVN | Hàng không dân dụng việt nam
+HKGR | Hàng không giá rẻ
+HKHKT | Hội khoa học kỹ thuật
+HKKG | Hàng không không gian
+HKMT | Hàng không miền trung
+HKPĐ | Hội khỏe phù đổng
+HKQT | Hàng không quốc tế
+HKTT | Hộ khẩu thường trú
+HKVN | Hàng không việt nam
+HLATLĐ | Hành lang an toàn lưới điện
+HLATLĐCA | Hành lang an toàn lưới điện cao áp
+HLBV | Hành lang bảo vệ
+HLHTNVN | Hội liên hiệp thanh niên việt nam
+HLKH | Hàn lâm khoa học
+HLQG | Huấn luyện quốc gia
+HLTDTT | Huấn luyện thể dục thể thao
+HLTL | Hành lang thoát lũ
+HLTT | Huấn luyện thể thao
+HLTTQG | Huấn luyện thể thao quốc gia
+HLV | Huấn luyện viên
+HLVC | Hành lang vận chuyển
+HLVQG | Huấn luyện viên quốc gia
+HMNĐ | Hiến máu nhân đạo
+HMRBL | Hạt mưa rơi bao lâu
+HMTD | Hạn mức tín dụng
+HMTN | Hiến máu tình nguyện
+HMTT | Hậu môn trực tràng
+HN | Hà nội
+HNB | Hội nhà báo
+HNBVN | Hội nhà báo việt nam
+HNCC | Hội nghị cấp cao
+HND | Hội nông dân
+HNDN | Hướng nghiệp dạy nghề
+HNGĐ | Hôn nhân gia đình
+HNHL | Hoàn nhan hồng liệt
+HNLQT | Hãy nói lời quen tôi
+HNM | Hà nội mới
+HNQG | Hạng nhất quốc gia
+HNV | Hạ nghị viện
+HNVVN | Hội nhà văn việt nam
+HNYDTN | Hành nghề y dược tư nhân
+HPC | Hải phòng công
+HPGP | Hãng phim giải phóng
+HPHN | Hòa phát hà nội
+HPNN | Hãng phim nhà nước
+HPNT | Hoàng phủ ngọc tường
+HPQ | Hen phế quản
+HPT | Hệ phương trình
+HPTVN | Hãng phim truyện việt nam
+HQCK | Hải quan cửa khẩu
+HQHP | Hải quan hải phòng
+HQLA | Hải quân long an
+HQTCT | Hoa quả thúc chín tố
+HQTP | Hải quan thành phố
+HQĐT | Hải quan điện tử
+HS | Học sinh
+HSB | Huyết sa bình
+HSCB | Học sinh cao bằng
+HSCC | Hồi sức cấp cứu
+HSD | Hạn sử dụng
+HSDT | Hồ sơ dự thầu
+HSG | Học sinh giỏi
+HSGQG | Học sinh giỏi quốc gia
+HSKT | Học sinh kiệm tân
+HSMT | Hồ sơ mời thầu
+HSN | Hoa sinh nhật
+HSPT | Học sinh phổ thông
+HSST | Hình sự sơ thẩm
+HSSV | Học sinh sinh viên
+HSV | Hội sinh viên
+HSVVN | Hội sinh viên việt nam
+HSXC | Hồ sơ xuất cảnh
+HSĐK | Hồ sơ đăng ký
+HSĐKDT | Hồ sơ đăng ký dự thi
+HSĐN | Hình sự đặc nhiệm
+HTBS | Hưu trí bổ sung
+HTCC | Hệ thống chấm công
+HTCHĐPC | Hỗ trợ các hoạt động phòng chống
+HTCK | Hạch toán chiết khấu
+HTCS | Hạ tầng cơ sở
+HTG | Hội thương gia
+HTKT | Hổ trợ kỹ thuật
+HTLĐ | Hợp tác lao động
+HTMHQGVN | Hội tim mạch học quốc gia việt nam
+HTMS | Hưu trí mất sức
+HTMT | Hội thánh miền tây
+HTPL | Hỗ trợ pháp lý
+HTPT | Hỗ trợ phát triển
+HTQLCL | Hệ thống quản lý chất lượng
+HTQT | Hợp tác quốc tế
+HTT | Hoàn thể tích
+HTTH | Hợp tuyển thần học
+HTTL | Hội thánh tin lành
+HTTĐ | Hệ thống tự động
+HTVH | Hành trình văn hóa
+HTX | Hợp tác xã
+HTXDVNN | Hợp tác xã dịch vụ nông nghiệp
+HTXH | Hạ tầng xã hội
+HTXLNT | Hệ thống xử lý nước thải
+HTXNN | Hợp tác xã nông nghiệp
+HTXP | Hình thức xử phạt
+HTXVTTL | Hợp tác xã vận tải thăng long
+HTĐ | Hệ thống điện
+HTĐĐ | Huyền thoại đương đại
+HV | Học viên
+HVB | Huỳnh văn bánh
+HVBC | Học viện báo chí
+HVCH | Học viên cao học
+HVCNTTĐL | Học viện công nghiệp thông tin đài loan
+HVHCQG | Học viện hành chính quốc gia
+HVKHQS | Học viện khoa học quân sự
+HVLQ | Học viện lục quân
+HVNCLC | Hàng việt nam chất lượng cao
+HVNH | Học viện ngân hàng
+HVQHQT | Học viện quan hệ quốc tế
+HVT | Hoàng văn thụ
+HVTC | Học viện tài chính
+HVTTN | Học viện thanh thiếu niên
+HVĐ | Hỏi và đáp
+HXK | Hàng xuất khẩu
+HĐ | Hội đồng
+HĐA | Hội đồng anh
+HĐBA | Hội đồng bảo an
+HĐBALHQ | Hội đồng bảo an liên hợp quốc
+HĐBC | Hội đồng bầu cử
+HĐBHNT | Hợp đồng bảo hiểm nhân thọ
+HĐBT | Hội đồng bộ trưởng
+HĐBTHT | Hội đồng bồi thường hỗ trợ
+HĐBĐG | Hội đồng bán đấu giá
+HĐC | Hoàng đình châm
+HĐCD | Hội đồng chức danh
+HĐCDGSCS | Hội đồng chức danh giáo sư cơ sở
+HĐCDGSN | Hội đồng chức danh giáo sư ngành
+HĐCDGSNN | Hội đồng chức danh giáo sư nhà nước
+HĐCK | Hội đồng chung khảo
+HĐCM | Hội đồng chuyên môn
+HĐCN | Hợp đồng chuyển nhượng
+HĐCT | Hội đồng coi thi
+HĐDN | Hoạt động dã ngoại
+HĐDS | Hợp đồng dân sự
+HĐDT | Hội đồng dân tộc
+HĐDVPL | Hợp đồng dịch vụ pháp lý
+HĐGGHB | Hoạt động gìn giữ hòa bình
+HĐGK | Hội đồng giám khảo
+HĐGPMB | Hội đồng giải phóng mặt bằng
+HĐGS | Hội đồng giám sát
+HĐGT | Hội đồng gia tộc
+HĐGTGT | Hóa đơn giá trị gia tăng
+HĐGĐYK | Hội đồng giám định y khoa
+HĐH | Hiện đại hóa
+HĐHC | Hội đồng hương chính
+HĐHGCS | Hội đồng hòa giải cơ sở
+HĐHN | Hợp đồng hôn nhân
+HĐHTT | Hiện đại hóa thông tin
+HĐKC | Hoạt động kháng chiến
+HĐKH | Hội đồng khoa học
+HĐKL | Hội đồng kỷ luật
+HĐKT | Hợp đồng kinh tế
+HĐKTQH | Hội đồng kiến trúc quy hoạch
+HĐLB | Hội đồng liên bang
+HĐLĐ | Hợp đồng lao động
+HĐMBTB | Hợp đồng mua bán thiết bị
+HĐMC | Hẹp động mạch cảnh
+HĐND | Hội đồng nhân dân
+HĐNDTP | Hội đồng nhân dân thành phố
+HĐNDTPHCM | Hội đồng nhân dân thành phố hồ chí minh
+HĐNN | Hội đồng nhà nước
+HĐNT | Hội đồng nghệ thuật
+HĐNTNN | Hội đồng nghiệm thu nhà nước
+HĐQG | Hội đồng quốc gia
+HĐQGGD | Hội đồng quốc gia giáo dục
+HĐQL | Hội đồng quản lý
+HĐQPAN | Hội đồng quốc phòng an ninh
+HĐQT | Hội đồng quản trị
+HĐSC | Hợp đồng sửa chữa
+HĐSK | Hoạt động sáng kiến
+HĐT | Hội độc thân
+HĐTC | Hợp đồng thế chấp
+HĐTD | Hợp đồng tín dụng
+HĐTH | Hỏi đáp tin học
+HĐTM | Hiệp định thương mại
+HĐTP | Hội đồng thẩm phán
+HĐTR | Hợp đồng trồng rừng
+HĐTS | Hội đồng trị sự
+HĐTT | Hội đồng trọng tài
+HĐTTCC | Hội đồng thi tuyển công chức
+HĐTTQG | Hội đồng trọng tài quốc gia
+HĐTV | Hàng đầu tại việt
+HĐTĐ | Hội đồng thẩm định
+HĐTĐKT | Hội đồng thi đua khen thưởng
+HĐUT | Hợp động ủy thác
+HĐVB | Hội đồng văn bằng
+HĐVC | Hợp đồng vận chuyển
+HĐXLTNVC | Hội đồng xử lý trách nhiệm vật chất
+HĐXX | Hội đồng xét xử
+HĐĐB | Hội đồng đền bù
+HĐĐG | Hội đồng định giá
+HĐĐT | Hội đồng đấu thầu
+HĐĐTLCNĐT | Hội đồng đấu thầu lựa chọn nhà đầu tư
+HĐĐTĐ | Hội đồng đặt tên đường
+IOT | Ai ô tê
+KBNN | Kho bạc nhà nước
+KBTB | Khu bảo tồn biển
+KBTTN | Khu bảo tồn thiên nhiên
+KCB | Khám chữa bệnh
+KCBMP | Khám chữa bệnh miễn phí
+KCBT | Khoan cắt bê tông
+KCHTLH | Kiên cố hóa trường lớp học
+KCHTĐS | Kết cấu hạ tầng đường sắt
+KCN | Khu công nghiệp
+KCNC | Khu công nghệ cao
+KCNDV | Khu công nghiệp dịch vụ
+KCNHP | Khu công nghiệp hiệp phước
+KCNTL | Khu công nghiệp thăng long
+KCNĐN | Khu công nghiệp đồng nai
+KCQ | Không chính quy
+KCS | Khí công sư
+KCX | Khu chế xuất
+KDBH | Kinh doanh bảo hiểm
+KDBĐS | Kinh doanh bất động sản
+KDC | Kinh doanh chung
+KDCK | Kinh doanh chứng khoán
+KDDV | Kiểm dịch động vật
+KDL | Khu du lịch
+KDLBCR | Khu du lịch bắc cam ranh
+KDLSL | Khu du lịch sông lô
+KDLSTTT | Khu du lịch sinh thái thủy tiên
+KDLVT | Khu du lịch văn thánh
+KDNS | Kinh doanh nước sạch
+KDTH | Kết duyên tơ hồng
+KDTSQ | Khu dự trữ sinh quyển
+KDTT | Kinh doanh trực tuyến
+KDTV | Kiểm dịch thực vật
+KDXD | Kinh doanh xăng dầu
+KG | Ki lô gam
+KGBC | Khán giả bình chọn
+KGVHCCTN | Không gian văn hóa cồng chiêng tây nguyên
+KGXCC | Không gian xanh công cộng
+KH | Khoa học
+KH&CN | Khoa học và công nghệ
+KHCN | Khoa học công nghệ
+KHCNMT | Khoa học công nghệ môi trường
+KHCNXD | Khoa học công nghệ xây dựng
+KHDT | Kế hoạch đầu tư
+KHGD | Khoa học giáo dục
+KHH | Kế hoạch hóa
+KHHGĐ | Kế hoạch hóa gia đình
+KHHGĐVN | Kế hoạch hóa gia đình việt nam
+KHHKKG | Khoa học hàng không không gian
+KHHS | Khoa học hình sự
+KHKT | Khoa học kỹ thuật
+KHKTBHLĐ | Khoa học kỹ thuật bảo hộ lao động
+KHKTHN | Khoa học kỹ thuật hạt nhân
+KHKTHS | Khoa học kỹ thuật hình sự
+KHKTNN | Khoa học kỹ thuật nông nghiệp
+KHKTTV | Khoa học khí tượng thủy văn
+KHKTVN | Khoa học kỹ thuật vật nuôi
+KHLM | Khuyến học liên mạng
+KHLS | Khoa học lịch sử
+KHLSVN | Khoa học lịch sử việt nam
+KHPL | Khoa học pháp lý
+KHPT | Khoa học phổ thông
+KHQS | Khoa học quân sự
+KHTDTT | Khoa học thể dục thể thao
+KHTH | Khoa học tổng hợp
+KHTL | Khoa học thủy lợi
+KHTN | Khoa học tự nhiên
+KHTT | Khách hàng thân thiết
+KHVL | Khoa học vật liệu
+KHVN | Khoa học việt nam
+KHXB | Kế hoạch xuất bản
+KHXH | Khoa học xã hội
+KHXHNV | Khoa học xã hội nhân văn
+KHXHVN | Khoa học xã hội việt nam
+KHĐ | Kiến hoa động
+KHĐT | Kế hoạch đầu tư
+KK | Khuyến khích
+KKC | Khinh khí cầu
+KKL | Không khí lạnh
+KKT | Khu kinh tế
+KKTCK | Khu kinh tế cửa khẩu
+KKTM | Khu kinh tế mở
+KKTNS | Khu kinh tế nghi sơn
+KKTNT | Khuyến khích tài năng trẻ
+KKTS | Kê khai tài sản
+KKTTN | Khu kinh tế thanh niên
+KKTVP | Khu kinh tế vân phong
+KLCĐ | Kiểm lâm cơ động
+KLGD | Khối lượng giao dịch
+KLGĐ | Kết luận giám định
+KLHCNDVĐT | Khu liên hợp công nghiệp dịch vụ đô thị
+KLHCNDVĐTBD | Khu liên hợp công nghệ dịch vụ đô thị bình dương
+KLHP | Kiểm lâm hải phòng
+KLHTTQG | Khu liên hợp thể thao quốc gia
+KLQG | Kỷ lục quốc gia
+KLTG | Kỷ lục thế giới
+KLTT | Kết luận thanh tra
+KLĐT | Kết luận điều tra
+KN | Khiếu nại
+KNDS | Khai nhận di sản
+KNHT | Khám nghiệm hiện trường
+KNKL | Khuyến nông khuyến lâm
+KNNCNC | Khu nông nghiệp công nghệ cao
+KNTC | Khiếu nại tố cáo
+KNXK | Kim ngạch xuất khẩu
+KPN | Khối pháp ngữ
+KPXDN | Kinh phí xây dựng nhà
+KQLGT | Khu quản lý giao thông
+KQLGTĐT | Khu quản lý giao thông đô thị
+KQLĐB | Khu quản lí đường bộ
+KQXS | Kết quả xổ số
+KRL | Khu rừng lau
+KS | Kỹ sư
+KSBPCK | Kiểm soát biên phòng cửa khẩu
+KSGM | Kiểm soát giết mổ
+KSGT | Kiểm soát giao thông
+KSHS | Khảo sát hàm số
+KSKH | Khách sạn khải hoàn
+KSKĐK | Khám sức khỏe định kỳ
+KSLH | Kiểm soát liên hoàn
+KSLN | Kiểm soát liên ngành
+KSND | Kiểm sát nhân dân
+KSNDTC | Kiểm sát nhân dân tối cao
+KSTB | Kỹ sư trực ban
+KSTĐ | Ký sự tân đảo
+KSV | Kiểm sát viên
+KSXD | Kỹ sư xây dựng
+KSXX | Kiểm sát xét xử
+KSXXPT | Kiểm sát xét xử phúc thẩm
+KSĐN | Khách sạn đồng nai
+KSĐT | Kiểm sát điều tra
+KTCK | Kinh tế cửa khẩu
+KTCN | Kỉ thuật công nghiệp
+KTCS | Kỉ thuật cơ sở
+KTCTTL | Khai thác công trình thủy lợi
+KTGS | Kiểm tra giám sát
+KTGSLN | Kiểm tra giám sát liên ngành
+KTGĐ | Kiến thức gia đình
+KTHS | Kỹ thuật hình sự
+KTHT | Kinh tế hợp tác
+KTKL | Kiểm tra kỷ luật
+KTKLTƯ | Kiểm tra kỷ luật trung ương
+KTKT | Kinh tế kỹ thuật
+KTLT | Kỹ thuật lập trình
+KTM | Kinh tế mở
+KTMN | Kinh thánh mỗi ngày
+KTNHT | Kho tài nguyên học tập
+KTNN | Kiểm toán nhà nước
+KTNS | Kinh tế ngân sách
+KTNĐ | Kiến trúc nhà đẹp
+KTPT | Kinh tế phát triển
+KTQD | Kinh tế quốc dân
+KTQG | Kế toán quốc gia
+KTQP | Kinh tế quốc phòng
+KTQS | Kỹ thuật quân sự
+KTQT | Kiện tướng quốc tế
+KTS | Kỉ thuật số
+KTSG | Kinh tế sài gòn
+KTST | Kiến trúc sư trưởng
+KTSTQ | Kiểm tra sau thông quan
+KTSVN | Kiến trúc sư việt nam
+KTT | Khu thông tin
+KTTCĐLCL | Kỹ thuật tiêu chuẩn đo lường chất lượng
+KTTH | Kỹ thuật tổng hợp
+KTTHHN | Kỹ thuật tổng hợp hướng nghiệp
+KTTM | Kinh tế thương mại
+KTTMĐB | Kinh tế thương mại đặc biệt
+KTTN | Kinh tế thanh niên
+KTTS | Khai thác tài sản
+KTTT | Kinh tế thị trường
+KTTV | Khí tượng thủy văn
+KTTVNB | Khí tượng thủy văn nam bộ
+KTTVQG | Khí tượng thủy văn quốc gia
+KTTVTƯ | Khí tượng thủy văn trung ương
+KTTĐ | Kinh tế trọng điểm
+KTV | Kỹ thuật viên
+KTVA | Khởi tố vụ án
+KTVH | Kinh tế văn hóa
+KTVHVN | Kinh tế văn hóa việt nam
+KTVN | Kế toán việt nam
+KTVP | Kế toán văn phòng
+KTX | Ký túc xá
+KTXB | Khai thác xa bờ
+KTXD | Kinh tế xây dựng
+KTXH | Kinh tế xã hội
+KTĐC | Khu tai định cư
+KTĐN | Kinh tế đối ngoại
+KTĐT | Kiến trúc đô thị
+KTĐĐ | Khai thác điểm đỗ
+KTĐĐX | Khai thác điểm đỗ xe
+KVC | Khu vui chơi
+KVCGT | Khu vui chơi giải trí
+KVHGĐ | Khu văn hóa gia đình
+KVI | Khu vực i
+KVPN | Khu vực phía nam
+KVTS | Khu vực tuyển sinh
+KW | Kí lô quát
+KĐCL | Kiểm định chất lượng
+KĐCLGD | Kiểm định chất lượng giáo dục
+KĐS | Khu đường sông
+KĐT | Khu đô thị
+KĐTM | Khu đô thị mới
+KĐTMNSCT | Khu đô thị mới nam sông cần thơ
+KĐTMTT | Khu đô thị mới thủ thiêm
+KĐTVV | Khu đô thị vui vẻ
+LBQ | Lương bằng quang
+LCDB | Lao công đào binh
+LCHH | Lưu chuyển hàng hóa
+LCNPMA | Làng công nghệ phần mềm ảo
+LCTA | Lê công tuấn anh
+LDXD | Liên doanh xây dựng
+LGQT | Lễ giỗ quốc tổ
+LGS | Lửa giáng sinh
+LGT | Luật giao thông
+LHC | Lý học cắm
+LHCHVHNT | Liên hiệp các hội văn học nghệ thuật
+LHCTCHN | Liên hiệp các tổ chức hữu nghị
+LHCĐ | Liên hiệp công đoàn
+LHHTXTM | Liên hiệp hợp tác xã thương mại
+LHKHKT | Liên hiệp khoa học kỹ thuật
+LHP | Liên hoan phim
+LHPN | Liên hiệp phụ nữ
+LHPNVN | Liên hiệp phụ nữ việt nam
+LHPQT | Liên hoan phim quốc tế
+LHPVN | Liên hoan phim việt nam
+LHQ | Liên hiệp quốc
+LHSVN | Lưu học sinh việt nam
+LHTHTQ | Liên hoan truyền hình toàn quốc
+LHTN | Liên hiệp thanh niên
+LHTNSV | Liên hoan thanh niên sinh viên
+LHTNVN | Liên hiệp thanh niên việt nam
+LHTT | Lớp học tình thương
+LHTTQG | Liên hợp thể thao quốc gia
+LHĐSVN | Liên hiệp đường sắt việt nam
+LKCK | Lưu ký chứng khoán
+LKDBH | Luật kinh doanh bảo hiểm
+LKTĐ | Liên kết thi đua
+LLLĐ | Lực lượng lao động
+LLPB | Lý luận phê bình
+LLVH | Lý luận văn học
+LLVT | Lực lượng vũ trang
+LLVTND | Lực lượng vũ trang nhân dân
+LMDC | Liên minh dân chủ
+LMLM | Lở mồm long móng
+LMĐ | Lâm mạnh đức
+LMĐN | Lắp máy điện nước
+LNB | Long nữ bang
+LNT | Lê nguyễn trần
+LPCB | Lạm phát cơ bản
+LPCBLTGĐ | Luật phòng chống bạo lực trong gia đình
+LPCCBTN | Luật phòng chống các bệnh truyền nhiễm
+LPN | Lực phòng ngự
+LPTB | Lệ phí trước bạ
+LQTT | Lê quang thanh tâm
+LQV | Lưu quang vũ
+LQĐ | Lê quý đôn
+LSQ | Lãnh sự quán
+LSQS | Lịch sử quân sự
+LSQSVN | Lịch sử quân sự việt nam
+LSTDĐT | Lãi suất tín dụng đầu tư
+LSTN | Lương sơn thủy nguyên
+LSV | Làng sinh viên
+LSVH | Lịch sử văn hóa
+LSVN | Lịch sử việt nam
+LSX | Làn sóng xanh
+LSĐ | Lịch sử đảng
+LTBTT | Lương thực bình trị thiên
+LTLT | Linh ta linh tinh
+LTMN | Lương thực miền nam
+LTNLN | Làng thanh niên lập nghiệp
+LTQG | Lưu trữ quốc gia
+LTQĐTD | Lây truyền qua đường tình dục
+LTTC | Lý thuyết trò chơi
+LTTHS | Luật tố tụng hình sự
+LTTP | Lương thực thực phẩm
+LTTT | Lý thuyết truyền tin
+LTV | Lương thế vinh
+LVC | Lương văn chánh
+LVH | Lãnh vô hàn
+LVN | Lớp việt ngữ
+LVSĐN | Lưu vực sông đồng nai
+LVĐ | Luận văn đàn
+LXL | Lùn xoắn lá
+LĐ | Lao động
+LĐBB | Liên đoàn bóng bàn
+LĐBC | Liên đoàn bóng chuyền
+LĐBCVN | Liên đoàn bóng chuyền việt nam
+LĐBR | Liên đoàn bóng rổ
+LĐBT | Liên đoàn bóng tròn
+LĐBĐ | Liên đoàn bóng đá
+LĐBĐLA | Liên đoàn bóng đá long an
+LĐBĐQG | Liên đoàn bóng đá quốc gia
+LĐBĐTH | Liên đoàn bóng đá thanh hóa
+LĐBĐTPHCM | Liên đoàn bóng đá thành phố hồ chí minh
+LĐBĐVN | Liên đoàn bóng đá việt nam
+LĐC | Lừa đảo chiêu
+LĐCL | Liên đoàn cầu lông
+LĐCN | Lắp đặt công nghệ
+LĐCS | Lao động chính sách
+LĐCT | Lôi động cửu thiên
+LĐCĐ | Lừa đảo chiếm đoạt
+LĐDTTS | Lao động dân tộc thiểu số
+LĐG | Lao động giỏi
+LĐH | Làng đại học
+LĐHN | Lao động hữu nghị
+LĐKBĐS | Luật đăng ký bất động sản
+LĐLD | Liên đoàn lao động
+LĐLĐ | Liên đoàn lao động
+LĐLĐTP | Liên đoàn lao động thành phố
+LĐLĐVN | Liên đoàn lao động việt nam
+LĐM | Lê đình mai
+LĐN | Lao động nữ
+LĐNC | Lao động nhập cư
+LĐNN | Lao động nước ngoài
+LĐNT | Lao động nông thôn
+LĐPT | Lao động phổ thông
+LĐQP | Lao động quốc phòng
+LĐQV | Liên đoàn quần vợt
+LĐQVVN | Liên đoàn quần vợt việt nam
+LĐST | Lao động sáng tạo
+LĐSX | Lao động sản xuất
+LĐT | Luật đầu tư
+LĐTB | Lao động thương binh
+LĐTB&XH | Lao động thương binh xã hội
+LĐTBXH | Lao động thương binh xã hội
+LĐTC | Luật đầu tư chung
+LĐTD | Lao động tự do
+LĐTNDC | Liên đoàn thanh niên dân chủ
+LĐTNDCTG | Liên đoàn thanh niên dân chủ thế giới
+LĐTT | Liên đoàn thể thao
+LĐTTĐNA | Liên đoàn thể thao đông nam á
+LĐVL | Lao động việc làm
+LĐVN | Lao động việt nam
+LĐX | Luật đặc xá
+LĐXH | Lao động xã hội
+LĐXHTP | Lao động xã hội thành phố
+LĐXK | Lao động xuất khẩu
+LĐXS | Lao động sản xuất
+LĐXĐ | Liên đoàn xe đạp
+LĐĐ | Luật đất đai
+LĐĐC | Liên đoàn đá cầu
+LĐĐK | Liên đoàn điền kinh
+LĐĐKVN | Liên đoàn điền kinh việt nam
+LĐĐT | Lao động điện tử
+MACĐ | Mái ấm công đoàn
+MBDB | Một buổi đi bơi
+MBH | Mũ bảo hiểm
+MBHTĐ | Máy bán hàng tự động
+MBQH | Mặt bằng quy hoạch
+MCP | Mua cổ phiếu
+MDC | Mỏ địa chất
+MDCT | Mức độ cạnh tranh
+MDM | Miền đất mới
+MDP | Mặt dây pha
+MDV | Mềm dịch vụ
+MG | Mật gấu
+MGCK | Môi giới chứng khoán
+MGHN | Môi giới hôn nhân
+MGMN | Mẫu giáo mầm non
+MHAV | Mai hoa ảnh viện
+MHQL | Mô hình quản lý
+MHTNTN | Mùa hè thanh niên tình nguyện
+MHV | Mô hình việt
+MHX | Mùa hè xanh
+MKD | Máu khó đông
+MLC | Máu là chiến
+MLCT | Minh lương cẩm tú
+MLSS | Mã lực so sánh
+MMT | Mạng máy tính
+MNBC | Mầm non bán công
+MNCV | Mầm non cẩm vân
+MNDBT | Mực nước dâng bình thường
+MNTT | Mầm non tư thục
+MPD | Máy phát điện
+MPQT | Mỹ phẩm quốc tế
+MQS | Máy quay số
+MSLĐ | Mất sức lao động
+MSMV | Mã số mã vạch
+MST | Mã số thuế
+MSVT | Mã số vật tư
+MTCN | Mỹ thuật công nghiệp
+MTDTGP | Mặt trận dân tộc giải phóng
+MTDTGPMNVN | Mặt trận dân tộc giải phóng miền nam việt nam
+MTDTTN | Mặt trận dân tộc thống nhất
+MTGP | Mặt trận giải phóng
+MTGPMN | Mặt trận giải phóng miền nam
+MTKC | Mặt trận kháng chiến
+MTLD | Môi trường lao động
+MTLĐ | Môi trường lao động
+MTN | Một trong những
+MTQT | Má tớ quát thế
+MTTG | Môi trường thế giới
+MTTH | Ma túy tổng hợp
+MTTN | Máu tụ trong não
+MTTP | Mĩ thuật thành phố
+MTTQ | Mặt trận tổ quốc
+MTTQVN | Mặt trận tổ quốc việt nam
+MTXT | Máy tính xách tay
+MTĐ | May tre đan
+MTĐB | Máy tính để bàn
+MTĐH | Mục tiêu đại hội
+MTĐT | Môi trường đô thị
+MTĐĐ | Mỹ thuật đương đại
+MVD | Mai văn dâu
+MVS | Một vì sao
+MVT | Máy vi tính
+MXD | Máy xây dựng
+MXNB | Mùa xuân nhớ bác
+MĐ | Mặt đường
+MĐLN | Mía đường la ngà
+MĐT | Mại điện tử
+NAVN | Nhiếp ảnh việt nam
+NB | Nhật bản
+NBCT | Nỗi buồn chiến tranh
+NBH | Nón bảo hiểm
+NBK | Nguyễn bỉnh khiêm
+NBVN | Nhà báo việt nam
+NBX | Người bình xuyên
+NCCB | Nghiên cứu cơ bản
+NCCDV | Nhà cung cấp dịch vụ
+NCCL | Nâng cao chất lượng
+NCCVCM | Người có công với cách mạng
+NCD | Nhạc cổ điển
+NCGCD | Những cô gái chân dài
+NCHS | Nghiên cứu hải sản
+NCKH | Nghiên cứu khoa học
+NCKHKT | Nghiên cứu khoa học kỹ thuật
+NCKT | Ngõ chợ khâm thiên
+NCLTG | Những chiếc lá thời gian
+NCM | Nhất chi mai
+NCQ | Ngoài chính quy
+NCQLKT | Nghiên cứu quản lý kinh tế
+NCT | Người cao tuổi
+NCTNCN | Nghiên cứu tiềm năng con người
+NCTT | Nghiên cứu thị trường
+NCUNLCC | Nhà cung ứng nhân lực cao cấp
+NCXH | Nghiên cứu xã hội
+NCĐ | Nhạc cổ điển
+NCĐĐ | Nghiên cứu đà điểu
+NDCM | Nhân dân cách mạng
+NDGĐ | Nhân dân gia định
+NDNB | Nhiệt điện ninh bình
+NDND | Nghệ sĩ nhân dân
+NDTC | Nhân dân tối cao
+NDTP | Nhân dân thành phố
+NDTQ | Nhân dân tự quản
+NDTTS | Người dân tộc thiểu số
+NDVN | Nông dân việt nam
+NGND | Nhà giáo nhân dân
+NGTT | Người giới thiệu thuốc
+NH | Ngân hàng
+NHCP | Ngân hàng cổ phần
+NHCPTM | Ngân hàng cổ phần thương mại
+NHCSXH | Ngân hàng chính sách xã hội
+NHCSXHVN | Ngân hàng chính sách xã hội việt nam
+NHCT | Ngân hàng công thương
+NHCTVN | Ngân hàng công thương việt nam
+NHD | Nha học đường
+NHDA | Ngân hàng đông á
+NHG | Ngàn hạc giấy
+NHHH | Nhãn hiệu hàng hóa
+NHKVN | Nhà hát kịch việt nam
+NHL | Nguyễn hiến lê
+NHLD | Ngân hàng liên doanh
+NHM | Người hâm mộ
+NHNN | Ngân hàng nhà nước
+NHNNPTNT | Ngân hàng nông nghiệp phát triển nông thôn
+NHNNVN | Ngân hàng nhà nước việt nam
+NHNT | Ngân hàng ngoại thương
+NHPT | Ngân hàng phát triển
+NHPTVN | Ngân hàng phát triển việt nam
+NHQD | Ngân hàng quốc doanh
+NHTG | Ngân hàng thế giới
+NHTM | Ngân hàng thương mại
+NHTMCP | Ngân hàng thương mại cổ phần
+NHTMNN | Ngân hàng thương mại nhà nước
+NHTMQD | Ngân hàng thương mại quốc doanh
+NHTT | Nhà hát tuổi trẻ
+NHTTĐ | Năm hành tinh trái đất
+NHTW | Ngân hàng trung ương
+NHTƯ | Ngân hàng trung ương
+NHVN | Ngân hàng việt nam
+NHXN | Ngân hàng xác nhận
+NHĐ | Nha học đường
+NHĐA | Ngân hàng đông á
+NHĐT | Ngân hàng đề thi
+NK | Nhập khẩu
+NKBV | Nhiễm khuẩn bệnh viện
+NKHHCT | Nhiễm khuẩn hô hấp cấp tính
+NKKN | Nam kỳ khởi nghĩa
+NKTS | Nhật kí tâm sự
+NKX | Nhật ký xưa
+NKXD | Nhập khẩu xăng dầu
+NKĐT | Nhiễm khuẩn đường tiểu
+NLCX | Năng lượng cảm xạ
+NLCXH | Năng lượng cảm xạ học
+NLD | Người lao động
+NLGMN | Nguyên liệu giấy miền nam
+NLMT | Năng lượng mặt trời
+NLN | Nông lâm nghiệp
+NLNT | Năng lương nguyên tử
+NLNTVN | Năng lượng nguyên tử việt nam
+NLSH | Nhiên liệu sinh học
+NLTQD | Nông lâm trường quốc doanh
+NLTS | Nguồn lợi thủy sản
+NLTT | Năng lượng tái tạo
+NLVN | Nhân lực việt nam
+NLĐ | Người lao động
+NLĐCTN | Người lao động chưa thành niên
+NLĐVN | Người lao động việt nam
+NM | Nhà máy
+NMC | Người cách mạng
+NMCBMCS | Nhà máy chế biến mủ cao su
+NMCBTS | Nhà máy chế biến thủy sản
+NMCT | Nhồi máu cơ tim
+NMD | Nhà máy đường
+NMDMK | Nhà máy dệt minh khai
+NMITQG | Nhà máy in tiền quốc gia
+NMLD | Nhà máy lọc dầu
+NMLDDQ | Nhà máy lọc dầu dung quất
+NMN | Nhà máy nước
+NMNTH | Nhà máy nước tân hiệp
+NMNĐ | Nhà máy nhiệt điện
+NMPLHR | Nhà máy phân lân hàm rồng
+NMTH | Nhà máy tân hiệp
+NMTL | Người mỹ trầm lặng
+NMTĐ | Nhà máy thủy điện
+NMXLNT | Nhà máy xử lý nước thải
+NMXLNTTT | Nhà máy xử lý nước thải tập trung
+NMXLR | Nhà máy xử lý rác
+NMXM | Nhà máy xi măng
+NMXXTB | Nhà máy xay xát thái bình
+NMĐ | Nhà máy đường
+NMĐCR | Nhà máy đường cam ranh
+NMĐNT | Nhà máy điện nguyên tử
+NMĐQN | Nhà máy đường quảng nam
+NMĐT | Nhà máy đóng tàu
+NNB | Những người bạn
+NNBA | Ngôi nhà bí ẩn
+NNC | Nhà nguyên căn
+NNCT | Ngôn ngữ cơ thể
+NNCĐDC | Nạn nhân chất độc da cam
+NNCĐMDC | Nạn nhân chất độc màu da cam
+NNDC | Nạn nhân da cam
+NNKTC | Nông nghiệp kỹ thuật cao
+NNNT | Ngành nghề nông thôn
+NNPL | Nhà nước pháp luật
+NNPT | Nông nghiệp phát triển
+NNPTNT | Nông nghiệp phát triển nông thôn
+NNTƯ | Nông nghiệp trung ương
+NNVN | Nông nghiệp việt nam
+NNĐC | Nông nghiệp địa chính
+NNĐP | Nhà nước địa phương
+NNĐTVV | Những người độc thân vui vẻ
+NOCV | Nhà ở công vụ
+NOXH | Nhà ở xã hội
+NPP | Nhà phân phối
+NPTT | Ngân phiếu thanh toán
+NPV | Nhóm phóng viên
+NQ/TW | Nghị quyết trung ương
+NQA | Ngô quỳnh anh
+NQD | Ngoài quốc doanh
+NQH | Ngô quang hưng
+NQL | Nhà quản lý
+NQLG | Nhà quản lý giỏi
+NQLT | Nghị quyết liên tịch
+NQTM | Nhượng quyền thương mại
+NQTƯ | Nghị quyết trung ương
+NQĐH | Nghị quyết đại hội
+NS | Nhạc sĩ
+NSDLD | Người sử dụng lao động
+NSDLĐ | Người sử dụng lao động
+NSLĐ | Năng suất lao động
+NSNA | Nghệ sĩ nhiếp ảnh
+NSNAVN | Nghệ sĩ nhiếp ảnh việt nam
+NSND | Nghệ sĩ nhân dân
+NSNN | Ngân sách nhà nước
+NSSK | Nghệ sĩ sân khấu
+NSSKVN | Nghệ sĩ sân khấu việt nam
+NSTP | Nông sản thực phẩm
+NSTTN | Nhà sưu tập tư nhân
+NSUT | Nghệ sĩ ưu tú
+NSVHCN | Nếp sống văn hóa công nghiệp
+NSVMĐT | Nếp sống văn minh đô thị
+NSVN | Nguyệt san việt nam
+NSVSMT | Nước sạch vệ sinh môi trường
+NSX | Nhà sản xuất
+NSĐP | Ngân sách địa phương
+NSƯT | Nghệ sĩ ưu tú
+NTBD | Nghệ thuật biểu diễn
+NTBV | Nhà thuốc bệnh viện
+NTD | Người tiêu dùng
+NTDM | Nhiễm trùng đường mật
+NTGT | Nhà thuốc gia truyền
+NTHH | Nguyên tố hóa học
+NTHM | Nguyễn thị hồng minh
+NTK | Nhà thiết kế
+NTKN | Ngừng thở khi ngủ
+NTKTT | Nhà thiết kế thời trang
+NTLS | Nghĩa trang liệt sĩ
+NTLSTP | Nghĩa trang liệt sĩ thành phố
+NTMK | Nguyễn thị minh khai
+NTN | Như thế nào
+NTNN | Nhà thầu nước ngoài
+NTQĐ | Nghĩa trang quân đội
+NTTC | Nuôi tôm trên cát
+NTTS | Nuôi trồng thủy sản
+NTV | Những trang vàng
+NTVN | Ngoại thương việt nam
+NTVT | Người tốt việt tốt
+NTĐ | Nhà thi đấu
+NTĐYGT | Nhà thuốc đông y gia truyền
+NTĐĐ | Nghệ thuật đương đại
+NV | Nhân văn
+NVBĐD | Nhiệm vụ bất đắc dĩ
+NVCA | Nhà văn công an
+NVGC | Nhân viên gác chắn
+NVH | Nhà văn hóa
+NVHC | Nhân viên hành chính
+NVHCC | Nghiệp vụ hành chính công
+NVHLĐ | Nhà văn hóa lao động
+NVHN | Nhà văn hoài nam
+NVHTN | Nhà văn hóa thanh niên
+NVK | Nguyễn viết khánh
+NVKD | Nhân viên kinh doanh
+NVKVN | Nhạc vũ kịch việt nam
+NVL | Nguyên vật liêu
+NVN | Người việt nam
+NVNONN | Người việt nam ở nước ngoài
+NVPH | Nhân viên phi hành
+NVQG | Người việt quốc gia
+NVQL | Nhân viên quản lý
+NVQS | Nghĩa vụ quân sự
+NVS | Nhà vệ sinh
+NVSCC | Nhà vệ sinh công cộng
+NVTV | Nhân viên tư vấn
+NVTVBS | Nhân viên tư vấn bổ sung
+NVVN | Người việt về nguồn
+NVX | Nguyễn viết xuân
+NXB | Nhà xuất bản
+NXBCTQG | Nhà xuất bản chính trị quốc gia
+NXBGD | Nhà xuất bản giáo dục
+NXBT | Nhà xuất bản trẻ
+NXBTN | Nhà xuất bản thanh niên
+NXDKP | Nạn xây dựng không phép
+NXK | Nguyễn xuân kính
+NXN | Người xứ nghệ
+NYG | Niêm yết giá
+NĐ | Nghị định
+NĐCBVTS | Những điều cần biết về tuyển sinh
+NĐD | Ngô đình diệm
+NĐK | Người điều khiển
+NĐL | Nhiệt điện lạnh
+NĐM | Nông đức mạnh
+NĐNB | Nhiệt điện ninh bình
+NĐT | Nhà đầu tư
+NĐTB | Nhiệt độ trung bình
+NĐTNN | Nhà đầu tư nước ngoài
+NĐTP | Ngộ độc thực phẩm
+NĐTTN | Nhà đầu tư trong nước
+NĐVN | Người đẹp việt nam
+NĐĐ | Người đứng đầu
+ONKQ | Ống nội khí quản
+OTV | Ôn tiểu vân
+PABT | Phương án bồi thường
+PAĐM | Phương án đổi mới
+PBGDPL | Phổ biến giáo dục pháp luật
+PBK | Phố bách khoa
+PBT | Phó bí thư
+PBTL | Phủ biên tạp lục
+PBTTU | Phó bí thư thành uỷ
+PBVH | Phê bình văn học
+PC | Phòng chống
+PCBD | Phòng chống bệnh dại
+PCBL | Phòng chống bão lụt
+PCCC | Phòng cháy chữa cháy
+PCCCR | Phòng cháy chữa cháy rừng
+PCCN | Phòng chống cháy nổ
+PCCR | Phòng chống cháy rừng
+PCDC | Phòng chống dịch cúm
+PCDCGC | Phòng chống dịch cúm gia cầm
+PCGD | Phổ cập giáo dục
+PCGDBTH | Phổ cập giáo dục bậc trung học
+PCGDTH | Phổ cập giáo dục tiểu học
+PCLB | Phòng chống lụt bão
+PCLBMN | Phòng chống lụt bão miền nam
+PCLBTƯ | Phòng chống lụt bão trung ương
+PCMT | Phần cứng máy tính
+PCN | Phó chủ nhiệm
+PCP | Phi chính phủ
+PCSR | Phòng chống sốt rét
+PCT | Phó chủ tịch
+PCTH | Phổ cập tiểu học
+PCTHCS | Phổ cập trung học cơ sở
+PCTHTL | Phòng chống tác hại thuốc lá
+PCTN | Phòng chống tham nhũng
+PCTNXH | Phòng chống tệ nạn xã hội
+PCTPCNC | Phòng chống tội phạm công nghệ cao
+PCTPMT | Phòng chống tội phạm ma túy
+PCTVCA | Phòng chống thương vong châu á
+PCV | Phong cách việt
+PCVT | Phi công vũ trụ
+PDV | Phiên dịch viên
+PGCM | Phân giới cắm mốc
+PGDVL | Phiên giao dịch việc làm
+PGS | Phó giáo sư
+PGSTS | Phó giáo sư tiến sĩ
+PGTP | Phụ gia thực phẩm
+PGVN | Phật giáo việt nam
+PGĐ | Phó giám đốc
+PHBC | Phát hành báo chí
+PHCN | Phục hồi chức năng
+PHG | Phú hưng gia
+PHHS | Phụ huynh học sinh
+PHKQ | Phát hành kho quỹ
+PHPT | Phật học phổ thông
+PHQC | Phác họa quảng cáo
+PKB | Phòng khám bệnh
+PKKQ | Phòng không không quân
+PKKV | Phòng khám khu vực
+PKL | Phân khối lớn
+PKTN | Phòng khám tư nhân
+PKĐK | Phòng khám đa khoa
+PLCTRTN | Phân loại chất thải rắn từ nguồn
+PLDSKT | Pháp luật dân sự kinh tế
+PLHĐ | Phụ lục hợp đồng
+PLRTN | Phân loại rác tại nguồn
+PLTTNC | Pháp lệnh thuế thu nhập cao
+PMD | Phú mã dương
+PMDC | Phần mềm dùng chung
+PMH | Phú mỹ hưng
+PMK | Phú minh khánh
+PMNM | Phần mềm nguồn mở
+PMNĐ | Phần mềm nội địa
+PMST | Phần mềm sáng tạo
+PMTD | Phần mềm tự do
+PMV | Phần mềm việt
+PMVN | Phần mềm việt nam
+PNCL | Phòng nghiên cứu lịch
+PNCT | Phụ nữ có thai
+PNKB | Phong nha kẻ bàng
+PNMD | Phụ nữ mại dâm
+PNTE | Phụ nữ trẻ em
+PNTP | Phụ nữ việt thành phố
+PNVN | Phụ nữ việt nam
+PPDA | Phương pháp dự án
+PPDH | Phương pháp dạy học
+PQ | Phục quốc
+PRCR | Phòng ruồi chống ruồi
+PSDN | Phá sản doanh nghiệp
+PSPT | Phát sóng phát thanh
+PTCS | Phổ thông cơ sở
+PTCT | Phát triển chương trình
+PTCĐ | Phát triển cộng đồng
+PTDL | Phổ thông dân lập
+PTDS | Phúc thẩm dân sự
+PTDT | Phổ thông dân tộc
+PTDTNT | Phổ thông dân tộc nội trú
+PTGD | Phó tổng giám đốc
+PTGMHS | Phẫu thuật gây mê hồi sức
+PTGVTH | Phát triển giáo viên tiểu học
+PTGĐ | Phó tổng giám đốc
+PTHH | Phần tử hữu hạn
+PTHTCKCN | Phát triển hạ tầng các khu công nghiệp
+PTKS | Phát triển khoáng sản
+PTKT | Phân tích kỹ thuật
+PTKTXD | Phát triển kỹ thuật xây dựng
+PTLL | Phát triển lây lan
+PTM | Phòng thương mại
+PTN | Phát triển nhà
+PTNB | Phú thịnh nhà bè
+PTNBT | Phát triển nhà bình thạnh
+PTNK | Phổ thông năng khiếu
+PTNN | Phương trình nghiệm nguyên
+PTNT | Phát triển nông thôn
+PTNTVN | Phát triển nông thôn việt nam
+PTNTĐ | Phòng thí nghiệm trọng điểm
+PTPM | Phát triển phần mềm
+PTPT | Phiên tòa phúc thẩm
+PTS | Phó tiến sĩ
+PTT | Phó thủ tướng
+PTTH | Phổ thông trung học
+PTTHDL | Phổ thông trung học dân lập
+PTTHTT | Phổ thông trung học tự túc
+PTTM | Phẫu thuật thẩm mỹ
+PTTN | Phòng thu tư nhân
+PTTNĐ | Phương tiện thủy nội địa
+PTTT | Phát triển thị trường
+PTVMĐT | Phát triển văn minh đô thị
+PTVN | Phim truyện việt nam
+PTXD | Phế thải xây dựng
+PTĐT | Phát triển đô thị
+PV | Phóng viên
+PVBC | Phân viện báo chí
+PVBCTT | Phân viện báo chí tuyên truyền
+PVKT | Phân vùng kinh tế
+PVLĐ | Phóng viên lao động
+PVSHĐL | Phân viện sinh học đà lạt
+PVTS | Phóng viên tập sự
+PVTT | Phỏng vấn truyền thống
+PVV | Phỏng vấn viên
+PVXH | Phóng viên xã hội
+PVĐT | Phóng viên điều tra
+PXA | Phạm xuân ẩn
+PXN | Phòng xét nghiệm
+PĐL | Phan đăng lưu
+PĐP | Phan đình phùng
+PĐTBS | Phình đại tràng bẩm sinh
+QBQT | Quà biếu quà tặng
+QBV | Quả bóng vàng
+QBĐ | Quả bóng đồng
+QC | Quảng cáo
+QCATM | Quảng cáo ảnh thương mại
+QCCTNB | Quy chế chi tiêu nội bộ
+QCDC | Quy chế dân chủ
+QCHQ | Quân chủng hải quân
+QCPH | Quy chế phối hợp
+QCPKKQ | Quân chủng phòng không không quân
+QCTM | Quảng cáo thương mại
+QCTT | Quảng cáo trực tuyến
+QD | Quốc doanh
+QDĐ | Quốc dân đảng
+QG | Quốc gia
+QGGD | Quốc gia giáo dục
+QGHN | Quốc gia hà nội
+QGTPHCM | Quốc gia thành phố hồ chí minh
+QH | Quốc hội
+QHB | Quỹ học bổng
+QHCC | Quan hệ công chúng
+QHCT | Quy hoạch chi tiết
+QHCĐ | Quan hệ cổ đông
+QHKT | Quy hoạch kiến trúc
+QHLĐ | Quan hệ lao động
+QHQT | Quan hệ quốc tế
+QHSDĐ | Quy hoạch sử dụng đất
+QHT | Quy hoạch treo
+QHTB | Quần hùng tranh bá
+QHTD | Quan hệ tình dục
+QHTDLD | Quan hệ tình dục lần đầu
+QHTPTNLCNTT | Quỹ hỗ trợ phát triển nhân lực công nghệ thông tin
+QHVN | Quốc hội việt nam
+QHXD | Quy hoạch xây dựng
+QHĐ | Quy hoạch động
+QHĐT | Quy hoạch đô thị
+QK | Quân khu
+QKD | Quàng khăn đỏ
+QKHLM | Quỹ khuyến học liên mạng
+QKTD | Quân khu thủ đô
+QKTĐ | Quân khu thủ đô
+
+QLBC | Quản lý báo cáo
+QLBTDT | Quản lý bảo tồn di tích
+QLBV | Quản lý bệnh viện
+QLBVR | Quản lý bảo vệ rừng
+QLBVRPH | Ban quản lý bảo vệ rừng phòng hộ
+QLBX | Quản lý bến xe
+QLC | Quản lý chợ
+QLCCTTĐ | Quản lý các công trình trọng điểm
+QLCL | Quản lý chất lượng
+QLCLCTGT | Quản lý chất lượng công trình giao thông
+QLCLHH | Quản lý chất lượng hàng hóa
+QLCN | Quản lý công nghiệp
+QLCS | Quản lý công sản
+QLCT | Quản lý cạnh tranh
+QLCTĐT | Quản lý công trình đô thị
+QLCTĐTĐL | Quản lý công trình đô thị đà lạt
+QLD | Quản lý dược
+QLDA | Quản lý dự án
+QLDATL | Quản lý dự án thủy lợi
+QLDATĐ | Quản lý dự án thủy điện
+QLDAĐT | Quản lý dự án đầu tư
+QLDB | Quản lý đường bộ
+QLDT | Quản lý đô thị
+QLDVN | Quản lý dược việt nam
+QLGD | Quản lý giáo dục
+QLGT | Quản lý giao thông
+QLGTDT | Quản lý giao thông đô thị
+QLGTĐT | Quản lý giao thông đô thị
+QLHC | Quản lý hành chính
+QLHCTTXH | Quản lý hành chính trật tự xã hội
+QLHCVTTXH | Quản lý hành chính về trật tự xã hội
+QLHT | Quản lý hộ tịch
+QLKD | Quản lý kinh doanh
+QLKT | Quản lý khai thác
+QLKTCTTL | Quản lý khai thác công trình thủy lợi
+QLKTX | Quản lý ký túc xá
+QLLCT | Quản lý luật cạnh tranh
+QLLĐ | Quản lý lao động
+QLLĐNN | Quản lý lao động nước ngoài
+QLLĐVNN | Quản lý lao động với nước ngoài
+QLMT | Quản lí môi trường
+QLN | Quà lưu niệm
+QLNBT | Quản lý nhà bình thạnh
+QLNH | Quản lý ngoại hối
+QLNLTS | Quản lý nguồn lợi thủy sản
+QLNN | Quản lý nhà nước
+QLNS | Quản lý nhân sự
+QLNT | Quản lý nhà trường
+QLNĐ | Quản lý nhà đất
+QLP | Quản lý phí
+QLPT | Quản lý phát triển
+QLPTN | Quản lý phát triển nhà
+QLR | Quản lý rừng
+QLRPH | Quản lý rừng phòng hộ
+QLSD | Quản lý sử dụng
+QLSDTSNN | Quản lý sử dụng tài sản nhà nước
+QLSV | Quản lý sinh viên
+QLT | Quản lý thuế
+QLTL | Quản lý thủy lợi
+QLTN | Quản lý thủy nông
+QLTS | Quản lý tài sản
+QLTSNN | Quản lý tài sản nhà nước
+QLTT | Quản lý thị trường
+QLTTBĐS | Quản lý thị trường bất động sản
+QLTTXD | Quản lý trật tự xây dựng
+QLTTĐT | Quản lý trật tự đô thị
+QLVH | Quản lý vận hành
+QLVSATTP | Quản lý vệ sinh an toàn thực phẩm
+QLXD | Quản lý xây dựng
+QLXNC | Quản lý xuất nhập cảnh
+QLXNK | Quản lý xuất nhập khẩu
+QLĐB | Quản lý đường bộ
+QLĐHVTHKCC | Quản lý điều hành vận tải hành khách công cộng
+QLĐS | Quản lý đường sông
+QLĐT | Quản lý đô thị
+QLĐĐ | Quản lý đất đai
+QN | Quảng nam
+QNH | Quầy ngân hàng
+QP | Quốc phòng
+QPN | Quận phú nhuận
+QPPL | Quy phạm pháp luật
+QRTD | Quấy rối tình dục
+QS | Quân sự
+QSD | Quyền sử dụng
+QSDD | Quyền sử dụng đất
+QSDĐ | Quyền sử dụng đất
+QSH | Quyền sở hữu
+QSHCTTĐ | Quyền sở hữu công trình trên đất
+QSHN | Quyền sở hữu nhà
+QSHNĐ | Quyền sở hữu nhà đất
+QSHTT | Quyền sở hữu trí tuệ
+QSQK | Quân sự quân khu
+QSTW | Quân sự trung ương
+QSĐ | Quyền sử dụng
+QTB | Quận tân bình
+QTDN | Quản trị doanh nghiệp
+QTDND | Quỹ tín dụng nhân dân
+QTG | Quốc tử giám
+QTH | Quản trị học
+QTHN | Quốc tế hà nội
+QTKD | Quản trị kinh doanh
+QTKDQT | Quản trị kinh doanh quốc tế
+QTLV | Quỹ tấm lòng vàng
+QTM | Quản trị mạng
+QTN | Quốc tế ngữ
+QTNL | Quản trị nhân lực
+QTNS | Quản trị nhân sự
+QTTC | Quản trị tài chính
+QTTT | Quản trị tri thức
+QTTV | Quản trị thư viện
+QTV | Quản trị viên
+QTVN | Quốc tịch việt nam
+QTVP | Quản trị văn phòng
+QV | Quần vợt
+QX | Quảng xương
+QYV | Quân y viện
+QĐCC | Quyết định cưỡng chế
+QĐD | Quý đông dương
+QĐGĐT | Quyết định giám đốc thẩm
+QĐKL | Quyết định kỷ luật
+QĐND | Quân đội nhân dân
+QĐNDVN | Quân đội nhân dân việt nam
+QĐNH | Quyết định nghỉ hưu
+QĐST | Quyết định sa thải
+QĐT | Quỹ đầu tư
+QĐTT | Quy định tạm thời
+QĐXB | Quyết định xuất bản
+QĐĐC | Quyết định đính chính
+RHM | Răng hàm mặt
+RLAACC | Rối loạn ám ảnh cưỡng chế
+RLC | Rối loạn cương
+RLCD | Rối loạn cương dương
+RLLA | Rối loạn lo âu
+RLMM | Rối loạn mỡ máu
+RLPL | Rối loạn phân ly
+RNLG | Rừng nguyên liệu giấy
+RNTT | Rối nhiễu tâm trí
+RPHĐN | Rừng phòng hộ đầu nguồn
+RTCN | Rác thải công nghiệp
+RTYT | Rác thải y tế
+RVP | Rượu vạn phát
+RĐD | Rừng đặc dụng
+RĐTG | Rung động thư giãn
+SBC | Săn bắt cướp
+SBCR | Sân bay cam ranh
+SBD | Số báo danh
+SBH | Sổ bảo hiểm
+SBT | Sách bài tập
+SCD | Sách cổ đông
+SCN | Sàn công nghiệp
+SCTBCN | Sửa chữa thiết bị công nghiệp
+SCTM | Sự cố treo máy
+SCĐB | Sửa chữa đường bộ
+SDD | Suy dinh dưỡng
+SDDBT | Suy dinh dưỡng bào thai
+SDH | Sau đại học
+SDLĐ | Sử dụng lao động
+SDQ | Sơn dương quán
+SDT | Số điện thoại
+SDĐ | Sử dụng đất
+SDĐNN | Sử dụng đất nông nghiệp
+SGDCK | Sở giao dịch chứng khoán
+SGDVL | Sàn giao dịch việc làm
+SGGP | Sài gòn giải phóng
+SGK | Sách giáo khoa
+SGNT | Sài gòn nhật thực
+SGTT | Sài gòn tíêp thị
+SGTVT | Sở giao thông vận tải
+SGV | Sách giáo viên
+SHBD | Số hiệu bản đồ
+SHCN | Sở hữu công nghiệp
+SHH | Sinh hóa học
+SHNN | Sở hữu nhà nước
+SHPT | Sinh học phổ thông
+SHTT | Sở hữu trí tuệ
+SK | Sân khấu
+SKBMTE | Sức khỏe bà mẹ trẻ em
+SKCT | Sáng kiến cải tiến
+SKCTKT | Sáng kiến cải tiến kỉ thuật
+SKCĐ | Sức khoẻ cộng đồng
+SKHĐT | Sở kế hoạch đầu tư
+SKKN | Sáng kiến kinh nghiệm
+SKLĐ | Sức khỏe lao động
+SKMT | Sức khỏe môi trường
+SKSS | Sức khoẻ sinh sản
+SKST | Sáng kiến sáng tạo
+SKTD | Sức khỏe tình dục
+SKTT | Sức khỏe tinh thần
+SKV | Sai khớp vai
+SKĐ | Sổ kiểm định
+SKĐA | Sân khấu điện ảnh
+SLL | Số lượng lớn
+SLN | Số lượng nhỏ
+SLNA | Sông lam nghệ an
+SLV | Số lượng vừa
+SLĐTBXH | Sở lao động thương binh xã hội
+SMH | Số mặt hàng
+SMMT | Sơn mài mỹ thuật
+SMN | Sơ mi ngắn
+SMĐ | Sao mai điểm
+SMĐH | Sao mai điểm hẹn
+SN | Sinh năm
+SNN | Sở nông nghiệp
+SNV | Sở nội vụ
+SP | Sư phạm
+SPCN | Sản phẩm công nghiệp
+SPHH | Sản phẩm hàng hóa
+SPHN | Sư phạm hà nội
+SPKT | Sư phạm kỹ thuật
+SPST | Sản phẩm sinh thái
+SQLQ | Sĩ quan lục quân
+SRKST | Sốt rét ký sinh trùng
+SRKSTCT | Sốt rét ký sinh trùng côn trùng
+SSCĐ | Sẵn sàng chiến đấu
+STBTH | Sách thiết bị trường học
+STDM | Siêu thị điện máy
+STHS | Sơ thẩm hình sự
+STKTN | Sách tham khảo trắc nghiệm
+STMT | Suy thận mãn tính
+STQC | Sang thương quanh chóp
+STT | Số thứ tự
+STTC | Siêu thị tình cảm
+STTK | Sợi trục thần kinh
+STTN | Sử thi tây nguyên
+STTT | Sinh thiết tức thì
+STĐT | Sinh thái đô thị
+SV | Sinh viên
+SVBC | Sinh viên báo chí
+SVD | Sân vận động
+SVH | Sinh viên hội
+SVHS | Sinh viên học sinh
+SVHTT | Sở văn hóa thông tin
+SVNCKH | Sinh viên nghiên cứu khoa học
+SVNN | Sinh viên nước ngoài
+SVT | Siêu vi trùng
+SVTN | Sinh viên tình nguyện
+SVVN | Sinh viên việt nam
+SVĐ | Sân vận động
+SVĐH | Sinh viên đại học
+SVĐQG | Sân vận động quốc gia
+SVĐTT | Sân vận động trung tâm
+SVĐV | Sao vàng đất việt
+SX | Sản xuất
+SXBB | Sản xuất bao bì
+SXCN | Sản xuất công nghiệp
+SXD | Sở xây dựng
+SXH | Sốt xuất huyết
+SXKD | Sản xuất kinh doanh
+SXNN | Sản xuất nông nghiệp
+SXSH | Sản xuất sạch hơn
+SXTĐ | Sản xuất trọng điểm
+SXVLXD | Sản xuất vật liệu xây dựng
+SXXK | Sản xuất xuất khẩu
+SXXNK | Sản xuất xuất nhập khẩu
+SXXNKBD | Sản xuất xuất nhập khẩu bình dương
+SĐ | Sông đà
+SĐD | Sách đã dẫn
+SĐG | Sàn đấu giá
+SĐH | Sau đại học
+SĐK | Số đăng ký
+SĐT | Số điện thoại
+TACN | Thức ăn chăn nuôi
+TADN | Tiếng anh doanh nghiệp
+TAND | Tòa án nhân dân
+TANDTC | Tòa án nhân dân tối cao
+TANDTP | Tòa án nhân dân thành phố
+TANDTPHCM | Tòa án nhân dân thành phố hồ chí minh
+TAQS | Tòa án quân sự
+TAĐP | Thức ăn đường phố
+TB | Thông báo
+TBBP | Tình bạn bốn phương
+TBBTTN | Trung bình bài thi tốt nghiệp
+TBCN | Thiết bị công nghệ
+TBCS | Thiết bị chiếu sáng
+TBD | Thái bình dương
+TBDH | Thiết bị dạy học
+TBDĐ | Thuê bao di động
+TBDĐTT | Thuê bao di động trả trước
+TBGD | Thiết bị giáo dục
+TBKT | Thời báo kinh tế
+TBKTD | Thiết bị kỹ thuật điện
+TBKTSG | Thời báo kinh tế sài gòn
+TBKTVN | Thời báo kinh tế việt nam
+TBKTĐ | Thiết bị kỹ thuật điện
+TBLS | Thương binh liệt sĩ
+TBLĐ | Thương binh lao động
+TBMMN | Tai biến mạch máu não
+TBN | Tây ban nha
+TBNN | Trung bình nhiều năm
+TBT | Tổng bí thư
+TBTG | Thuê bao trọn gói
+TBTH | Thiết bị trường học
+TBTKĐ | Thiết bị tiết kiệm điện
+TBTT | Thuê bao trả trước
+TBXH | Thương binh xã hội
+TBYT | Thiết bị y tế
+TBĐ | Thiết bị điện
+TBĐT | Thuê bao điện thoại
+TCBC | Thông cáo báo chí
+TCBD | Tổng cục bưu điện
+TCBP | Thừa cân béo phì
+TCBVNTD | Tiêu chuẩn bảo vệ người tiêu dùng
+TCBĐ | Tổng cục bưu điện
+TCC | Tiêu chảy cấp
+TCCB | Tổ chức cán bộ
+TCCL | Tiêu chuẩn chất lượng
+TCCN | Trung cấp chuyên nghiệp
+TCCP | Tiêu chuẩn cho phép
+TCCQ | Tổ chức chính quyền
+TCCS | Tổng cục cảnh sát
+TCCT | Tổng cục chính trị
+TCCVTQT | Trộm cắp cước viễn thông quốc tế
+TCD | Thảm cách điện
+TCDL | Tổng cục du lịch
+TCDLVN | Tổng cục du lịch việt nam
+TCDN | Tài chính doanh nghiệp
+TCG | Thiên chúa giáo
+TCHQ | Tổng cục hải quan
+TCHTQ | Tổng công hội trung quốc
+TCKD | Trò chơi kinh doanh
+TCKH | Tạp chí khoa học
+TCKT | Tài chính kế toán
+TCLĐ | Tranh chấp lao động
+TCM | Thành công mới
+TCMN | Thủ công mỹ nghệ
+TCMR | Tiêm chủng mở rộng
+TCMRQG | Tiêm chủng mở rộng quốc gia
+TCN | Tiêu chuẩn ngành
+TCNH | Tài chính ngân hàng
+TCNS | Tổ chức nhân sự
+TCPK | Tác chiến phòng không
+TCQG | Trường chuẩn quốc gia
+TCQT | Tài chính quốc tế
+TCSPMN | Trung cấp sư phạm mầm non
+TCSS | Trầm cảm sau sinh
+TCT | Thống cáp treo
+TCTC | Tổ chức tài chính
+TCTCDLCL | Tổng cục tiêu chuẩn đo lường chất lượng
+TCTCN | Tổng công ty cấp nước
+TCTCSVN | Tổng công ty cao su việt nam
+TCTD | Tổ chức tín dụng
+TCTDTT | Tổng cục thể dục thể thao
+TCTK | Tổng cục thống kê
+TCTL | Tín chỉ tích lũy
+TCTNN | Tổng công ty nhà nước
+TCTS | Thái cực trường sinh
+TCTT | Tài chính tiền tệ
+TCTXDCTGT | Tổng công ty xây dựng công trình giao thông
+TCV | Tình ca việt
+TCVG | Tài chính vật giá
+TCVN | Tiêu chuẩn việt nam
+TCVSG | Thảo cầm viên sài gòn
+TCXD | Tiêu chuẩn xây dựng
+TCXDVN | Tiêu chuẩn xây dựng việt nam
+TCYD | Trưng cầu ý dân
+TCYTQB | Trung cấp y tế quảng bình
+TCYTTG | Tổ chức y tế thế giới
+TCĐ | Tranh cổ động
+TCĐC | Tổng cục địa chính
+TCĐLCL | Tiêu chuẩn đo lường chất lượng
+TCĐN | Tài chính đối ngoại
+TCĐS | Tổng cục đường sắt
+TCĐTCT | Trò chơi điện tử có thưởng
+TDDC | Tự do dân chủ
+TDG | Tự đánh giá
+TDK | Tây du ký
+TDLĐ | Tuyển dụng lao động
+TDM | Trí đạt ma
+TDND | Tín dụng nhân dân
+TDNT | Thể dục nghệ thuật
+TDT | Thư điện tử
+TDTC | Tư duy tích cực
+TDTE | Tình dục trẻ em
+TDTKC | Tình dục tự kiềm chế
+TDTM | Thể dục thẩm mỹ
+TDTS | Tổng diện tích sàn
+TDTT | Thể dục thể thao
+TDV | Trình dược viên
+TELT | Trẻ em lang thang
+TEVN | Trẻ em việt nam
+TGCC | Thần giao cách cảm
+TGCT | Thời gian công tác
+TGD | Tổng giám đốc
+TGDT | Tôn giáo dân tộc
+TGDĐ | Thế giới di động
+TGGD | Trị giá giao dịch
+TGGT | Thế giới giải trí
+TGHM | Thế giới hoàn mỹ
+TGLX | Tứ giác long xuyên
+TGM | Tổng giám mục
+TGN | Thiết giáp nhân
+TGNS | Thế giới nghệ sĩ
+TGNV | Thế giới người việt
+TGPL | Trợ giúp pháp luật
+TGPN | Thế giới phụ nữ
+TGS | Thế giới số
+TGVH | Thế giới văn hóa
+TGVL | Thế giới võ lâm
+TGVT | Thế giới vi tính
+TGĐ | Tổng giám đốc
+TH | Truyền hình
+THADS | Thi hành án dân sự
+THAPT | Thi hành án phạt tù
+THBC | Trung học bán công
+THBT | Trung học bổ túc
+THBTVH | Trung học bổ túc văn hóa
+THBĐ | Tin học bình định
+THCA | Truyền hình công an
+THCB | Tin học cơ bản
+THCN | Trung học chuyên nghiệp
+THCS | Trung học cơ sở
+THCSNĐ | Thực hiện chính sách nhà đất
+THCVN | Truyền hình cáp việt nam
+THDL | Tiểu học dân lập
+THDLKT | Trung học dân lập kinh tế
+THGT | Tín hiệu giao thông
+THHN | Tổng hợp hướng nghiệp
+THKT | Thực hành kế toán
+THKTNV | Trung học kỹ thuật nghiệp vụ
+THLV | Tân huấn luyện viên
+THNC | Trung hòa nhân chính
+THNS | Thương hiệu nông sản
+THNXC | Thông hành nhập xuất cảnh
+THPH | Trung học phổ thông
+THPT | Trung học phổ thông
+THPTDL | Trung học phổ thông dân lập
+THQCT | Thực hành quyền công tố
+THQG | Thương hiệu quốc gia
+THSCT | Tôn hoa sen cần thơ
+THSP | Thực hành sư phạm
+THTH | Tiếng hát truyền hình
+THTK | Thực hành tiết kiệm
+THTM | Tạo hình thẩm mỹ
+THTT | Truyền hình trực tiếp
+THV | Thương hiệu việt
+THVN | Truyền hình việt nam
+THVP | Tin học văn phòng
+THYT | Trung học y tế
+THYTLA | Trung học y tế long an
+THĐ | Trần hưng đạo
+THĐH | Thương hiệu đại học
+TKB | Thời khóa biểu
+TKBS | Thiết kế bìa sách
+TKBĐ | Tiết kiệm bưu điện
+TKCLP | Tiết kiệm chống lãng phí
+TKCN | Tìm kiếm cứu nạn
+TKD | Tiết kiệm điện
+TKHQ | Tờ khai hải quan
+TKK | Thiết kế kênh
+TKKT | Thiết kế kỹ thuật
+TKM | Thống kê mới
+TKMX | Trực khuẩn mủ xanh
+TKS | Tòa khâm sứ
+TKSBPCK | Trạm kiểm soát biên phòng cửa khẩu
+TKSLHCKQT | Trạm kiểm soát liên hợp cửa khẩu quốc tế
+TKSVN | Than khoáng sản việt nam
+TKT | Trường kỹ thuật
+TKTK | Thuốc khử trùng kho
+TKTN | Tiết kiệm tình nghĩa
+TKTQ | Thư ký trường quay
+TKTS | Thư ký tòa soạn
+TKTST | Thuốc kích thích sinh trưởng
+TKTT | Thiết kế thời trang
+TKXD | Thiết kế xây dựng
+TKĐ | Tiết kiệm điện
+TLCS | Tuyển lựa ca sĩ
+TLD | Tổng liên đoàn
+TLGD | Tư liệu giáo dục
+TLGT | Tỉ lệ giới tính
+TLGTKS | Tỉ lệ giới tính khi sinh
+TLH | Tân long huy
+TLKH | Tài liệu khoa học
+TLKHTƯ | Tài liệu khoa học
+TLL | Tiền lấy lời
+TLNL | Thuốc lá nhập lậu
+TLNS | Tôi là ngôi sao
+TLSQ | Tổng lãnh sự quán
+TLSSG | Thủy lợi sông sài gòn
+TLTN | Trả lời trắc nghiệm
+TLTT | Tư lệnh thông tin
+TLV | Tấm lòng vàng
+TLVA | Thụ lý vụ án
+TLVCĐ | Tấm lòng vàng công đoàn
+TLVLĐ | Tấm lòng vàng lao động
+TLVĐ | Tự lực văn đoàn
+TLĐ | Tổng liên đoàn
+TLĐLĐ | Tổng liên đoàn lao động
+TLĐLĐVN | Tổng liên đoàn lao động việt nam
+TM | Thương mại
+TMB | Tổng mặt bằng
+TMCN | Thương mại công nghiệp
+TMCNVN | Thương mại công nghiệp việt nam
+TMCP | Thương mại cổ phần
+TMCPQĐ | Thương mại cổ phần quân đội
+TMDK | Thương mại dầu khí
+TMDL | Thương mại du lịch
+TMDV | Thương mại dịch vụ
+TMH | Tai mũi họng
+TMLB | Thương mại lao bảo
+TMLS | Thương mại lâm sản
+TMM | Tin may mắn
+TMMN | Thương mại miền núi
+TMMP | Tên miền miễn phí
+TMN | Thép miền nam
+TMNCSG | Thép miền nam cảng sài gòn
+TMNN | Thương mại nhà nước
+TMNĐ | Tuyết miền nhiệt đới
+TMQD | Thương mại quốc doanh
+TMSS | Tin mừng sự sống
+TMSX | Thương mại sản xuất
+TMT | Tham mưu trưởng
+TMTDTS | Thu mua trưng dụng tài sản
+TMTH | Thương mại tổng hợp
+TMTHMN | Thương mại tổng hợp miền núi
+TMTV | Tên miền tiếng việt
+TMTW | Truyền máu trung ương
+TMXNK | Thương mại xuất nhập khẩu
+TMĐB | Thương mại đặc biệt
+TMĐT | Thương mại điện tử
+TN | Tin nhắn
+TNCA | Tầm nhìn châu á
+TNCN | Thu nhập cá nhân
+TNCQ | Thanh niên cứu quốc
+TNCS | Thanh niên cộng sản
+TNCSHCM | Thanh niên cộng sản hồ chí minh
+TNCĐ | Tốt nghiệp cao đẳng
+TNDC | Thanh niên dân chủ
+TNDCTG | Thanh niên dân chủ thế giới
+TNDN | Thu nhập doanh nghiệp
+TNDS | Trách nhiệm dân sự
+TNDT | Thống nhất dân tộc
+TNDTTS | Thanh niên dân tộc thiểu số
+TNGT | Tai nạn giao thông
+TNHC | Trinh nữ hoang cung
+TNHH | Trách nhiệm hữu hạn
+TNHHNN | Trách nhiệm hữu hạn nhà nước
+TNHN | Thanh niên hà nội
+TNK | Thổ nhĩ kỳ
+TNKQ | Trắc nghiệm khách quan
+TNKS | Tài nguyên khoáng sản
+TNKT | Thanh niên khuyết tật
+TNLN | Thanh niên lập nghiệp
+TNLĐ | Tai nạn lao động
+TNMT | Tài nguyên môi trường
+TNMTNĐ | Tài nguyên môi trường nhà đất
+TNN | Tài nguyên nước
+TNND | Tiếng nói nhân dân
+TNNDCM | Thanh niên nhân dân cách mạng
+TNNDTP | Tiếng nói nhân dân thành phố
+TNNT | Thanh niên nông thôn
+TNPH | Tài nguyên phục hồi
+TNPT | Tốt nghiệp phổ thông
+TNPTTH | Tốt nghiệp phổ thông trung học
+TNS | Thượng nghị sĩ
+TNSTN | Tài năng sáng tạo nữ
+TNSV | Thanh niên sinh viên
+TNTC | Tốt nghiệp trung cấp
+TNTHPT | Tốt nghiệp trung học phổ thông
+TNTN | Thanh niên tình nguyện
+TNTP | Thiếu niên tiền phong
+TNTQ | Trào ngược thực quản
+TNTS | Thanh niên tuần san
+TNTT | Thiếu nhi thánh thể
+TNV | Tình nguyện viên
+TNVN | Tiếng nói việt nam
+TNVSMT | Thoát nước vệ sinh môi trường
+TNXH | Tệ nạn xã hội
+TNXK | Thanh niên xung kích
+TNXKTN | Thanh niên xung kích tình nguyện
+TNXN | Thanh niên xuất ngũ
+TNXP | Thanh niên xung phong
+TNXPGPMN | Thanh niên xung phong giải phóng miền nam
+TNĐH | Tốt nghiệp đại học
+TNĐT | Thoát nước đô thị
+TP | Thành phố
+TPB | Thương phế binh
+TPBB | Tín phiếu bắt buộc
+TPBH | Thành phố biên hòa
+TPCGC | Tiêm phòng cúm gia cầm
+TPCL | Tây phương cực lạc
+TPCM | Thành phố cà mau
+TPCN | Thực phẩm chức năng
+TPCP | Trái phiếu chính phủ
+TPDL | Thực phẩm đông lạnh
+TPDT | Trái phiếu đô thị
+TPG | Thẩm phán gia
+TPHCM | Thành phố hồ chí minh
+TPHN | Thành phố hà nội
+TPHP | Thành phố hải phòng
+TPKAT | Thực phẩm không an toàn
+TPMN | Túi phình mạch não
+TPN | Tổ phụ nữ
+TPNS | Thực phẩm nông sản
+TPNT | Tác phẩm nghệ thuật
+TPPY | Tư pháp phú yên
+TPQN | Thành phố quy nhơn
+TPSA | Tương phản siêu âm
+TPV | Thành phố vinh
+TPVT | Thành phố vũng tàu
+TPĐN | Thành phố đà nẵng
+TQB | Tạ quang bửu
+TQC | Tam quốc chí
+TQDN | Tam quốc diễn nghĩa
+TQGC | Tổ quốc ghi công
+TQKC | Toàn quốc kháng chiến
+TQS | Tập quân sự
+TQVN | Tổ quốc việt nam
+TRPH | Trồng rừng phòng hộ
+TRPHSB | Trồng rừng phòng hộ sông bồ
+TS | Tiến sĩ
+TSBHT | Tây sơn bi hùng truyện
+TSBT | Tổng số bàn thắng
+TSBĐ | Tài sản bảo đảm
+TSCD | Tài sản cố định
+TSCĐ | Tài sản cố định
+TSDĐ | Tiền sử dụng đất
+TSDĐNN | Thuế sử dụng đất nông nghiệp
+TSGTKS | Tỉ số giới tính khi sinh
+TSHL | Thủy sản hạ long
+TSKH | Tiến sĩ khoa học
+TSKV | Tần số khu vực
+TSMT | Tiếp sức mùa thi
+TSN | Tân sơn nhất
+TSNL | Thủy sản nông lâm
+TSNN | Tài sản nhà nước
+TSPT | Tuyển sinh phổ thông
+TSQS | Tuyển sinh quân sự
+TSTC | Trà sữa trân châu
+TSTD | Tài sản tồn đọng
+TSTH | Tầng sôi tạo hạt
+TSTNKDT | Thắp sáng tài năng kinh doanh trẻ
+TSTĐKQT | Trại sáng tác điêu khắc quốc tế
+TSXHCN | Tài sản xã hội chũ nghĩa
+TSĐ | Tổng sơ đồ
+TSĐKDT | Thí sinh đăng ký dự thi
+TT | Thông tin
+TT&TT | Thông tin và truyền thông
+TTATGT | Trật tự an toàn giao thông
+TTATXH | Trật tự an toàn xã hội
+TTB | Trang thiết bị
+TTBC | Trung tâm báo chí
+TTBCTYT | Trang thiết bị công trình y tế
+TTBDVH | Trung tâm bồi dưỡng văn hóa
+TTBH | Thị trấn bỏ hoang
+TTBTDT | Trung tâm bảo tồn di tích
+TTBTDTCĐ | Trung tâm bảo tồn di tích cố đô
+TTBTXH | Trung tâm bảo trợ xã hội
+TTBVQTG | Trung tâm bảo vệ quyền tác giả
+TTBYT | Trang thiết bị y tế
+TTBĐGTS | Trung tâm bán đấu giá tài sản
+TTBĐS | Thị trường bất động sản
+TTCB | Tuổi trẻ cao bằng
+TTCC | Trật tự công cộng
+TTCD | Trung tâm chống độc
+TTCHG | Trung tâm cứu hộ gấu
+TTCK | Thị trường chứng khoán
+TTCKVN | Thị trường chứng khoán việt nam
+TTCN | Thông tin công nghệ
+TTCNMT | Tiểu thủ công nghiệp miền trung
+TTCP | Thanh tra chính phủ
+TTCPQG | Trung tâm chiếu phim quốc gia
+TTCT | Tôm thẻ chân trắng
+TTCTXH | Thực tập công tác xã hội
+TTCV | Thanh tra công vụ
+TTCĐ | Trung tâm cá độ
+TTD | Thuyết tương đối
+TTDB | Tiêu thụ đặc biệt
+TTDBKTTV | Trung tâm dự báo khí tượng thủy văn
+TTDBKTTVTW | Trung tâm dự báo khí tượng thủy văn trung ương
+TTDBKTTVTƯ | Trung tâm dự báo khí tượng thủy văn trung ương
+TTDD | Thông tin di động
+TTDN | Trung tâm dạy nghề
+TTDVBĐG | Trung tâm dịch vụ bán đấu giá
+TTDVKH | Trung tâm dịch vụ khách hàng
+TTDVKTQLB | Trung tâm dịch vụ kỹ thuật quản lý bay
+TTDVVL | Trung tâm dịch vụ việc làm
+TTDVĐC | Trung tâm dịch vụ địa chính
+TTDĐ | Thông tin di động
+TTG | Tăng thiết giáp
+TTGC | Thị thường giá cả
+TTGD | Trung tâm giao dịch
+TTGDBĐS | Trung tâm giao dịch bất động sản
+TTGDCK | Trung tâm giao dịch chứng khoán
+TTGDCKHN | Trung tâm giao dịch chứng khoán hà nội
+TTGDCNTT | Trung tâm giao dịch công nghệ thông tin
+TTGDCT | Tập trung giáo dục cải tạo
+TTGDLĐ | Trung tâm giáo dục lao động
+TTGDLĐTVL | Trung tâm giáo dục lao động tạo việc làm
+TTGDLĐXH | Trung tâm giáo dục lao động xã hội
+TTGDNPL | Trung tâm giao dịch nguyên phụ liệu
+TTGDSK | Truyền thông giáo dục sức khỏe
+TTGDTX | Trung tâm giáo dục thường xuyên
+TTGT | Thanh tra giao thông
+TTGTCC | Thanh tra giao thông công chánh
+TTGTSP | Trung tâm giới thiệu sản phẩm
+TTGTVL | Trung tâm giới thiệu việc làm
+TTGTVLBĐ | Trung tâm giới thiệu việc làm bình định
+TTGTĐS | Thanh tra giao thông đường sắt
+TTGĐ | Tiếp thị gia đình
+TTHC | Thủ tục hành chính
+TTHCM | Tư tưởng hồ chí minh
+TTHCTL | Trung tâm hội chợ triển lãm
+TTHK | Tiếp thị hành khách
+TTHLQG | Trung tâm huấn luyện quốc gia
+TTHLTT | Trung tâm huấn luyện thể thao
+TTHLTTQG | Trung tâm huấn luyện thể thao quốc gia
+TTHLTTQGI | Trung tâm huấn luyện thể thao quốc gia i
+TTHN | Trung tâm hội nghị
+TTHNQG | Trung tâm hội nghị quốc gia
+TTHS | Tố tụng hình sự
+TTHTCC | Tiếp tục hợp tác chặt chẽ
+TTHTKH | Trung tâm hỗ trợ khách hàng
+TTHTSV | Trung tâm hỗ trợ sinh viên
+TTHĐTTN | Trung tâm hoạt động thanh thiếu niên
+TTHĐTTNPY | Trung tâm hoạt động thanh thiếu nhi phú yên
+TTK | Tổng thư ký
+TTKDTM | Thanh toán không dùng tiền mặt
+TTKDYTQT | Trung tâm kiểm dịch y tế quốc tế
+TTKH | Thông tin khoa học
+TTKHTN | Trung tâm khoa học tự nhiên
+TTKN | Trung tâm kiểm nghiệm
+TTKNHN | Trung tâm khuyến nông hà nội
+TTKS | Tuần tra kiểm soát
+TTKSGT | Tuần tra kiểm soát giao thông
+TTKSTSKV | Trung tâm kiểm soát tần số khu vực
+TTKTPTQĐ | Trung tâm khai thác phát triển quỹ đất
+TTKTTV | Trung tâm khí tượng thủy văn
+TTKĐQG | Trung tâm kiểm định quốc gia
+TTKĐTBVTVPN | Trung tâm kiểm định thuốc bảo vệ thực vật phía nam
+TTKĐXD | Trung tâm kiểm định xây dựng
+TTLB | Thông tư liên bộ
+TTLHVHDL | Trung tâm lễ hội văn hóa du lịch
+TTLK | Trung tâm lưu ký
+TTLKCK | Trung tâm lưu ký chứng khoán
+TTLL | Thông tin liên lạc
+TTLN | Thông tư liên ngành
+TTLT | Thông tư liên tịch
+TTLTQG | Trung tâm lưu trữ quốc gia
+TTLĐ | Thông tin lưu động
+TTLĐNN | Trung tâm lao động ngoài nước
+TTLĐTN | Truyền thông lưu động thanh niên
+TTMS | Trung tâm mua sắm
+TTMT | Từ thiện miền trung
+TTNC | Trung tâm nghiên cứu
+TTNCGC | Trung tâm nghiên cứu gia cầm
+TTNCKTKH | Trung tâm nghiên cứu khí tượng khí hậu
+TTNCQH | Trung tâm nghiên cứu quốc học
+TTND | Thanh tra nhân dân
+TTNKT | Thể thao người khuyết tật
+TTNN | Thể thao ngày nay
+TTNNT | Trang trí nội ngoại thất
+TTNNĐ | Thanh thiếu niên nhi đồng
+TTNT | Trang trí nội thất
+TTNĐ | Trung tâm nhiệt điện
+TTPC | Trung tâm phòng chống
+TTPCBXH | Trung tâm phòng chống bệnh xã hội
+TTPL | Tâm thần phân liệt
+TTQBS | Teo thực quản bẩm sinh
+TTQG | Thể thao quốc gia
+TTQGQT | Trung tâm quốc gia quan trắc
+TTQL | Trung tâm quản lý
+TTQLKT | Trật tự quản lý kinh tế
+TTQLKTVCV | Trật tự quản lý kinh tế và chức vụ
+TTQT | Thanh toán quốc tế
+TTRHM | Trung tâm răng hàm mặt
+TTSG | Trung tâm sài gòn
+TTSH | Trung tâm sát hạch
+TTSV | Thể thao sinh viên
+TTTC | Trung tâm tài chính
+TTTG | Thị trường thế giới
+TTTH | Trung tâm tin học
+TTTHDL | Trung tâm tích hợp dữ liệu
+TTTKCN | Trung tâm triển khai công nghệ
+TTTM | Trung tâm thương mại
+TTTMH | Trung tâm tai mũi họng
+TTTMPH | Trung tâm thương mại phức hợp
+TTTN | Thực tập tốt nghiệp
+TTTON | Thụ tinh trong ống nghiệm
+TTTT | Thực tập thực tế
+TTTTC | Thể thao thành tích cao
+TTTTCP | Trung tâm thanh toán cước phí
+TTTTN | Trí thức trẻ tình nguyện
+TTTTTD | Trung tâm thông tin tín dụng
+TTTTTL | Trung tâm thể thao thành long
+TTTVCĐ | Trung tâm tham vấn cộng đồng
+TTTVPTVHBĐ | Trung tâm tư vấn phát triển văn hóa bản địa
+TTTY | Tiểu thuyết tình yêu
+TTUDCNM | Trung tâm ứng dụng công nghệ mới
+TTUDKH | Trung tâm ứng dụng khoa học
+TTVAQ | Thiên thần và ác quỷ
+TTVG | Tuyên truyền viên giỏi
+TTVH | Thể thao văn hóa
+TTVHP | Trung tâm văn hóa pháp
+TTVHTMSG | Trung tâm văn hóa thương mại sài gòn
+TTVHTT | Trung tâm văn hóa thể thao
+TTVHTW | Tư tưởng văn hóa trung ương
+TTVHTƯ | Tư tưởng văn hóa trung ương
+TTVL | Trung tâm việc làm
+TTVN | Trí tuệ việt nam
+TTVTĐL | Thông tin viễn thông điện lực
+TTX | Thông tấn xã
+TTXD | Thanh tra xây dựng
+TTXH | Trật tự xã hội
+TTXKLĐ | Trung tâm xuất khẩu lao động
+TTXTTM | Trung tâm xúc tiến thương mại
+TTXVN | Thông tấn xã việt nam
+TTYT | Trung tâm y tế
+TTYTDP | Trung tâm y tế dự phòng
+TTYTDPHN | Trung tâm y tế dự phòng hà nội
+TTYTNT | Trung tâm y tế ngành than
+TTYTQ | Trung tâm y tế quận
+TTĐ | Truyền tải điện
+TTĐA | Trung tâm điện ảnh
+TTĐB | Tiêu thụ đặc biệt
+TTĐG | Thủ tục đấu giá
+TTĐH | Trung tâm điều hành
+TTĐHBC | Trung tâm điều hành báo chí
+TTĐK | Trung tâm đăng kiểm
+TTĐN | Thông tin đối ngoại
+TTĐT | Thông tin điện tử
+TTĐĐHTĐ | Trung tâm điều độ hệ thống điện
+TTĐĐĐQG | Trung tâm điều độ điện quốc gia
+TV | Ti vi
+TVCN | Tư vấn chọn nghề
+TVCT | Thành viên chính thức
+TVDH | Tư vấn du học
+TVGS | Tư vấn giám sát
+TVGĐ | Tư vấn giám định
+TVHN | Tư vấn hướng nghiệp
+TVHNBVN | Thường vụ hội nhà báo việt nam
+TVKT | Tư vấn kỹ thuật
+TVN | Than việt nam
+TVPL | Tư vấn pháp luật
+TVQH | Thường vụ quốc hội
+TVSKCĐ | Tư vấn sức khỏe cộng đồng
+TVTH | Tiếng việt thực hành
+TVTK | Tư vấn thiết kế
+TVTLTT | Thiền viện trúc lâm tây thiên
+TVTU | Thường vụ tỉnh ủy
+TVVCS | Tư vấn viên cơ sở
+TVVN | Thiên văn việt nam
+TVXD | Tư vấn xây dựng
+TVXDTL | Tư vấn xây dựng thủy lợi
+TVĐU | Thường vụ đảng ủy
+TVĐĐ | Thoát vị đĩa đệm
+TWMTTQVN | Trung ương mặt trận tổ quốc việt nam
+TX | Thị xã
+TXBL | Thị xã bạc liêu
+TXCT | Tiếp xúc cử tri
+TXTA | Thị xã tân an
+TXTDM | Thị xã thủ dầu một
+TYHG | Thú y hậu giang
+TYTS | Thú y thủy sản
+TĐ | Tổng đài
+TĐBK | Từ điển bách khoa
+TĐBKVN | Từ điển bách khoa việt nam
+TĐBL | Thủy điện bảo lộc
+TĐC | Tái định cư
+TĐCNCSVN | Tập đoàn công nghiệp cao su việt nam
+TĐCS | Thi đua chính sách
+TĐDM | Tập đoàn dệt may
+TĐDMVN | Tập đoàn dệt may việt nam
+TĐG | Thẫm định giá
+TĐKT | Tập đoàn kinh tế
+TĐSL | Thủy điện sơn la
+TĐTC | Tiến độ thi công
+TĐTH | Thiên địa tinh hoa
+TĐTN | Trường đào tạo nghề
+TĐTVN | Tập đoàn than việt nam
+TĐV | Thẩm định viên
+TĐYDBL | Tập đoàn y dược bảo long
+TƯLĐ | Thỏa ước lao động
+TƯLĐTT | Thõa ước lao động tập thể
+TƯMTTQVN | Trung ương mặt trận tổ quốc việt nam
+UB | Uỷ ban
+UBATGT | Ủy ban an toàn giao thông
+UBATGTQG | Ủy ban an toàn giao thông quốc gia
+UBATTP | Ủy ban an toàn thực phẩm
+UBATTPLMCA | Ủy ban an toàn thực phẩm liên minh châu âu
+UBBC | Ủy ban bầu cử
+UBBCQH | Ủy ban bầu cử quốc hội
+UBBV | Ủy ban bảo vệ
+UBBVCSTE | Ủy ban bảo vệ chăm sóc trẻ em
+UBCKNN | Ủy ban chứng khoán nhà nước
+UBCTN | Uỷ ban chống tham nhũng
+UBDN | Uỷ ban dân nguyện
+UBDS | Uỷ ban dân số
+UBDSGD | Ủy ban dân số gia đình
+UBDSGĐ | Ủy ban dân số gia đình
+UBDSGĐTE | Ủy ban dân số gia đình trẻ em
+UBDSKHH | Ủy ban dân số kế hoạch hóa
+UBDSKHHGĐ | Uỷ ban dân số kế hoạch hóa gia đình
+UBDT | Ủy ban dân tộc
+UBDTMN | Ủy ban dân tộc miền núi
+UBHC | Ủy ban hành chính
+UBHCKC | Uỷ ban hành chính kháng chiến
+UBKC | Ủy ban kháng chiến
+UBKH | Ủy ban khoa học
+UBKHCN | Uỷ ban khoa học công nghệ
+UBKHCNMT | Ủy ban khoa học công nghệ môi trường
+UBKN | Ủy ban khởi nghĩa
+UBKT | Ủy ban kiểm tra
+UBKTCĐ | Ủy ban kiểm tra công đoàn
+UBKTNS | Ủy ban kinh tế ngân sách
+UBKTTU | Ủy ban kiểm tra trung ương
+UBKTTUHG | Uỷ ban kiểm tra tỉnh uỷ hậu giang
+UBKTTƯ | Ủy ban kiểm tra trung ương
+UBMT | Uỷ ban mặt trận
+UBMTTQ | Uỷ ban mặt trận tổ quốc việt nam
+UBMTTQTP | Ủy ban mặt trận tổ quốc thành phố
+UBMTTQVN | Ủy ban mặt trận tổ quốc việt nam
+UBND | Ủy ban nhân dân
+UBNDTP | Uỷ ban nhân dân thành phố
+UBNDTPHCM | Ủy ban nhân dân thành phố hồ chí minh
+UBNN | Uỷ ban nhà nước
+UBNVN | Uỷ ban người việt nam
+UBNVNONN | Ủy ban người việt nam ở nước ngoài
+UBNVONN | Ủy ban người việt ở nước ngoài
+UBPC | Ủy ban phòng chống
+UBPLQH | Ủy ban pháp luật quốc hội
+UBQG | Ủy ban quốc gia
+UBQGTKCN | Ủy ban quốc gia tìm kiếm cứu nạn
+UBQGVSTBCPN | Uỷ ban quốc gia vì sự tiến bộ của phụ nữ
+UBQP | Ủy ban quốc phòng
+UBTC | Uỷ ban tài chính
+UBTCNS | Ủy ban tài chính ngân sách
+UBTDTT | Uỷ ban thể dục thể thao
+UBTP | Ủy ban tư pháp
+UBTT | Ủy ban tương trợ
+UBTV | Ủy ban thường vụ
+UBTVQH | Ủy ban thường vụ quốc hội
+UBTW | Ủy ban trung ương
+UBTWMTTQ | Ủy ban trung ương mặt trận tổ quốc
+UBTWMTTQVN | Ủy ban trung ương mặt trận tổ quốc việt nam
+UBTƯ | Ủy ban trung ương
+UBTƯMTTQ | Ủy ban trung ương mặt trận tổ quốc
+UBTƯMTTQVN | Ủy ban trung ương mặt trận tổ quốc việt nam
+UBVCVĐXH | Ủy ban về các vấn đề xã hội
+UBVH | Ủy ban văn hóa
+UBVNVNONN | Ủy ban về người việt nam ở nước ngoài
+UBXD | Uỷ ban xây dựng
+UBĐKCG | Ủy ban đoàn kết công giáo
+UBĐN | Ủy ban đối ngoại
+UBĐNQH | Ủy ban đối ngoại quốc hội
+UBĐP | Uỷ ban điều phối
+UBĐT | Ủy ban điều tra
+UCV | Ứng cử viên
+UDKH | Ứng dụng khoa học
+UNBD | Uỷ ban nhân dân
+UNDP | Chương trình Phát triển Liên Hiệp Quốc
+UPĐTTL | U phì đại tuyến tiền liệt
+USD/OUNCE | Diu ét đi một ao
+USD/ĐỒNG | Diu ét đi trên đồng
+UTBMTBG | Ung thư biểu mô tế bào gan
+UTCTC | Ung thư cổ tử cung
+UTDV | Ung thư dương vật
+UTNK | Ủy thác nhập khẩu
+UTQLV | Uỷ thác quản lý vốn
+UTTLT | Ung thư tiền liệt tuyến
+UTĐTT | Ung thư đại trực tràng
+UV | Ủy viên
+UVBCH | Uỷ viên ban chấp hành
+UVBCT | Uỷ viên bộ chính trị
+UVTV | Ủy viên thường vụ
+UVTƯ | Uỷ viên trung ương
+VBCC | Văn bằng chứng chỉ
+VBHS | Văn bản hồ sơ
+VBLH | Vương bất lưu hành
+VBQPPL | Văn bản quy phạm pháp luật
+VBVBM | Viện bảo vệ bà mẹ
+VBVSKTE | Viện bảo vệ sức khỏe trẻ em
+VCDD | Vi chất dinh dưỡng
+VCK | Vòng chung kết
+VCP | Vòng cổ pha
+VCQT | Vùng chim quan trọng
+VCTY | Ván cờ tình yêu
+VCVN | Viên chức việt nam
+VDCN | Vật dụng cá nhân
+VDDQG | Viện dinh dưỡng quốc gia
+VDTP | Võ đường thanh phong
+VDV | Vận động viên
+VGSV | Viêm gan siêu vi
+VHCS | Văn hóa công sở
+VHCĐ | Văn học cổ điển
+VHDG | Văn hóa dân gian
+VHDN | Văn hóa doanh nghiệp
+VHDT | Văn hóa dân tộc
+VHGD | Văn hóa giáo dục
+VHGDTNTN | Văn hóa giáo dục thanh niên thiếu niên
+VHHN | Văn hóa hữu nghị
+VHHQ | Văn hóa hàn quốc
+VHHTMTƯ | Viện huyết học truyền máu trung ương
+VHL | Vinh hạ long
+VHLKH | Viện hàn lâm khoa học
+VHLS | Văn hóa long sơn
+VHLĐ | Văn hóa lao động
+VHLĐHN | Văn hóa lao động hữu nghị
+VHNLĐ | Văn hóa người lao động
+VHNN | Văn học nước ngoài
+VHNT | Văn hóa nghệ thuật
+VHNTCDTTS | Văn học nghệ thuật các dân tộc thiểu số
+VHNTCDTTSVN | Văn học nghệ thuật các dân tộc thiểu số việt nam
+VHNTVN | Văn hóa nghệ thuật việt nam
+VHPD | Vạn hoa phi điểu
+VHQC | Văn hóa quần chúng
+VHSG | Văn hóa sài gòn
+VHTDTT | Văn hóa thể dục thể thao
+VHTG | Văn hóa thế giới
+VHTH | Văn hóa tổng hợp
+VHTN | Văn học thiếu nhi
+VHTT | Văn hóa thông tin
+VHTTCS | Văn hóa thông tin cơ sở
+VHTTDL | Văn hóa thể thao du lịch
+VHTTDT | Văn hóa thể dục thể thao
+VHTTTN | Văn hóa thể thao thanh niên
+VHVN | Văn học việt nam
+VHĐT | Văn học đời trần
+VKHHS | Viện khoa học hình sự
+VKHKTNNMN | Viện khoa học kỹ thuật nông nghiệp miền nam
+VKHTT | Viện khoa học thanh tra
+VKS | Viện kiểm sát
+VKSND | Viện kiểm sát nhân dân
+VKSNDTC | Viện kiểm sát nhân dân tối cao
+VKSNDTP | Viện kiểm sát nhân dân thành phố
+VKTBKT | Vũ khí trang bị kỹ thuật
+VKTTĐ | Vùng kinh tế trọng điểm
+VKTTĐMT | Vùng kinh tế trọng điểm miền trung
+VKTTĐPN | Vùng kinh tế trọng điểm phía nam
+VLCA | Vật lý châu á
+VLCM | Vượt lên chính mình
+VLCN | Vật liệu cách nhiệt
+VLKT | Vật lý kỹ thuật
+VLTK | Võ lâm truyền kỳ
+VLTL | Vật lý trị liệu
+VLXD | Vật liệu xây dựng
+VLĐC | Vật lý địa cầu
+VMN | Viêm màng não
+VMNM | Viêm màng não mủ
+VMX | Vòm me xanh
+VN | Việt nam
+VNAH | Việt nam anh hùng
+VNCA | Văn nghệ công an
+VNCH | Việt nam cộng hòa
+VNCLC | Việt nam chất lượng cao
+VNCN | Văn nghệ chủ nhật
+VNCNTTS | Viện nghiên cứu nuôi trồng thủy sản
+VND | Việt nam đồng
+VNDCCH | Việt nam dân chủ cộng hòa
+VNDG | Văn nghệ dân gian
+VNH | Việt nam học
+VNNB | Viêm não nhật bản
+VNNKT | Văn nghệ người khuyết tật
+VNQDĐ | Việt nam quốc dân đảng
+VNQĐ | Văn nghệ quân đội
+VNTCNCR | Vùng nuôi tôm công nghiệp cam ranh
+VNĐ | Việt nam đồng
+VP | Văn phòng
+VPBCĐ | Văn phòng ban chỉ đạo
+VPBQ | Vi phạm bản quyền
+VPBVNTD | Văn phòng bảo vệ người tiêu dùng
+VPCC | Văn phòng công chứng
+VPCN | Văn phòng công nhận
+VPCP | Văn phòng chính phủ
+VPCTN | Văn phòng chủ tịch nước
+VPDD | Văn phòng đại diện
+VPHC | Vi phạm hành chính
+VPHU | Văn phòng huyện uỷ
+VPKTST | Văn phòng kiến trúc sư trưởng
+VPKV | Văn phòng khu vực
+VPLS | Văn phòng luật sư
+VPP | Văn phòng phẩm
+VPQH | Văn phòng quốc hội
+VPS | Văn phòng sở
+VPTT | Văn phòng trung tâm
+VPTƯ | Văn phòng trung ương
+VPĐD | Văn phòng đại diện
+VPĐDNN | Văn phòng đại diện nước ngoài
+VPĐKQSDĐ | Văn phòng đăng ký quyền sử dụng đất
+VQG | Vườn quốc gia
+VQGBE | Vườn quốc gia bến en
+VQGTC | Vườn quốc gia tràm chim
+VQVN | Vinh quang việt nam
+VRT | Viêm ruột thừa
+VSAT | Vệ sinh an toàn
+VSATLĐ | Vệ sinh an toàn lao động
+VSATTP | Vệ sinh an toàn thực phẩm
+VSCC | Vệ sinh công cộng
+VSDT | Vệ sinh dịch tễ
+VSDTTW | Vệ sinh dịch tể trung ương
+VSDTTƯ | Vệ sinh dịch tể trung ương
+VSLĐ | Vệ sinh lao động
+VSMT | Vệ sinh môi trường
+VSMTNT | Vệ sinh môi trường nông thôn
+VSPD | Vệ sinh phòng dịch
+VSTBPN | Vì sự tiến bộ phụ nữ
+VSTP | Vệ sinh thực phẩm
+VSV | Vi sinh vật
+VSYTCC | Vệ sinh y tế công cộng
+VSĐC | Vi sinh đại cương
+VT | Viễn thông
+VTA | Viễn thông a
+VTBSG | Vận tải biển sài gòn
+VTCC | Việt tân cải cách
+VTCI | Viễn thông công ích
+VTDL | Vận tải du lịch
+VTDĐ | Viễn thông di động
+VTHH | Vận tải hàng hóa
+VTHK | Vận tải hàng không
+VTHKCC | Vận tải hành khách công cộng
+VTHKSG | Vận tải hành khách sài gòn
+VTHKĐS | Vận tải hành khách đường sắt
+VTHKĐSSG | Vận tải hành khách đường sắt sài gòn
+VTNN | Vật tư nông nghiệp
+VTQT | Vận tải quốc tế
+VTT | Vạn tiên trận
+VTTB | Vật tư thiết bị
+VTTC | Vươn tới thành công
+VTTH | Vật tư tổng hợp
+VTTHPY | Vật tư tổng hợp phú yên
+VTTL | Viêm tuyến tiền liệt
+VTTLM | Viêm tuyến tiền liệt mãn
+VTTM | Viêm tắc tĩnh mạch
+VTTN | Vi tính thu ngân
+VTTPH | Viên tránh thai phối hợp
+VTTT | Vận tốc tức thời
+VTTĐ | Vị trí tương đối
+VTVN | Viễn tượng việt nam
+VTVT | Vệ tinh viễn thám
+VTXD | Vật tư xăng dầu
+VTYT | Vật tư y tế
+VTĐ | Vô tuyến điện
+VTĐS | Vận tải đường sắt
+VTĐSHN | Vận tải đường sắt hà nội
+VUDNCNC | Vườn ươm doanh nghiệp công nghệ cao
+VVNTN | Vừa và nhỏ tư nhân
+VVSYTCC | Viện vệ sinh y tế công cộng
+VXL | Vi xử lý
+VĐ | Vô địch
+VĐC | Viện địa chất
+VĐGQ | Vô địch quốc gia
+VĐHMNĐ | Vận động hiến máu nhân đạo
+VĐQG | Vô địch quốc gia
+VĐT | Vé điện tử
+VĐTG | Vô địch thế giới
+VĐV | Vận động viên
+VĐVQG | Vận động viên quốc gia
+XCG | Xe cơ giới
+XCLC | Xe chất lượng cao
+XD | Xây dựng
+XDCB | Xây dựng cơ bản
+XDCN | Xây dựng công nghiệp
+XDCSCT | Xây dựng cơ sở chính trị
+XDCT | Xây dựng công trình
+XDCTGT | Xây dựng công trình giao thông
+XDGV | Xây dựng gò vấp
+XDHK | Xăng dầu hàng không
+XDHN | Xây dựng hà nội
+XDKP | Xây dựng không phép
+XDKT | Xây dựng kinh tế
+XDKTMN | Xây dựng kiến trúc miền nam
+XDLL | Xây dựng lực lượng
+XDMT | Xây dựng miền trung
+XDNLN | Xây dựng nông lâm nghiệp
+XDNN | Xây dựng nông nghiệp
+XDQĐ | Xăng dầu quân đội
+XDTH | Xây dựng thanh hóa
+XDTL | Xây dựng thủy lợi
+XDTMSG | Xây dựng thương mại sài gòn
+XDVL | Xây dựng việt lào
+XDVN | Xây dựng việt nam
+XDĐ | Xây dựng đảng
+XDĐT | Xây dựng đô thị
+XDĐTNĐ | Xếp dỡ đường thủy nội địa
+XGCT | Xơ gan cổ trướng
+XH | Xã hội
+XHC | Xơ hóa cơ
+XHCN | Xã hội chũ nghĩa
+XHCNVN | Xã hội chũ nghĩa việt nam
+XHD | Xã hội đen
+XHDS | Xã hội dân sự
+XHH | Xã hội học
+XHHCTTH | Xã hội hóa chương trình truyền hình
+XHHGD | Xã hội hóa giáo dục
+XHNV | Xã hội nhân văn
+XHTD | Xu hướng tính dục
+XHTDTE | Xâm hại tình dục trẻ em
+XHTT | Xã hội thông tin
+XHVN | Xã hội việt nam
+XK | Xuất khẩu
+XKLD | Xuất khẩu lao động
+XKLĐ | Xuất khẩu lao động
+XKTS | Xuất khẩu thủy sản
+XKTV | Xuất khẩu thuyền viên
+XKVSĐT | Xung kích vệ sinh đô thị
+XLCTR | Xử lý chất thải rắn
+XLHN | Xa lộ hà nội
+XLNT | Xử lý nước thải
+XLNTCNTT | Xử lý nước thải công nghiệp tập trung
+XLNTTT | Xử lý nước thải tập trung
+XLTH | Xử lý tín hiệu
+XLĐ | Xuyên lục địa
+XM | Xi măng
+XMHM | Xi măng hoàng mai
+XMHP | Xi măng hải phòng
+XMTC | Xe máy thi công
+XMTN | Xi măng thái nguyên
+XMVN | Xi măng việt nam
+XMĐ | Xe máy điện
+XNC | Xuất nhập cảnh
+XNCBTP | Xí nghiệp chế biến thực phẩm
+XNCK | Xí nghiệp cơ khí
+XNK | Xuất nhập khẩu
+XNKCN | Xuất nhập khẩu công nghiệp
+XNKDNS | Xí nghiệp kinh doanh nước sạch
+XNKDNSĐĐ | Xí nghiệp kinh doanh nước sạch đống đa
+XNKLT | Xuất nhập khẩu lương thực
+XNKNI | Xuất nhập khẩu ngành in
+XNKT | Xuất nhập khẩu than
+XNKTH | Xuất nhập khẩu tổng hợp
+XNKTS | Xuất nhập khẩu thủy sản
+XNLD | Xí nghiệp liên doanh
+XNLT | Xí nghiệp lương thực
+XNLTNT | Xí nghiệp lương thực ninh thuận
+XNM | Xí nghiệp muối
+XNNTTSKT | Xí nghiệp nuôi trồng thủy sản kiến thụy
+XNQD | Xí nghiệp quốc doanh
+XNTD | Xí nghiệp tư doanh
+XNTL | Xí nghiệp thuốc lá
+XNXD | Xí nghiệp xây dựng
+XPHC | Xử phạt hành chính
+XSKT | Xổ số kiến thiết
+XTDL | Xúc tiến du lịch
+XTG | Xe thiết giáp
+XTN | Xác thai nhi
+XTNĐ | Xoáy thuận nhiệt đới
+XTTM | Xúc tiến thương mại
+XTVL | Xúc tiến việc làm
+XTXNK | Xúc tiến xuất nhập khẩu
+XTĐT | Xúc tiến đầu tư
+XVNT | Xô viết nghệ tĩnh
+XXST | Xét xử sơ thẩm
+XĐGN | Xoá đói giảm nghèo
+XĐTTVN | Xe đạp thể thao việt nam
+XĐXM | Xe đạp xe máy
+XĐĐ | Xe đạp điện
+YDBL | Y dược bảo long
+YDTN | Y dược tư nhân
+YHCT | Y học cổ truyền
+YHCTHD | Y học cổ truyền hải dương
+YHLSBNĐ | Y học lâm sàng bệnh nhiệt đới
+YHLSCBNĐ | Y học lâm sàng các bệnh nhiệt đới
+YHLĐ | Y học lao động
+YKVN | Y khoa việt nam
+YT | Y tế
+YTBD | Y tế bình dương
+YTCC | Y tế công cộng
+YTDP | Y tế dự phòng
+YTLĐ | Y tế lâm đồng
+YTVN | Y tế việt nam
+ĐAKT | Đồ án kiến trúc
+ĐAQĐ | Điện ảnh quân đội
+ĐATQ | Điện ảnh trung quốc
+ĐAVN | Điện ảnh việt nam
+ĐB | Đại biểu
+ĐBBB | Đồng bằng bắc bộ
+ĐBCL | Đảm bảo chất lượng
+ĐBCT | Đường bộ cao tốc
+ĐBGPMB | Đền bù giải phóng mặt bằng
+ĐBGT | Đền bù giải tỏa
+ĐBGTĐT | Đảm bảo giao thông đường thủy
+ĐBHSXB | Đánh bắt hải sản xa bờ
+ĐBKK | Đặc biệt khó khăn
+ĐBP | Điện biên phủ
+ĐBQH | Đại biểu quốc hội
+ĐBSCL | Đồng bằng sông cửu long
+ĐBSH | Đồng bằng sông hồng
+ĐBTH | Đền bù thiệt hại
+ĐBTN | Đại biểu thanh niên
+ĐBTSXB | Đánh bắt thủy sản xa bờ
+ĐBVN | Đường bộ việt nam
+ĐBXB | Đánh bắt xa bờ
+ĐBĐ | Điểm bưu điện
+ĐBĐT | Điện báo điện thoại
+ĐBĐTH | Đoàn bóng đá thanh hóa
+ĐBĐVN | Đoàn bưu điện việt nam
+ĐCN | Điểm công nghiệp
+ĐCNN | Độ chia nhỏ nhất
+ĐCNĐ | Địa chính nhà đất
+ĐCNĐĐT | Địa chính nhà đất đô thị
+ĐCQ | Đảng cầm quyền
+ĐCQT | Đẳng cấp quốc tế
+ĐCS | Đảng cộng sản
+ĐCSLX | Đảng cộng sản liên xô
+ĐCSTQ | Đảng cộng sản trung quốc
+ĐCSVN | Đảng cộng sản việt nam
+ĐCT | Đoàn chủ tịch
+ĐCTC | Định chế tài chính
+ĐCTCP | Đoàn công tác chính phủ
+ĐCXB | Đại chiến xích bích
+ĐCĐ | Đồng cổ đông
+ĐCĐC | Định canh định cư
+ĐD | Đạo diễn
+ĐDB | Đại danh bộ
+ĐDNVK | Đoàn doanh nghiệp việt kiều
+ĐDT | Đào duy từ
+ĐDTC | Điều dưỡng trung cấp
+ĐDV | Điều dưỡng viên
+ĐG | Đấu giá
+ĐGH | Đức giáo hoàng
+ĐH | Đại học
+ĐHAG | Đại học an giang
+ĐHB | Đoàn hát bội
+ĐHBC | Đại học bán công
+ĐHBK | Đại học bách khoa
+ĐHBKHN | Đại học bách khoa hà nội
+ĐHC | Đại hồng chung
+ĐHCLC | Đại học chất lượng cao
+ĐHCN | Đại học công nghiệp
+ĐHCNTT | Đại học công nghệ thông tin
+ĐHCNVC | Đại hội công nhân viên chức
+ĐHCQ | Đại học chính quy
+ĐHCT | Đại học cần thơ
+ĐHCĐ | Đại học cao đẳng
+ĐHCĐVN | Đại hội công đoàn việt nam
+ĐHD | Đỗ hoàng diệu
+ĐHDL | Đại học dân lập
+ĐHDLKT | Đại học dân lập kỹ thuật
+ĐHGTVT | Đại học giao thông vận tải
+ĐHH | Đại học huế
+ĐHHH | Đại học hàng hải
+ĐHHHVN | Đại học hàng hải việt nam
+ĐHHN | Đại học hà nội
+ĐHHP | Đại học hải phòng
+ĐHHT | Đồng hương hà tĩnh
+ĐHHĐ | Đại học hiện đại
+ĐHKH | Đại học khoa học
+ĐHKHTN | Đại học khoa học tự nhiên
+ĐHKHTNHN | Đại học khoa học tự nhiên hà nội
+ĐHKHXH | Đại học khoa học xã hội
+ĐHKHXHNV | Đại học khoa học xã hội nhân văn
+ĐHKN | Điều hòa kinh nguyệt
+ĐHKT | Đại học kinh tế
+ĐHKTQD | Đại học kinh tế quốc dân
+ĐHL | Đại học luật
+ĐHLĐ | Đại hội liên đoàn
+ĐHM | Đại học mở
+ĐHMTCN | Đại học mỹ thuật công nghiệp
+ĐHN | Điện hạt nhân
+ĐHNH | Đại học ngân hàng
+ĐHNL | Đại học nông lâm
+ĐHNN | Đại học ngoại ngữ
+ĐHNNHN | Đại học ngoại ngữ hà nội
+ĐHNT | Đại học nghệ thuật
+ĐHNĐ | Điều hòa nhiệt độ
+ĐHP | Điểm học phần
+ĐHQB | Đại học quảng bình
+ĐHQG | Đại học quốc gia
+ĐHQGHN | Đại học quốc gia hà nội
+ĐHQGVN | Đại học quốc gia việt nam
+ĐHQN | Đại học quy nhơn
+ĐHQS | Đại học quân sự
+ĐHSK | Đại học sân khấu
+ĐHSKĐA | Đại học sân khấu điện ảnh
+ĐHSP | Đại học sư phạm
+ĐHSPBK | Đại học sư phạm bắc kinh
+ĐHSPHN | Đại học sư phạm hà nội
+ĐHSPKT | Đại học sư phạm kỹ thuật
+ĐHT | Đông hưng thuận
+ĐHTB | Đội hình tiêu biểu
+ĐHTDTT | Đại hội thể dục thể thao
+ĐHTH | Đại học tổng hợp
+ĐHTHHN | Đại học tổng hợp hà nội
+ĐHTM | Đại học thương mại
+ĐHTN | Đại học thái nguyên
+ĐHTT | Đại học tư thục
+ĐHTV | Đại học trà vinh
+ĐHVH | Đại học văn hóa
+ĐHVHHN | Đại học văn hóa hà nội
+ĐHVL | Đại học văn lang
+ĐHXD | Đại học xây dựng
+ĐHY | Đức hồng y
+ĐHYD | Đại học y dược
+ĐHYHN | Đại học y hà nội
+ĐHĐ | Đại hội đồng
+ĐHĐCQT | Đại học đẳng cấp quốc tế
+ĐHĐCĐ | Đại hội đồng cổ đông
+ĐHĐD | Đại học đông dương
+ĐHĐL | Đại học đà lạt
+ĐHĐLHQ | Đại hội đồng liên hợp quốc
+ĐHĐN | Đại học đà nẵng
+ĐK | Đương kim
+ĐKDN | Đăng ký doanh nghiệp
+ĐKDT | Đăng ký dự thi
+ĐKHK | Đăng ký hộ khẩu
+ĐKHKTT | Đăng ký hộ khẩu thường trú
+ĐKHĐ | Đăng ký hoạt động
+ĐKK | Điểm khuyến khích
+ĐKKD | Đăng ký kinh doanh
+ĐKKH | Đăng ký kết hôn
+ĐKKV | Đa khoa khu vực
+ĐKLA | Đa khoa long an
+ĐKLĐ | Điều kiện lao động
+ĐKPH | Đăng ký phát hành
+ĐKQG | Điền kinh quốc gia
+ĐKST | Đa khoa sóc trăng
+ĐKTC | Đăng ký thế chấp
+ĐKTQT | Đại kiện tướng quốc tế
+ĐKTT | Đăng ký thường trú
+ĐKTƯCT | Đa khoa trung ương cần thơ
+ĐKU | Đặc khu ủy
+ĐKV | Đăng kiểm viên
+ĐKVN | Đăng kiểm việt nam
+ĐKVĐ | Đương kim vô địch
+ĐKVĐQG | Đương kim vô địch quốc gia
+ĐKXM | Đăng ký xe máy
+ĐKXT | Đăng ký xét tuyển
+ĐKĐ | Đăng ký đất
+ĐKĐT | Điện kế điện tử
+ĐLBTKL | Định luật bảo toàn khối lượng
+ĐLBTĐ | Định luật bảo toàn điện
+ĐLBĐ | Đại lý bưu điện
+ĐLCL | Đo lường chất lượng
+ĐLDK | Điện lực dầu khí
+ĐLH | Đóm lửa hồng
+ĐLHN | Điện lực hà nội
+ĐLLĐ | Điện lực lâm đồng
+ĐLNL | Đại lý nhận lệnh
+ĐLTL | Điện lực từ liêm
+ĐLTN | Điện lực thái nguyên
+ĐLTPHCM | Điện lực thành phố hồ chí minh
+ĐLTPKĐ | Định luật thành phần không đổi
+ĐLVN | Điện lực việt nam
+ĐLĐ | Đá lót đường
+ĐLĐN | Điện lực đà nẵng
+ĐLĐĐ | Điện lực đống đa
+ĐMGD | Đổi mới giáo dục
+ĐMHN | Đầu máy hà nội
+ĐMN | Đá mỹ nghệ
+ĐMP | Đông minh phát
+ĐMTC | Đầu mối trái cây
+ĐMĐ | Đau mắt đỏ
+ĐN | Đà nẵng
+ĐNA | Đông nam á
+ĐNB | Đông nam bộ
+ĐNHC | Đối ngoại hành chính
+ĐNK | Địch nhân kiệt
+ĐNND | Đối ngoại nhân dân
+ĐNNTC | Đại nam nhất thống chí
+ĐNT | Điện nông thôn
+ĐNTLTB | Đại nam thực lục tiền biên
+ĐNÁ | Đông nam á
+ĐNĐ | Điện não đồ
+ĐPCTPMT | Đội phòng chống tội phạm ma túy
+ĐPT | Đa phương tiện
+ĐPTTH | Đài phát thanh truyền hình
+ĐQ | Đế quốc
+ĐQG | Đa quốc gia
+ĐQLĐS | Đoạn quản lý đường sông
+ĐRL | Điểm rèn luyện
+ĐSCT | Đường sắt cao tốc
+ĐSQ | Đại sứ quán
+ĐSVN | Đường sắt việt nam
+ĐSĐMTQ | Đại sứ đặc mệnh toàn quyền
+ĐT | Điện thoại
+ĐTB | Điểm trung bình
+ĐTBC | Điểm trung bình chung
+ĐTBT | Đầu tư bình thuận
+ĐTBĐ | Đội tuyển bóng đá
+ĐTBĐQG | Đội tuyển bóng đá quốc gia
+ĐTBĐVN | Đội tuyển bóng đá việt nam
+ĐTCBL | Điều tra chống buôn lậu
+ĐTCC | Điện thoại công cộng
+ĐTCK | Đầu tư chứng khoán
+ĐTCĐ | Điện thoại cố định
+ĐTDD | Điện thoại di động
+ĐTDTBV | Đi tìm dấu tích ba vua
+ĐTDĐ | Điện thoại di động
+ĐTGQ | Đội tuyển quốc gia
+ĐTH | Đàn tin học
+ĐTHA | Đội thi hành án
+ĐTHT | Đông trùng hạ thảo
+ĐTHVN | Đài truyền hình việt nam
+ĐTLA | Đồng tâm long an
+ĐTLB | Đô thị lấn biển
+ĐTLT | Đào tạo liên thông
+ĐTM | Đô thị mới
+ĐTML | Điện toán mạng lưới
+ĐTMTT | Đô thị mới thủ thiêm
+ĐTN | Đào tạo nghề
+ĐTNCKH | Đề tài nghiên cứu khoa học
+ĐTNCS | Đoàn thanh niên cộng sản
+ĐTNM | Điểm thu nhận máy
+ĐTNN | Đầu tư nước ngoài
+ĐTNT | Đối tượng nộp thuế
+ĐTNVN | Đài tiếng nói việt nam
+ĐTNĐ | Đường thủy nội địa
+ĐTPT | Đầu tư phát triển
+ĐTPTNHN | Đầu tư phát triển nhà hà nội
+ĐTQG | Đội tuyển quốc gia
+ĐTQV | Đại tướng quân vương
+ĐTRNN | Đầu tư ra nước ngoài
+ĐTST | Đô thị sinh thái
+ĐTT | Đoàn thanh tra
+ĐTTC | Đào tạo tín chỉ
+ĐTTCP | Đoàn thanh tra chính phủ
+ĐTTH | Điện toán tự hành
+ĐTTN | Đầu tư trong nước
+ĐTTP | Đấu thầu trái phiếu
+ĐTV | Đào tạo viên
+ĐTVN | Đội tuyển việt nam
+ĐTVT | Điện tử viễn thông
+ĐTVTQG | Điện tử viễn thông quốc gia
+ĐTXD | Đầu tư xây dựng
+ĐTXDCB | Đầu tư xây dựng cơ bản
+ĐTXDHN | Đầu tư xây dựng hà nội
+ĐTĐ | Đái tháo đường
+ĐTĐH | Đào tạo đại học
+ĐUK | Đảng ủy khối
+ĐVBC | Đơn vị bầu cử
+ĐVCĐ | Đoàn viên công đoàn
+ĐVDT | Đơn vị được trao
+ĐVHD | Động vật hoang dã
+ĐVKT | Đơn vị kỉ thuật
+ĐVN | Đội văn nghệ
+ĐVSNCL | Đơn vị sự nghiệp công lập
+ĐVTL | Đơn vị tâm lý
+ĐVTN | Đoàn viên thanh niên
+ĐVTTN | Đoàn viên thanh thiếu niên
+ĐVTV | Đơn vị thiên văn
+ĐVUT | Đoàn viên ưu tú
+ĐVĐD | Đơn vị độ dài
+ĐX | Đông xuân
+ĐXMT | Đường xưa mây trắng
+ĐXT | Điểm xét tuyển
+ĐĐCC | Địa đạo củ chi
+ĐĐK | Đại đoàn kết
+ĐĐN | Đội đặc nhiệm
+ĐĐV | Đồng đẳng viên
+ĐỒNG/KG | Đồng một kí lô gam
+ƯTXT | Ưu tiên xét tuyển
+
+Công ty CP | Công ty cổ phần
+TP.HCM | Thành phố Hồ Chí Minh
+
+AI | Ây Ai
+Vn-Index | Vê Nờ Index

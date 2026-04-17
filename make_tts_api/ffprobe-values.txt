@@ -1,0 +1,81 @@
+codec phải phù hợp với container:
+- format (container): cái vỏ bên ngoài. quy định cách sắp xếp các gói dữ liệu
+- codec: thuật toán nén và giải mã bên trong
+
+- quy tắc: 
+    wav - pcm_s16le
+    mp3 - libmp3lame
+    s16le (thô, không có bỏ bọc)
+    audio_settings = {
+        "container": "mp3",
+        "codec": "pcm_s24le",
+        "sample_rate": 16000,
+        "channels": 1,
+        "bitrate": "192k"
+    }
+    -> error: mp3 không hỗ trợ dữ liệu PCM 24-bit bên trong nó
+    -> fix container or codec
+        mp3 vs libmp3lame (dùng mp3 cho acodec thì audio sinh ra sẽ ko nghe thấy gì)
+        pcm_s24l3 vs wav
+---
+ffmpeg.output
+- bitrate (ab hoặc audio_bitrate): 
+thiết lập bitrate cho các codec có nén (MP3, AAC). Với PCM (wav), bitrate được tính toán tự động dựa trên sampel rate và bith depth nên thường không cần thiết lập 
+    128k, 192k
+    với WAV (PCM), set bitrate thì sẽ bị ffmpeg bỏ qua. 
+    bit rate của .WAV file là hằng số, được tính toán trực tiếp từ các thông số kỹ thuật chứ không thể ấn định một cách tùy ý như MP3, AAC
+    - với lossy codec (mp3/aac): codec dùng thuật toán để nén dữ liệu sao cho vừa khít với bitrate được yêu cầu bằng cách loại bỏ các chi tiết âm thanh không cần thiết
+    - wav (pcm): lưu giữ giá trị biên độ của mọi mẫu âm thanh. nếu đã chốt sample rate và bit depth thì lượng dữ liệu sinh ra mỗi giây là cố định. không thể bắt nó "nhét" nhiều thông tin hơn hoặc ít thông tin hơn vào đó mà không thay đổi một trong ba chỉ số  ở công thức trên.
+        bit rate = sample_rate * bit_depth * channels
+        
+- bit_depth: không có tham số dành riêng, được quyết định trực tiếp bởi codec. 
+    16-bit: pcm_s16le
+    24-bit: pcm_s24le
+    32-bit: pcm_f32le
+
+-------------------
+channels: đại diện cho số lượng luồng dữ liệu âm thanh độc lập được phát ra đồng thời để tạo nên không gian âm thanh. (số lượng loa riêng biệt mà mỗi loa phát một nội dung khác nhau để tai bạn cảm nhận được vị trí của âm thanh)
+
+--------------------
+bit rate: lượng dữ liệu được truyền tải hoặc xử lý trong một đơn vị thời gian. "mức độ dày đặc của thông tin" trong một giây âm thanh hay video
+
+mqh giữa bitrate và chất lượng: 
+- Bitrate càng cao: Lượng thông tin trong mỗi giây càng nhiều $\rightarrow$ Chất lượng âm thanh/hình ảnh càng chi tiết, trung thực $\rightarrow$ Dung lượng file càng lớn.
+- Bitrate càng thấp: Thông tin bị lược bỏ nhiều để giảm dung lượng $\rightarrow$ Xuất hiện hiện tượng nhiễu, mờ hoặc âm thanh bị "nén" (mất chi tiết) $\rightarrow$ Dung lượng file càng nhẹ.
+
+Phân loại bitrate:
+- CBR (constant bitrate): Tốc độ bit cố định từ đầu đến cuối file.
+- VBR (variable bitrate): Tốc độ bit thay đổi linh hoạt tùy theo độ phức tạp của nội dung.
+
+
+---------------------
+1. Audio Codecs (Mã hóa âm thanh) codec_name khi dùng ffprobe
+Đối với âm thanh, các giá trị này thường cho thấy định dạng nén hoặc định dạng thô (PCM).
+
+PCM (Uncompressed):`
+
+- pcm_s16le: Signed 16-bit Little Endian (Phổ biến nhất, chuẩn CD).
+
+- pcm_s24le: Signed 24-bit Little Endian (Chất lượng cao, phòng thu).
+
+- pcm_f32le: Float 32-bit Little Endian (Dùng trong xử lý tín hiệu).
+
+Lossy Compression (Nén có mất dữ liệu):
+
+- aac: Advanced Audio Coding (Chuẩn của YouTube, MP4, iPhone).
+
+- mp3: MPEG-1 Audio Layer III.
+
+- opus: Codec hiện đại, độ trễ cực thấp, chất lượng tốt ở bitrate thấp (thường thấy trong file .webm).
+
+- vorbis: Codec mã nguồn mở, thường dùng trong tệp .ogg.
+
+Lossless Compression (Nén không mất dữ liệu):
+
+- flac: Free Lossless Audio Codec.
+
+- alac: Apple Lossless Audio Codec.
+
+----
+
+

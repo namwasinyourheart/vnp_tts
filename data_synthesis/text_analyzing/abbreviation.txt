@@ -1,0 +1,22 @@
+✔ Các loại phổ biến
+(1) Viết tắt có dấu chấm
+TP.HCM, ThS., GS., Dr.
+👉 dễ detect bằng regex
+
+(2) Viết tắt in hoa
+USA, GDP, AI, VN, HĐXX
+👉 cần rule + dictionary
+
+(3) Mixed
+HCM, Tp.HCM, Q.1
+👉 cần normalize trước
+
+(4) Ký hiệu đặc biệt
+USD, km, kg, %
+👉 gần với unit hơn abbreviation → có thể tách riêng sau
+
+
+### Thêm case có gạch ngang, ví dụ: TT-BCA
+
+
+Remove or expand abbreviations

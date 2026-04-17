@@ -1,0 +1,154 @@
+title: "Đà Nẵng nghiên cứu tiện ích nhắn tin khi vi phạm đến chủ phương tiện"
+slug: "da-nang-nghien-cuu-tien-ich-nhan-tin-khi-vi-pham-den-chu-phuong-tien"
+url: "https://thanhnien.vn/da-nang-nghien-cuu-tien-ich-nhan-tin-khi-vi-pham-den-chu-phuong-tien-241022160555641111.htm"
+canonical_url: "https://thanhnien.vn/da-nang-nghien-cuu-tien-ich-nhan-tin-khi-vi-pham-den-chu-phuong-tien-241022160555641111.htm"
+source: "Thanh Niên"
+source_url: "https://thanhnien.vn"
+published_at
+crawled_at
+category
+tags
+
+sapo
+content
+
+
+
+
+
+
+CHATGPT
+---
+## 1. Thông tin nhận diện bài viết
+
+* **title**: Tiêu đề bài báo
+* **slug / url**: Đường dẫn bài viết
+* **article_id**: ID nội bộ (nếu có)
+* **canonical_url**: URL chuẩn (tránh trùng lặp)
+
+---
+
+## 2. Thông tin tác giả & nguồn
+
+* **author**: Tên tác giả
+* **contributors**: Đồng tác giả / biên tập viên
+* **source / publisher**: Tên báo (VD: VnExpress, Tuổi Trẻ…)
+* **source_url**: Trang chủ nguồn
+
+---
+
+## 3. Thời gian
+
+* **published_at**: Thời điểm xuất bản
+* **updated_at**: Thời điểm cập nhật (nếu có)
+* **crawled_at**: Thời điểm bạn crawl
+
+---
+
+## 4. Nội dung & mô tả
+
+* **summary / description**: Mô tả ngắn (meta description)
+* **content**: Nội dung chính (HTML hoặc text)
+* **lead / sapo**: Đoạn mở đầu
+* **word_count**: Số từ (phục vụ phân tích)
+
+---
+
+## 5. Phân loại & tổ chức
+
+* **category**: Chuyên mục (Thời sự, Kinh tế…)
+* **tags / keywords**: Từ khóa
+* **topics**: Chủ đề lớn (nếu bạn phân loại thêm)
+
+---
+
+## 6. Media đi kèm
+
+* **featured_image**: Ảnh đại diện
+* **images**: Danh sách ảnh trong bài
+* **videos**: Video nhúng (nếu có)
+* **captions**: Chú thích ảnh
+
+---
+
+## 7. SEO & social metadata
+
+* **meta_title**
+* **meta_description**
+* **meta_keywords**
+* **og:title, og:description, og:image** (Open Graph – dùng cho Facebook, LinkedIn)
+* **twitter:card** (nếu có)
+
+---
+
+## 8. Thông tin kỹ thuật
+
+* **language**: Ngôn ngữ (vi, en…)
+* **charset**
+* **amp_url**: Link AMP (nếu có)
+* **is_paywalled**: Có bị paywall không
+* **status**: active / deleted
+
+---
+
+## 9. Engagement (nếu crawl được)
+
+* **view_count**
+* **comment_count**
+* **share_count**
+
+---
+
+## 10. Dữ liệu mở rộng (nâng cao)
+
+* **entities**: Named entities (người, địa điểm, tổ chức)
+* **sentiment**: Phân tích cảm xúc
+* **reading_time**: Thời gian đọc ước tính
+* **related_articles**: Bài liên quan
+
+---
+
+## Gợi ý thực tế
+
+* Nếu bạn chỉ cần **lưu trữ + hiển thị** → lấy nhóm 1–5 là đủ
+* Nếu làm **search engine / recommendation / AI** → cần gần như toàn bộ
+* Nếu làm **data analysis / NLP** → nên thêm entities, sentiment
+
+-----
+BinhVQ news
+
+{
+	"source" : "Thanh Niên",
+	"title" : "Đà Nẵng nghiên cứu tiện ích nhắn tin khi vi phạm đến chủ phương tiện",
+	"sapo" : "Theo thống kê của Phòng CSGT (PC67, Công an TP.Đà Nẵng), từ ngày 1.1.2016 đến hết tháng 1.2018, PC67 gửi 13.479 lượt thông báo đến chủ phương tiện vi phạm luật Giao thông đường bộ.",
+	"body" : "<p class=\"body-image\"><img src=\"https://photo-1-baomoi.zadn.vn/w700_r1/18/02/05/4/24858235/1_54839.jpg\"/></p><p class=\"body-text\"><em>Xử l&yacute; phạt nguội qua camera gi&aacute;m s&aacute;t tại Ph&ograve;ng CSGT C&ocirc;ng an TP.Đ&agrave; Nẵng - Nguyễn T&uacute;</em></p><p class=\"body-text\">Đến nay c&ograve;n 5.199 trường hợp chưa đến giải quyết, chiếm 38,5%. Đối với 8.280 trường hợp đến l&agrave;m việc, qua ph&acirc;n t&iacute;ch lỗi, cơ quan chức năng đ&atilde; lập bi&ecirc;n bản 7.184 trường hợp, chuyển kho bạc hơn 9 tỉ đồng, tước giấy ph&eacute;p l&aacute;i xe (c&oacute; thời hạn) 2.107 trường hợp.</p><p class=\"body-text\">Hiện PC67 Đ&agrave; Nẵng c&oacute; nhiều k&ecirc;nh để th&ocirc;ng b&aacute;o đến chủ xe như gửi th&ocirc;ng b&aacute;o đến địa chỉ đăng k&yacute; qua đường bưu điện, cập nhật danh s&aacute;ch l&ecirc;n trang Facebook &ldquo;Cảnh s&aacute;t giao th&ocirc;ng C&ocirc;ng an TP.Đ&agrave; Nẵng&rdquo;. Từ ng&agrave;y 22.9.2017, trang th&ocirc;ng tin điện tử C&ocirc;ng an TP.Đ&agrave; Nẵng cũng c&oacute; chuy&ecirc;n mục tra cứu vi phạm giao th&ocirc;ng qua hệ thống camera gi&aacute;m s&aacute;t tại địa chỉ www.catp.danang.gov.vn:8001/thongtinvipham...</p><p class=\"body-text\">Tuy nhi&ecirc;n, số trường hợp chưa giải quyết được cũng tương tự TP.HCM l&agrave; do thay đổi địa chỉ, chưa sang t&ecirc;n đổi chủ sau mua b&aacute;n, xe thu&ecirc;, sai th&ocirc;ng tin...</p><p class=\"body-text\">Trung t&aacute; Phan Văn Thương, Ph&oacute; trưởng ph&ograve;ng PC67 C&ocirc;ng an TP.Đ&agrave; Nẵng, cho hay hiện trang Facebook v&agrave; cổng th&ocirc;ng tin c&oacute; nhiệm vụ 1 - 2 ng&agrave;y phải cập nhật danh s&aacute;ch vi phạm mới nhất để người d&acirc;n tra cứu. Nếu chủ phương tiện kh&ocirc;ng đến giải quyết th&igrave; danh s&aacute;ch được chuyển sang Trung t&acirc;m đăng kiểm để từ chối đăng kiểm c&aacute;c phương tiện n&agrave;y.</p><p class=\"body-text\">&ldquo;Thời gian đầu &aacute;p dụng h&igrave;nh thức phạt nguội, c&oacute; chủ phương tiện bị phạt đến 15 lần, khi xe hết hạn, đi đăng kiểm mới nhận được th&ocirc;ng b&aacute;o nộp phạt với số tiền rất lớn. Nay th&igrave; kh&aacute;c, với tổ chức, c&ocirc;ng d&acirc;n vi phạm 2 lần trở l&ecirc;n sẽ bị lực lượng chức năng gọi điện trực tiếp để x&aacute;c minh, nhắc nhở chủ xe kịp thời chấn chỉnh, v&igrave; c&aacute;c xe vi phạm nhiều lần chủ yếu l&agrave; xe l&agrave;m dịch vụ cho thu&ecirc;, giao người kh&aacute;c sử dụng, khai th&aacute;c...&rdquo;, trung t&aacute; Phan Văn Thương cho hay.</p><p class=\"body-text\">C&ocirc;ng an TP.Đ&agrave; Nẵng đang nghi&ecirc;n cứu cho ra đời ứng dụng tr&ecirc;n thiết bị di động, th&ocirc;ng b&aacute;o vi phạm đến số m&aacute;y chủ phương tiện, vừa sử dụng cho c&ocirc;ng t&aacute;c phạt nguội, kết hợp c&aacute;c tiện &iacute;ch phục vụ ph&ograve;ng chống tội phạm kh&aacute;c bằng biện ph&aacute;p tăng mức tương t&aacute;c với chủ phương tiện.</p>",
+	"id" : 24858235,
+	"publish" : ISODate("2018-02-04T22:15:07Z"),
+	"tags" : [ ],
+	"keywords" : [
+		"Công an TP.Đà Nẵng",
+		"Phan Văn Thương",
+		"Nguyễn Tú",
+		"Luật giao thông đường bộ",
+		"Đăng kiểm",
+		"Sang tên",
+		"Tra cứu",
+		"Server",
+		"Phòng cảnh sát giao thông",
+		"Giấy phép lái xe",
+		"Cổng thông tin",
+		"Chấn chỉnh",
+		"Cho thuê",
+		"Nhắc nhở",
+		"Di động",
+		"Phòng chống",
+		"Vi phạm",
+		"Mua bán",
+		"Đà Nẵng",
+		"Ra đời",
+		"Giám sát"
+	],
+	"cates" : [
+		"Pháp luật"
+	]
+}

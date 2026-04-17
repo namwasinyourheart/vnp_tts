@@ -1,0 +1,12 @@
+Dates: “01/02/2023” → “January second, twenty twenty-three” or “the first of February, twenty twenty-three” (depending on locale)
+- 7.2017, 1.7.2017
+- 7/2017, 1/7/2017
+- 7-2017, 1/7/2017
+- 01/7/2017, 1/07/2017, 01/07/2017
+- 1 - 7.2017
+- kỳ hạn 12-13 tháng
+cần phân biệt vs cũng có dấu / nhưng ko phải date: Thông tư 64/2017
+
+
+Time: “14:30” → “two thirty PM”
+- 14:30: "14 giờ 30 phút" # đôi khi có thể nhấm vs tỉ lệ

@@ -1,0 +1,5 @@
+Build func for: 
+- detect url/emails ticked
+- detect roman numerals ticked
+- alphanumeric for units, house number ticked
+- percentage ticked

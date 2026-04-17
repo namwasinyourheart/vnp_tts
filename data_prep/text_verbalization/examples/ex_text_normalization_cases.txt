@@ -1,0 +1,350 @@
+## **Text Normalization Cases**
+
+### **Numbers**
+
+#### **Integer**
+
+* `Tôi có 25 quyển sách.`
+* `Có 100 người tham gia.`
+* `Anh ấy 18 tuổi.`
+
+#### **Decimal**
+
+* `Kết quả là 3.14.`
+* `Nhiệt độ là 36.5 độ.`
+* `Chỉ số đạt 0.75.`
+
+#### **Ordinal Number**
+
+* `Anh ấy đứng thứ 1.`
+* `Đây là lần thứ 2 tôi đến đây.`
+* `Cô ấy về đích thứ 3.`
+
+#### **Number Range**
+
+* `Có khoảng 5-10 người tham gia.`
+* `Nhiệt độ từ 20-30 độ.`
+* `Giá dao động 100k-200k.`
+
+#### **Phone Number / Account Number**
+
+* `Gọi tôi qua số 0905123456.`
+* `Số tài khoản là 123456789.`
+* `Hotline: 19001234.`
+
+#### **Year**
+
+* `Tôi sinh năm 2000.`
+* `Sự kiện diễn ra năm 2024.`
+* `Dự án bắt đầu từ 1998.`
+
+---
+
+### **Date & Time**
+
+#### **Date**
+
+* `Hôm nay là 12/10/2024.`
+* `Sinh nhật tôi là 01-05-2000.`
+* `Hạn chót là 7/3.`
+
+#### **Time**
+
+* `Cuộc họp lúc 10:30 sáng.`
+* `Hẹn gặp lúc 7h45.`
+* `Phim bắt đầu lúc 20:15.`
+
+#### **Day of Week**
+
+* `Chúng ta gặp nhau vào thứ hai.`
+* `Tôi nghỉ vào chủ nhật.`
+* `Lớp học diễn ra vào thứ tư.`
+
+#### **Quarter / Roman Numeral Date**
+
+* `Báo cáo quý III năm 2025.`
+* `Doanh thu quý II tăng mạnh.`
+* `Kế hoạch cho quý IV đã sẵn sàng.`
+
+---
+
+### **Units of Measurement**
+
+#### **Length Unit**
+
+* `Quãng đường dài 10km.`
+* `Chiều dài là 2 m.`
+* `Khoảng cách 500 m.`
+
+#### **Weight Unit**
+
+* `Cân nặng là 5 kg.`
+* `Gói hàng nặng 2 kg.`
+* `Khối lượng khoảng 300 g.`
+
+#### **Speed Unit**
+
+* `Tốc độ đạt 60 km/h.`
+* `Xe chạy 80 km/h.`
+* `Giới hạn là 50 km/h.`
+
+#### **Temperature Unit**
+
+* `Nhiệt độ là 30°C.`
+* `Hôm nay 28°C.`
+* `Trời lạnh 15°C.`
+
+#### **General Measurement Unit**
+
+* `Dung lượng là 128 GB.`
+* `Bộ nhớ 16 GB.`
+* `Tốc độ mạng 100 Mbps.`
+
+---
+
+### **Abbreviations**
+
+#### **General Abbreviation**
+
+* `Ví dụ như v.v. rất phổ biến.`
+* `Anh ấy nói etc. trong câu.`
+* `Thông tin thêm xem thêm.`
+
+#### **Academic Title**
+
+* `Ông là PGS.TS nổi tiếng.`
+* `Bà là TS trong lĩnh vực này.`
+* `Anh ấy có học vị ThS.`
+
+#### **Organization Acronym**
+
+* `Anh ấy làm việc tại TP.HCM.`
+* `Cơ quan thuộc UBND quản lý.`
+* `Công ty hợp tác với WHO.`
+
+---
+
+### **Proper Nouns**
+
+#### **Person Name**
+
+* `Nguyễn Văn A đang học.`
+* `Trần Thị B đi làm.`
+* `Lê Văn C là sinh viên.`
+
+#### **Location Name**
+
+* `Tôi sống ở Hà Nội.`
+* `Anh ấy đến Đà Nẵng.`
+* `Cô ấy ở TP.HCM.`
+
+#### **Organization Name**
+
+* `Công ty FPT phát triển nhanh.`
+* `Viettel là tập đoàn lớn.`
+* `VinGroup đầu tư mạnh.`
+
+#### **Brand Name**
+
+* `Tôi dùng iPhone mỗi ngày.`
+* `Anh ấy mua xe Toyota.`
+* `Cô ấy thích Nike.`
+
+#### **Technical Term / Foreign Proper Noun**
+
+* `ChatGPT rất phổ biến.`
+* `Python là ngôn ngữ lập trình.`
+* `TensorFlow được sử dụng rộng rãi.`
+
+---
+
+### **Foreign Words**
+
+#### **Loanword**
+
+* `Tôi gửi email cho bạn.`
+* `Anh ấy thích uống cafe.`
+* `Cô ấy dùng smartphone.`
+
+#### **English Word**
+
+* `AI đang phát triển nhanh.`
+* `Chúng ta cần update hệ thống.`
+* `File này đã được download.`
+
+#### **Mixed-language Token**
+
+* `Tôi check mail rồi.`
+* `Anh ấy đang code app.`
+* `Cô ấy vừa submit bài.`
+
+---
+
+### **Punctuation**
+
+#### **Period**
+
+* `Tôi đang học.`
+* `Hôm nay trời đẹp.`
+* `Anh ấy đi làm.`
+
+#### **Comma**
+
+* `Tôi, bạn và anh ấy cùng đi.`
+* `Hôm nay, trời rất đẹp.`
+* `Nếu mưa, tôi sẽ ở nhà.`
+
+#### **Question Mark**
+
+* `Bạn khỏe không?`
+* `Bạn đi đâu vậy?`
+* `Khi nào chúng ta gặp nhau?`
+
+#### **Exclamation Mark**
+
+* `Thật tuyệt vời!`
+* `Hay quá!`
+* `Đẹp quá!`
+
+#### **Colon**
+
+* `Lưu ý: không được trễ.`
+* `Thông báo: nghỉ học.`
+* `Danh sách: A, B, C.`
+
+#### **Semicolon**
+
+* `Tôi học; anh ấy làm việc.`
+* `Trời mưa; chúng tôi ở nhà.`
+* `Cô ấy đọc sách; tôi nghe nhạc.`
+
+#### **Ellipsis**
+
+* `Tôi nghĩ... có lẽ đúng.`
+* `Ờ... để tôi xem.`
+* `Chuyện này... khó nói.`
+
+---
+
+### **Sentence Length**
+
+#### **Short Sentence**
+
+* `Xin chào.`
+* `Cảm ơn bạn.`
+* `Tạm biệt.`
+
+#### **Medium Sentence**
+
+* `Hôm nay trời đẹp.`
+* `Tôi đi học lúc 8 giờ.`
+* `Anh ấy đang làm việc.`
+
+#### **Long Sentence**
+
+* `Nếu ngày mai trời mưa, chúng ta sẽ hoãn chuyến đi.`
+* `Khi bạn cố gắng, kết quả sẽ tốt hơn theo thời gian.`
+* `Mặc dù bận rộn, cô ấy vẫn hoàn thành công việc đúng hạn.`
+
+---
+
+### **Special Symbols**
+
+#### **Percentage Symbol**
+
+* `Giảm giá 50%.`
+* `Pin còn 20%.`
+* `Tỷ lệ là 99%.`
+
+#### **Currency Symbol**
+
+* `Giá là 100$.`
+* `Tôi có 50€.`
+* `Sản phẩm giá 200¥.`
+
+#### **At Symbol**
+
+* `Liên hệ qua email: abc@gmail.com.`
+* `Tag tôi @username nhé.`
+* `Gửi mail đến support@company.com.`
+
+#### **Hashtag**
+
+* `Bài viết có #AI.`
+* `Chủ đề là #Tech.`
+* `Xu hướng #Trending.`
+
+#### **Slash**
+
+* `Tỷ lệ 1/2.`
+* `Ngày 12/10/2024.`
+* `Chọn A/B.`
+
+#### **Plus Sign**
+
+* `A + B = C.`
+* `2 + 2 = 4.`
+* `Giá 100k + phí ship.`
+
+#### **Equals Sign**
+
+* `A = B.`
+* `2 + 2 = 4.`
+* `Kết quả = 10.`
+
+---
+
+### **URL, Email, Code**
+
+#### **URL**
+
+* `Truy cập https://example.com.`
+* `Website là www.test.vn.`
+* `Xem tại http://abc.com.`
+
+#### **Email Address**
+
+* `Email của tôi là abc@gmail.com.`
+* `Gửi đến support@company.com.`
+* `Liên hệ qua test@yahoo.com.`
+
+#### **Identifier / Code**
+
+* `ID là A12345.`
+* `Mã đơn hàng là B67890.`
+* `Code là XYZ123.`
+
+---
+
+### **Grammatical Types**
+
+#### **Interrogative Sentence**
+
+* `Bạn khỏe không?`
+* `Bạn đi đâu vậy?`
+* `Khi nào gặp nhau?`
+
+#### **Declarative Sentence**
+
+* `Tôi đang học.`
+* `Trời hôm nay đẹp.`
+* `Anh ấy là giáo viên.`
+
+#### **Exclamatory Sentence**
+
+* `Thật tuyệt vời!`
+* `Hay quá!`
+* `Đẹp quá!`
+
+#### **Imperative Sentence**
+
+* `Hãy đóng cửa lại.`
+* `Làm ơn ngồi xuống.`
+* `Đừng nói chuyện.`
+
+#### **Dialogue**
+
+* `A: Bạn khỏe không? B: Tôi khỏe.`
+* `A: Đi ăn không? B: Đi nhé.`
+* `A: Bạn đang làm gì? B: Tôi đang học.`
+

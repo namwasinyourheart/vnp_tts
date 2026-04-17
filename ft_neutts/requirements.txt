@@ -1,0 +1,61 @@
+librosa==0.11.0
+soundfile==0.13.1
+torchcodec==0.6.0
+transformers==4.57.1
+phonemizer==3.3.0
+neucodec==0.0.5
+hydra-core 
+colorama
+
+# torch==2.8.0+cu129 --index-url https://download.pytorch.org/whl/cu129
+# torchaudio==2.8.0+cu129 --index-url https://download.pytorch.org/whl/cu129
+# torchvision==0.23.0+cu129 --index-url https://download.pytorch.org/whl/cu129
+
+# Tue Feb  3 11:34:26 2026       
+# +-----------------------------------------------------------------------------------------+
+# | NVIDIA-SMI 580.126.09             Driver Version: 580.126.09     CUDA Version: 13.0     |
+# +-----------------------------------------+------------------------+----------------------+
+# | GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+# | Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+# |                                         |                        |               MIG M. |
+# |=========================================+========================+======================|
+# |   0  NVIDIA GeForce RTX 3050        Off |   00000000:01:00.0  On |                  N/A |
+# | 31%   38C    P8             12W /   70W |     805MiB /   6144MiB |     17%      Default |
+# |                                         |                        |                  N/A |
+# +-----------------------------------------+------------------------+----------------------+
+
+# +-----------------------------------------------------------------------------------------+
+# | Processes:                                                                              |
+# |  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+# |        ID   ID                                                               Usage      |
+# |=========================================================================================|
+# |    0   N/A  N/A            3250      G   /usr/lib/xorg/Xorg                      340MiB |
+# |    0   N/A  N/A            3522      G   /usr/bin/gnome-shell                     49MiB |
+# |    0   N/A  N/A            4166      G   ...exec/xdg-desktop-portal-gnome          3MiB |
+# |    0   N/A  N/A            5020      G   ...ess --variations-seed-version        141MiB |
+# |    0   N/A  N/A           17495      G   ...rack-uuid=3190708988185955192         94MiB |
+# |    0   N/A  N/A           24470      G   ...ess --variations-seed-version         20MiB |
+# |    0   N/A  N/A           26060      G   /opt/viber/Viber                          9MiB |
+# |    0   N/A  N/A          153887      G   /usr/bin/nautilus                        10MiB |
+
+# md
+# Tue Feb  3 04:35:07 2026       
+# +-----------------------------------------------------------------------------------------+
+# | NVIDIA-SMI 580.95.05              Driver Version: 580.95.05      CUDA Version: 13.0     |
+# +-----------------------------------------+------------------------+----------------------+
+# | GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+# | Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+# |                                         |                        |               MIG M. |
+# |=========================================+========================+======================|
+# |   0  NVIDIA L4                      On  |   00000000:A1:00.0 Off |                    0 |
+# | N/A   31C    P8             15W /   72W |       3MiB /  23034MiB |      0%      Default |
+# |                                         |                        |                  N/A |
+# +-----------------------------------------+------------------------+----------------------+
+
+# +-----------------------------------------------------------------------------------------+
+# | Processes:                                                                              |
+# |  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+# |        ID   ID                                                               Usage      |
+# |=========================================================================================|
+# |  No running processes found                                                             |
+# +-----------------------------------------------------------------------------------------+

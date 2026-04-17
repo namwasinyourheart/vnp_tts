@@ -1,0 +1,29 @@
+model:
+    architecture: neutts
+    pretrained_model_name_or_path: neuphonic/neutts-air
+    pretrained_processor_name_or_path:
+    adapter_paths: 
+    load_in_4bit: false
+    load_in_8bit: false
+    bnb_4bit_compute_dtype: null
+    bnb_4bit_quant_type: "nf4"
+    bnb_4bit_use_double_quant: false
+    bnb_4bit_quant_storage: "uint8"
+    torch_dtype: bfloat16
+    attn_implementation: #flash_attention_2
+    device_map: auto
+    low_cpu_mem_usage: null
+
+inputs:
+    # text: Đây là giọng nói tổng hợp
+    text: "My name is Andy. I'm 25 and I just moved to London. The underground is pretty confusing, but it gets me around in no time at all."
+    ref_text: Hello, I'm delighted to assist you with our voice services. Choose a voice that resonates with you, and let's begin our creative audio journey together.
+    ref_audio_path: /media/nampv1/hdd/data/VoiceGarden/elevenlabs/13-female-north-young-story-tuyet-trinh-vivi-11s.mp3
+    output_dir: draft
+
+
+generate:
+    seed: 202602
+
+device: 
+    use_cpu: false

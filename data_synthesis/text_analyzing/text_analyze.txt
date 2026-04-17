@@ -1,0 +1,44 @@
+- Chứa từ viết tắt: 
+    + có ., hyphen ngăn cách: TP.HCM, ThS., GS., Dr.; NĐ-CP, TT-BCA, QĐ-TTg
+    + có whitespace ngăn cách: TP HCM
+    + viết hoa: AI, USA, GDP, VN, UBND, SN (sinh năm) (cần phân biệt với chữ việt viết hoa tất, có đủ vần, ví dụ tên người)
+    + viết hoa đầu tiên: Tp.HCM, ThS., GS., Dr.;
+
+
+- Có chứa từ non-vietnamese word, nước ngoài hay không?: foreign word = token không thuộc vocab tiếng việt chuẩn; pattern non-vietnamese
+    Theo CIT, Roman Filippov là Thiếu tá và là cựu phi công Ukraine đã gia nhập quân đội Nga sau khi Nga sáp nhập bán đảo Crimea.
+    + mixed alphanumeric: iphone15, gpt-4, a1, b2b
+        biển số xe: 37A - 1458;
+
+    + not is_vietnamese_word
+
+- Chứa url, email
+- chứa số
+    + số đếm: 2,250, 1.300
+    + 31,5km, 80.000m2
+    + lãi suất 5%/tháng
+    + 8.000 đồng/m2
+    + 308.467.652 đồng
+
+- chứa ngày tháng
+    + 29.1.2018, 22-5-2015, 26/8/2004
+    + tháng 4-2016, 4/2016, 4.2016 (phân biệt với thông tư 64/2017 khi slash)
+
+
+- Chứa danh từ riêng
+    + tên người, tên tổ chức, địa chỉ: Vicem Tower
+    
+
+- Chứa punctuation
+    + ()
+    + ...
+    + Chiếc ô tô BKS 35H- 11...
+
+- chứa ký tự đặc biệt
+    + slash (/): 00.000 đồng/người, ngày 12/2/2018, quyết định số 58/QD-UBND, 221/HĐND-TT
+
+- Đa dạng kiểu câu
+    + câu cảm thán: Những câu đáp trả đanh thép nếu bồ nhí của chồng nói 'Chị NHƯỜNG CHỒNG cho em!'
+    + câu hỏi: 
+    + câu mệnh lệnh: 
+    + câu khẳng định: 

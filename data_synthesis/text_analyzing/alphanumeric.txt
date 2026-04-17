@@ -1,0 +1,23 @@
+Alphanumeric (chữ-số): bao gồm cả chữ cái (A-Z, a-z) và chữ số (0-9). Đôi khi gồm cả dấu câu và ký tự đặc biệt. 
+Ví dụ: user123, P@ssw0rd
+Ứng dụng; mật khẩu, tên tệp/mã định danh: mã sản phẩm, biển số xe, tệp tin
+
+
+Shortcuts: “Ctrl + Z” -> "scontrol z"
+- gemini-tts vertex không đọc được
+- gemini-tts ui aistudio đọc được
+
+Abbreviations for units: “100km” → “one hundred kilometers”
+- số nhà 1ê, ..., đông anh
+
+
+Symbols: “100%” → “one hundred percent”
+- 32.4%, 32,4%
+
+URLs: “elevenlabs.io/docs” → “eleven labs dot io slash docs”
+- quangcao@dantri.com.vn: gemini-tts chưa đọc chuẩn được
+- vietnampost.vn: gemini-tts ui aistudio đọc đươc còn vertex không đọc đc.
+
+-> phát hiện và loại bỏ url, email
+
+Calendar events: “2024-01-01” → “January first, two-thousand twenty-four”

@@ -1,0 +1,2 @@
+ffplay -f s16le -ar 32000 -ch_layout stereo /home/nampv1/projects/tts/vnp_tts/toy_output/25_male
+_north_middle_adv_tvc_nhat_nam_8s_converted.s16le

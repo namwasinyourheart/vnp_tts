@@ -1,0 +1,13 @@
+Cardinal numbers: 123 → “one hundred twenty-three”
+Ordinal numbers: 2nd → “second”
+Monetary values: $45.67 → “forty-five dollars and sixty-seven cents”
+Phone numbers: “123-456-7890” → “one two three, four five six, seven eight nine zero”
+
+
+Decimals & Fractions: “3.5” → “three point five”, “⅔” → “two-thirds”
+- nhiều chỉ số xếp thứ 1,2: 
+
+Roman numerals: “XIV” → “fourteen” (or “the fourteenth” if a title)
+
+Notes:
+- "2/3" đôi khi là datetime, đôi khi là phân số/tỉ lệ

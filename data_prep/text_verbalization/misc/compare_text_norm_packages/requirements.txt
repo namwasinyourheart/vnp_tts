@@ -1,0 +1,6 @@
+soe-vinorm
+viphoneme
+sea-g2p
+nemo_text_processing
+pandas
+tabulate

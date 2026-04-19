@@ -1,0 +1,3 @@
+batch_size
+    ~ concurrent browser limits
+        Concurrent browsers represent how many web pages Firecrawl can process for you at the same time

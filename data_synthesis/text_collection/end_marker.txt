@@ -1,8 +1,0 @@
-### VietnamPost
-Tin liên quan
-
-
-### VnExpress
-r'^#### .+'
-
-https://dantri.com.vn/giao-duc/thu-khoa-bac-si-noi-tru-ke-trai-nghiem-dung-8-tieng-moi-ngay-o-phong-kham-20260410162120422.htm

@@ -1,7 +1,0 @@
-3,151459 -> ba, một trăm năm mươi mốt nghìn bốn trăm năm mươi chín
-tần số 50Hz, 50hz -> tần số 50Hz, năm mươi hẹc
-450 người/m2 -> bốn trăm năm mươi người, mờ hai
-299792km/s -> hai trăm chín mươi chín nghìn bảy trăm chín mươi hai ca mờ, ét
-120km/h -> một trăm hai mươi ca mờ, hát
-0912-345-678 > không chín một hai, ba trăm bốn mươi lăm, sáu trăm bảy mươi tám
-1-5 -> một đến năm

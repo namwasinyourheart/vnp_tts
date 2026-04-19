@@ -1,0 +1,21 @@
+TECHSTACK
+Firerawl
+Postgresql+pgvector
+.Newspaper4k (để clean article, trước khi đưa vào db)
+.Scrapy (discovery, tự động tìm article)
+.Redis (Queue + deduplication)
+.Apache Airflow (orchestation (schedule + monitor): daily DAG: crawl -> parse -> embed -> store -> alert)
+
+
+
+DANTRI.COM.VN
+
+- Theo các chuyên mục (category)
+- Mỗi chuyên mục cho phép hiển thị các article theo date range
+- Các article này được pagination, thành 30 page
+- 30 trang này là số trang được show tối đa cho dù số lượng article trong date range nó nhiều ntn -> cần xác định lại tổng số article
+    cách xác định: quay ngược từ end date, thử các start_date, đến start date nào mà range (start_date, end_date) đó mà cho last_valid_page=30, thì đó là 1 range cho max article num. 
+    tiếp tục tìm khoảng khác bằng cách đổi (start_date, end_date)
+    1 page chứa tối đa 20 article
+    trong date range, số lượng article thường >580, <600
+- Thu thập tất cả url này, lưu và tiến hành crawl

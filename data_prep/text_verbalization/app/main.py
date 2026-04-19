@@ -11,14 +11,18 @@ from pydantic import BaseModel, Field
 
 APP_DIR = Path(__file__).resolve().parent
 TEXT_VERBALIZATION_ROOT = APP_DIR.parent
-NEMO_ROOT = TEXT_VERBALIZATION_ROOT / "NeMo-text-processing"
-CACHE_DIR = Path(os.getenv("NEMO_CACHE_DIR", APP_DIR / ".nemo_cache"))
-CACHE_DIR.mkdir(parents=True, exist_ok=True)
+TENO_ROOT = TEXT_VERBALIZATION_ROOT / "teno"
+TENO_CACHE_DIR = Path(os.getenv("TENO_CACHE_DIR", APP_DIR / ".teno_cache"))
+TENO_CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
-if str(NEMO_ROOT) not in sys.path:
-    sys.path.insert(0, str(NEMO_ROOT))
+if str(TENO_ROOT) not in sys.path:
+    sys.path.insert(0, str(TENO_ROOT))
 
-from nemo_text_processing.text_normalization.normalize import Normalizer  # noqa: E402
+import teno as teno_pkg  # noqa: E402
+
+sys.modules.setdefault("nemo_text_processing", teno_pkg)
+
+from teno.text_normalization.normalize import Normalizer  # noqa: E402
 
 
 class TextVerbalizationRequest(BaseModel):
@@ -42,10 +46,10 @@ class BatchTextVerbalizationResponse(BaseModel):
 @lru_cache(maxsize=8)
 def get_normalizer(lang: str) -> Normalizer:
     return Normalizer(
-        input_case=os.getenv("NEMO_INPUT_CASE", "cased"),
+        input_case=os.getenv("TENO_INPUT_CASE", "cased"),
         lang=lang,
-        cache_dir=str(CACHE_DIR),
-        overwrite_cache=os.getenv("NEMO_OVERWRITE_CACHE", "false").lower() == "true",
+        cache_dir=str(TENO_CACHE_DIR),
+        overwrite_cache=os.getenv("TENO_OVERWRITE_CACHE", "false").lower() == "true",
     )
 
 
@@ -86,4 +90,4 @@ if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=False)
 
 
-# rm -rf /home/nampv1/projects/tts/vnp_tts/data_prep/text_verbalization/app/.nemo_cache
+# rm -rf /home/nampv1/projects/tts/vnp_tts/data_prep/text_verbalization/app/.teno_cache

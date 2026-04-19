@@ -1,0 +1,264 @@
+{
+  "input_dir": "E:\\projects\\vnp_tts\\data_synthesis\\text_collection\\dantri\\extracted_urls",
+  "file_count": 63,
+  "total_urls": 422213,
+  "unique_urls": 422210,
+  "duplicate_urls": 3,
+  "urls_per_file": {
+    "Article-2020-11-01.txt": 7458,
+    "Article-2020-12-01.txt": 8187,
+    "Article-2021-01-01.txt": 7581,
+    "Article-2021-02-01.txt": 6661,
+    "Article-2021-03-01.txt": 8048,
+    "Article-2021-04-01.txt": 7665,
+    "Article-2021-05-01.txt": 8338,
+    "Article-2021-06-01.txt": 8140,
+    "Article-2021-07-01.txt": 8307,
+    "Article-2021-08-01.txt": 8061,
+    "Article-2021-09-01.txt": 7767,
+    "Article-2021-10-01.txt": 7469,
+    "Article-2021-11-01.txt": 7023,
+    "Article-2021-12-01.txt": 7457,
+    "Article-2022-01-01.txt": 6213,
+    "Article-2022-02-01.txt": 5155,
+    "Article-2022-03-01.txt": 6645,
+    "Article-2022-04-01.txt": 6230,
+    "Article-2022-05-01.txt": 6549,
+    "Article-2022-06-01.txt": 5975,
+    "Article-2022-07-01.txt": 6106,
+    "Article-2022-08-01.txt": 6052,
+    "Article-2022-09-01.txt": 5819,
+    "Article-2022-10-01.txt": 6199,
+    "Article-2022-11-01.txt": 6353,
+    "Article-2022-12-01.txt": 6486,
+    "Article-2023-01-01.txt": 5162,
+    "Article-2023-02-01.txt": 5462,
+    "Article-2023-03-01.txt": 6410,
+    "Article-2023-04-01.txt": 6135,
+    "Article-2023-05-01.txt": 6305,
+    "Article-2023-06-01.txt": 6336,
+    "Article-2023-07-01.txt": 6448,
+    "Article-2023-08-01.txt": 6516,
+    "Article-2023-09-01.txt": 6129,
+    "Article-2023-10-01.txt": 6548,
+    "Article-2023-11-01.txt": 6340,
+    "Article-2023-12-01.txt": 6636,
+    "Article-2024-01-01.txt": 6017,
+    "Article-2024-02-01.txt": 4979,
+    "Article-2024-03-01.txt": 6359,
+    "Article-2024-04-01.txt": 6215,
+    "Article-2024-05-01.txt": 6517,
+    "Article-2024-06-01.txt": 5936,
+    "Article-2024-07-01.txt": 6155,
+    "Article-2024-08-01.txt": 6509,
+    "Article-2024-09-01.txt": 6475,
+    "Article-2024-10-01.txt": 6810,
+    "Article-2024-11-01.txt": 6458,
+    "Article-2024-12-01.txt": 6889,
+    "Article-2025-01-01.txt": 5930,
+    "Article-2025-02-01.txt": 5795,
+    "Article-2025-03-01.txt": 6902,
+    "Article-2025-04-01.txt": 6918,
+    "Article-2025-05-01.txt": 7155,
+    "Article-2025-06-01.txt": 7271,
+    "Article-2025-07-01.txt": 7096,
+    "Article-2025-08-01.txt": 7421,
+    "Article-2025-09-01.txt": 7100,
+    "Article-2025-10-01.txt": 7762,
+    "Article-2025-11-01.txt": 7385,
+    "Article-2025-12-01.txt": 7945,
+    "Article-2026-01-01.txt": 5843
+  },
+  "urls_per_sitemap_month": {
+    "Article-2020-11-01": 7458,
+    "Article-2020-12-01": 8187,
+    "Article-2021-01-01": 7581,
+    "Article-2021-02-01": 6661,
+    "Article-2021-03-01": 8048,
+    "Article-2021-04-01": 7665,
+    "Article-2021-05-01": 8338,
+    "Article-2021-06-01": 8140,
+    "Article-2021-07-01": 8307,
+    "Article-2021-08-01": 8061,
+    "Article-2021-09-01": 7767,
+    "Article-2021-10-01": 7469,
+    "Article-2021-11-01": 7023,
+    "Article-2021-12-01": 7457,
+    "Article-2022-01-01": 6213,
+    "Article-2022-02-01": 5155,
+    "Article-2022-03-01": 6645,
+    "Article-2022-04-01": 6230,
+    "Article-2022-05-01": 6549,
+    "Article-2022-06-01": 5975,
+    "Article-2022-07-01": 6106,
+    "Article-2022-08-01": 6052,
+    "Article-2022-09-01": 5819,
+    "Article-2022-10-01": 6199,
+    "Article-2022-11-01": 6353,
+    "Article-2022-12-01": 6486,
+    "Article-2023-01-01": 5162,
+    "Article-2023-02-01": 5462,
+    "Article-2023-03-01": 6410,
+    "Article-2023-04-01": 6135,
+    "Article-2023-05-01": 6305,
+    "Article-2023-06-01": 6336,
+    "Article-2023-07-01": 6448,
+    "Article-2023-08-01": 6516,
+    "Article-2023-09-01": 6129,
+    "Article-2023-10-01": 6548,
+    "Article-2023-11-01": 6340,
+    "Article-2023-12-01": 6636,
+    "Article-2024-01-01": 6017,
+    "Article-2024-02-01": 4979,
+    "Article-2024-03-01": 6359,
+    "Article-2024-04-01": 6215,
+    "Article-2024-05-01": 6517,
+    "Article-2024-06-01": 5936,
+    "Article-2024-07-01": 6155,
+    "Article-2024-08-01": 6509,
+    "Article-2024-09-01": 6475,
+    "Article-2024-10-01": 6810,
+    "Article-2024-11-01": 6458,
+    "Article-2024-12-01": 6889,
+    "Article-2025-01-01": 5930,
+    "Article-2025-02-01": 5795,
+    "Article-2025-03-01": 6902,
+    "Article-2025-04-01": 6918,
+    "Article-2025-05-01": 7155,
+    "Article-2025-06-01": 7271,
+    "Article-2025-07-01": 7096,
+    "Article-2025-08-01": 7421,
+    "Article-2025-09-01": 7100,
+    "Article-2025-10-01": 7762,
+    "Article-2025-11-01": 7385,
+    "Article-2025-12-01": 7945,
+    "Article-2026-01-01": 5843
+  },
+  "category_counts": {
+    "the-gioi": 47149,
+    "tinh-yeu-gioi-tinh": 6776,
+    "van-hoa": 12121,
+    "xa-hoi": 51706,
+    "giao-duc": 22273,
+    "suc-khoe": 26722,
+    "the-thao": 39924,
+    "kinh-doanh": 34275,
+    "lao-dong-viec-lam": 18666,
+    "khoa-hoc": 7108,
+    "phap-luat": 30504,
+    "bat-dong-san": 15692,
+    "o-to-xe-may": 11455,
+    "giai-tri": 24090,
+    "du-lich": 10549,
+    "cong-nghe": 10218,
+    "nhip-song-tre": 5534,
+    "dien-dan": 136,
+    "doi-song": 13175,
+    "ban-doc": 3401,
+    "tam-long-nhan-ai": 5000,
+    "blog": 778,
+    "tong-hop": 14,
+    "su-kien": 1,
+    "nhan-tai-dat-viet": 1,
+    "tet-2022": 232,
+    "tam-diem": 1789,
+    "an-sinh": 2,
+    "dmagazine": 3,
+    "photo-story": 3,
+    "tet-2023": 27,
+    "dnews": 30,
+    "tet-2024": 221,
+    "o-to-xe-may.htm": 1,
+    "suc-khoe.htm": 1,
+    "tet-2025": 14,
+    "thoi-su": 19969,
+    "tet": 138,
+    "noi-vu": 2513,
+    "emagazine": 1,
+    "infographic": 1
+  },
+  "top_files": [
+    {
+      "file": "Article-2021-05-01.txt",
+      "count": 8338
+    },
+    {
+      "file": "Article-2021-07-01.txt",
+      "count": 8307
+    },
+    {
+      "file": "Article-2020-12-01.txt",
+      "count": 8187
+    },
+    {
+      "file": "Article-2021-06-01.txt",
+      "count": 8140
+    },
+    {
+      "file": "Article-2021-08-01.txt",
+      "count": 8061
+    },
+    {
+      "file": "Article-2021-03-01.txt",
+      "count": 8048
+    },
+    {
+      "file": "Article-2025-12-01.txt",
+      "count": 7945
+    },
+    {
+      "file": "Article-2021-09-01.txt",
+      "count": 7767
+    },
+    {
+      "file": "Article-2025-10-01.txt",
+      "count": 7762
+    },
+    {
+      "file": "Article-2021-04-01.txt",
+      "count": 7665
+    }
+  ],
+  "top_categories": [
+    {
+      "category": "xa-hoi",
+      "count": 51706
+    },
+    {
+      "category": "the-gioi",
+      "count": 47149
+    },
+    {
+      "category": "the-thao",
+      "count": 39924
+    },
+    {
+      "category": "kinh-doanh",
+      "count": 34275
+    },
+    {
+      "category": "phap-luat",
+      "count": 30504
+    },
+    {
+      "category": "suc-khoe",
+      "count": 26722
+    },
+    {
+      "category": "giai-tri",
+      "count": 24090
+    },
+    {
+      "category": "giao-duc",
+      "count": 22273
+    },
+    {
+      "category": "thoi-su",
+      "count": 19969
+    },
+    {
+      "category": "lao-dong-viec-lam",
+      "count": 18666
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-dd/mm, mm/yyyy có thể bị nhầm sang tỷ lệ: / (trên)

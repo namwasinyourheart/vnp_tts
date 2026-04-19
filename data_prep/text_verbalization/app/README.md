@@ -1,6 +1,6 @@
 # Text Verbalization API
 
-FastAPI service for Vietnamese text normalization (text verbalization), backed by NeMo text normalization rules in this repo.
+FastAPI service for Vietnamese text normalization (text verbalization), backed by teno text normalization rules in this repo.
 
 ## Workdir
 
@@ -72,6 +72,6 @@ Response:
 
 ## Optional env vars
 
-- `NEMO_CACHE_DIR`: custom cache directory (default: `./.nemo_cache`)
-- `NEMO_INPUT_CASE`: `cased` (default) or other supported mode
-- `NEMO_OVERWRITE_CACHE`: `true`/`false` (default: `false`)
+- `TENO_CACHE_DIR`: custom cache directory (default: `./.teno_cache`)
+- `TENO_INPUT_CASE`: `cased` (default) or other supported mode
+- `TENO_OVERWRITE_CACHE`: `true`/`false` (default: `false`)
